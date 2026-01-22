@@ -1,0 +1,9 @@
+Title: An Evaluation Framework for Plagiarism Detection
+
+Source: openalex
+Authors: Martin Potthast, Benno Stein, Alberto Barrón‐Cedeño, Paolo Rosso
+Year: 2010
+URL: N/A
+
+Abstract:
+We present an evaluation framework for plagiarism detection. 1 The framework provides performance measures that address the specifics of plagiarism detection, and the PAN-PC-10 corpus, which contains 64 558 artificial and 4 000 simulated plagiarism cases, the latter generated via Amazon’s Mechanical Turk. We discuss the construction principles behind the measures and the corpus, and we compare the quality of our corpus to existing corpora. Our analysis gives empirical evidence that the construction of tailored training corpora for plagiarism detection can be automated, and hence be done on a large scale. 1

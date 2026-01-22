@@ -1,0 +1,9 @@
+Title: Open data, flawed data, and science
+
+Source: crossref
+Authors: Gavin Baker
+Year: 2025
+URL: https://doi.org/10.63485/cwt8s-85q52
+
+Abstract:
+Peter Murray-Rust, Data-driven science and repositories: consideration of errors, petermr’s blog, June 24, 2008.

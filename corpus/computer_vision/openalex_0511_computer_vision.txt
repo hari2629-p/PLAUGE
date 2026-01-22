@@ -1,0 +1,19 @@
+Title: Computer Vision
+
+Source: openalex
+Authors: George Stockman, Linda G. Shapiro
+Year: 2001
+URL: N/A
+
+Abstract:
+From the Publisher:
+Computer Vision presents the necessary theory and techniques for students and practitioners who will work in fields where significant information must be extracted automatically from images. It will be a useful resource automatically from images. It will be a useful resource book for professionals and a core text for both undergraduate and beginning graduate computer vision and imaging courses.
+
+Features
+
+
+Topics include image databases an virtual and augmented reality in addition to classical topics.
+Offers a complete view of two real-world systems that use computer vision.
+Contains applications from industry, medicine, land use, multimedia, and computer graphics.
+Includes over 250 exercises and programming projects, 48 separately defined algorithms, and 360 figures.
+The companion website features include image archive, sample

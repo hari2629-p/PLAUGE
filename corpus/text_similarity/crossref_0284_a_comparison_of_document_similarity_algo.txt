@@ -1,0 +1,9 @@
+Title: A Comparison of Document Similarity Algorithms
+
+Source: crossref
+Authors: Nicholas Gahman, Vinayak Elangovan
+Year: 2023
+URL: https://doi.org/10.5121/ijaia.2023.14204
+
+Abstract:
+Document similarity is an important part of Natural Language Processing and is most commonly used forplagiarism-detection and text summarization. Thus, finding the overall most effective document similarity algorithm could have a major positive impact on the field of Natural Language Processing. This report setsout to examine the numerous document similarity algorithms, and determine which ones are the mostuseful. It addresses the most effective document similarity algorithm by categorizing them into 3 types ofdocument similarity algorithms: statistical algorithms, neural networks, and corpus/knowledge-basedalgorithms. The most effective algorithms in each category are also compared in our work using a series of benchmark datasets and evaluations that test every possible area that each algorithm could be used in.

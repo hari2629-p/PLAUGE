@@ -1,0 +1,9 @@
+Title: Torturing Data
+
+Source: crossref
+Authors: Gary Smith, Jay Cordes
+Year: 2019
+URL: https://doi.org/10.1093/oso/9780198844396.003.0006
+
+Abstract:
+Researchers seeking fame and funding may be tempted to go on fishing expeditions (p-hacking) or to torture the data to find novel, provocative results that will be picked up by the popular media. Provocative findings are provocative because they are novel and unexpected, and they are often novel and unexpected because they are simply not true. The publication effect (or the file drawer effect) keeps the failures hidden and have created a replication crisis. Research that gets reported in the popular media is often wrong—which fools people and undermines the credibility of scientific research.

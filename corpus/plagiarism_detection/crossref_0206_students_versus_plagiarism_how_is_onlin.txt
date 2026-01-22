@@ -1,0 +1,9 @@
+Title: Students Versus Plagiarism: How is Online Plagiarism Detection Service Perceived?
+
+Source: crossref
+Authors: Muhammad Affan Ramadhana
+Year: 2019
+URL: https://doi.org/10.30605/25409190.v3.02.89-102
+
+Abstract:
+The development of information and communication technology plays a considerable role for students in writing their theses. The positive side, it will help the students to find countless number of academic sources ranging from journal articles to complete theses written by other scholars. On the other hand, it will also create a chance for the students to commit plagiarism easier. Unoriginal writing and plagiarism in this digital era can be detected in the digital way by using plagiarism detection software. This paper elaborates how students understand the concept of plagiarism, how they avoid plagiarism, and how they perceive online plagiarism detection service. The data was taken from interviews to MA students during their period of thesis writing. This paper concludes several important outlines to be learning guidelines for the students in improving their academic writing.

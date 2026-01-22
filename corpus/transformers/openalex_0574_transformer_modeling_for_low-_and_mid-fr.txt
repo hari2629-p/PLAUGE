@@ -1,0 +1,9 @@
+Title: Transformer Modeling for Low- and Mid-Frequency Transients—A Review
+
+Source: openalex
+Authors: J.A. Martínez, Bruce A. Mork
+Year: 2005
+URL: https://doi.org/10.1109/tpwrd.2004.833884
+
+Abstract:
+One of the weakest components of modern transient simulation software is the transformer model. Many opportunities exist to improve the simulation of its complicated behaviors, which include magnetic saturation of the core, frequency-dependency, capacitive coupling, and topologically correctness of core and coil structure. This paper presents a review of transformer models for simulation of low- and mid-frequency transients. Salient points of key references are presented and discussed in order to give an accessible overview of development, implementation and limitations of the most useful models proposed to date. Techniques for representation of the most important behaviors are examined, with the intent of providing the needed foundation for continued development and improvement of transformer models. © 2005 IEEE.

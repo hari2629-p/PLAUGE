@@ -1,0 +1,10 @@
+Title: The Impact of Artificial Intelligence on Social Equity
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0007
+
+Abstract:
+Who’s going to benefit from this technological revolution?
+               Unfortunately, AI is accelerating the substitution of capital for labor, and so those with capital will benefit at the expense of those whose primary asset is their ability to work. Income inequality is already a pressing...

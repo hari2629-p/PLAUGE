@@ -1,0 +1,9 @@
+Title: Public Policymaking for International Agricultural Trade using Association Rules and Ensemble Machine Learning
+
+Source: arxiv
+Authors: Feras A. Batarseh, Munisamy Gopinath, Anderson Monken, Zhengrong Gu
+Year: 2021
+URL: N/A
+
+Abstract:
+International economics has a long history of improving our understanding of factors causing trade, and the consequences of free flow of goods and services across countries. The recent shocks to the free trade regime, especially trade disputes among major economies, as well as black swan events, such as trade wars and pandemics, raise the need for improved predictions to inform policy decisions. AI methods are allowing economists to solve such prediction problems in new ways. In this manuscript, we present novel methods that predict and associate food and agricultural commodities traded internationally. Association Rules (AR) analysis has been deployed successfully for economic scenarios at the consumer or store level, such as for market basket analysis. In our work however, we present analysis of imports and exports associations and their effects on commodity trade flows. Moreover, Ensemble Machine Learning methods are developed to provide improved agricultural trade predictions, outlier events' implications, and quantitative pointers to policy makers.

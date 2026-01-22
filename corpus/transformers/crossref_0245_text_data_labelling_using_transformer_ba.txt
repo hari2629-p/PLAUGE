@@ -1,0 +1,9 @@
+Title: Text Data Labelling using Transformer based Sentence Embeddings and Text Similarity for Text Classification
+
+Source: crossref
+Authors: Amiya Amitabh Chakrabarty
+Year: 2022
+URL: https://doi.org/10.5121/ijnlc.2022.11201
+
+Abstract:
+This paper demonstrates that a lot of time, cost, and complexities can be saved and avoided that would otherwise be used to label the text data for classification purposes. The AI world realizes the importance of labelled data and its use for various NLP applications.  Here, we have labelled and categorized close to 6,000 unlabelled samples into five distinct classes. This labelled dataset was further used for multi-class text classification.  Data labelling task using transformer-based sentence embeddings and applying cosine-based text similarity threshold saved close to 20-30 days of human efforts and multiple human validations with 98.4% of classes correctly labelled as per business validation. Text classification results obtained using this AI labelled data fetched accuracy score and F1 score of 90%.

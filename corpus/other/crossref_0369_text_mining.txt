@@ -1,0 +1,9 @@
+Title: Text Mining
+
+Source: crossref
+Authors: Unknown
+Year: 2022
+URL: https://doi.org/10.1093/obo/9780199772810-0295
+
+Abstract:
+Text data mining, or simply text mining, encompasses tasks that typically analyze vast amounts of digitized text to detect patterns of use and then extract useful information in the search for knowledge; thus, it is one way of achieving artificial intelligence. In other words, text mining is the process of extracting value from text data. Text mining is grounded on data mining, so both fields of data science share many similarities, e.g., in the use of machine learning algorithms. However, data mining usually deals with structured data sets containing numerical data, whereas text mining aims to process unstructured or semi-structured data mainly in the form of text documents. For this reason, pre-processing techniques in text mining focus on identifying and extracting significant features from text data. Moreover, text mining benefits from the advances in natural language processing, particularly when transforming unstructured text into structured data suitable for analysis. With the exponential growth of data in the Internet era, text mining has attracted much attention as part of efforts to reduce the problem of information overload. Indeed, Web mining, which aims to discover and analyze relevant information from heterogeneous data on the Web as in the case of user-generated content from social media, requires significant advances in text mining technologies within a data fusion framework. This article is organized into two main topics: machine learning models and algorithms, which aim to discover knowledge from new data, and text-mining applications, which illustrate various tasks that can extract information from texts.

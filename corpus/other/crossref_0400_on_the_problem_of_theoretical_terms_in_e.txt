@@ -1,0 +1,9 @@
+Title: On the Problem of Theoretical Terms in Empirical Computational Linguistics
+
+Source: crossref
+Authors: Stefan Riezler
+Year: 2014
+URL: https://doi.org/10.1162/coli_a_00182
+
+Abstract:
+ Philosophy of science has pointed out a problem of theoretical terms in empirical sciences. This problem arises if all known measuring procedures for a quantity of a theory presuppose the validity of this very theory, because then statements containing theoretical terms are circular. We argue that a similar circularity can happen in empirical computational linguistics, especially in cases where data are manually annotated by experts. We define a criterion of T-non-theoretical grounding as guidance to avoid such circularities, and exemplify how this criterion can be met by crowdsourcing, by task-related data annotation, or by data in the wild. We argue that this criterion should be considered as a necessary condition for an empirical science, in addition to measures for reliability of data annotation. 

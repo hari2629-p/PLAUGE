@@ -1,0 +1,9 @@
+Title: Natural language processing (NLP) in management research: A literature review
+
+Source: openalex
+Authors: Yue Kang, Zhao Cai, Chee‐Wee Tan, Qian Huang, Hefu Liu
+Year: 2020
+URL: https://doi.org/10.1080/23270012.2020.1756939
+
+Abstract:
+Natural language processing (NLP) is gaining momentum in management research for its ability to automatically analyze and comprehend human language. Yet, despite its extensive application in management research, there is neither a comprehensive review of extant literature on such applications, nor is there a detailed walkthrough on how it can be employed as an analytical technique. To this end, we review articles in the UT Dallas List of 24 Leading Business Journals that employ NLP as their focal analytical technique to elucidate how textual data can be harnessed for advancing management theories across multiple disciplines. We describe the available toolkits and procedural steps for employing NLP as an analytical technique as well as its advantages and disadvantages. In so doing, we highlight the managerial and technological challenges associated with the application of NLP in management research in order to guide future inquires.

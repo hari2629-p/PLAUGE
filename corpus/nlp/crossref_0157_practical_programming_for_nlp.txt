@@ -1,0 +1,9 @@
+Title: Practical Programming for NLP
+
+Source: crossref
+Authors: Patrick Jeuniaux, Andrew Olney, Sidney D’Mello
+Year: 2012
+URL: https://doi.org/10.4018/978-1-60960-741-8.ch008
+
+Abstract:
+This chapter is aimed at students and researchers who are eager to learn about practical programmatic solutions to natural language processing (NLP) problems. In addition to introducing the readers to programming basics, programming tools, and complete programs, we also hope to pique their interest to actively explore the broad and fascinating field of automatic natural language processing. Part I introduces programming basics and the Python programming language. Part II takes a step by step approach in illustrating the development of a program to solve a NLP problem. Part III provides some hints to help readers initiate their own NLP programming projects.

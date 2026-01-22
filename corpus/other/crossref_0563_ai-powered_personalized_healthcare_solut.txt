@@ -1,0 +1,9 @@
+Title: AI-Powered Personalized Healthcare Solutions for Skin Disease Detection Using Hybrid Transformer Models
+
+Source: crossref
+Authors: R. Karthick Manoj, Aasha Nandhini S.
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3373-2038-0.ch011
+
+Abstract:
+A major worldwide health concern is skin disorders; successful treatment depends on early, precise diagnosis. This work guarantees privacy-preserving diagnostics by proposing a hybrid transformer-based method for automated skin disease categorization using just picture data, therefore removing the requirement for patient metadata. Combining the global context modeling of vision transformers with the local feature extraction powers of convolutional neural networks (CNNs), the model generates a strong architecture able to manage challenging dermatological patterns. With outstanding classification accuracy of 94.1% and a macro-averaged F1-score of 92.6%, the hybrid transformer exceeded both ViT and Swin transformer baselines trained and assessed on various, high-resolution skin lesion pictures. Strong model interpretability of gradient-based representations helps to match prediction attention with clinically significant lesion aspects. The image-only architecture of the technology guarantees general application and qualifies for mobile health solutions and teledermatology.

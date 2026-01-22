@@ -1,0 +1,21 @@
+Title: Supervised Semantic Similarity
+
+Source: crossref
+Authors: Rita T. Sousa, Sara Silva, Catia Pesquita
+Year: 2021
+URL: https://doi.org/10.1101/2021.02.16.431402
+
+Abstract:
+Abstract
+                
+                  Background
+                  Semantic similarity between concepts in knowledge graphs is essential for several bioinformatics applications, including the prediction of protein-protein interactions and the discovery of associations between diseases and genes. Although knowledge graphs describe entities in terms of several perspectives (or semantic aspects), state-of-the-art semantic similarity measures are general-purpose. This can represent a challenge since different use cases for the application of semantic similarity may need different similarity perspectives and ultimately depend on expert knowledge for manual fine-tuning.
+                
+                
+                  Results
+                  We present a new approach that uses supervised machine learning to tailor aspect-oriented semantic similarity measures to fit a particular view on biological similarity or relatedness. We implement and evaluate it using different combinations of representative semantic similarity measures and machine learning methods with four biological similarity views: protein-protein interaction, protein function similarity, protein sequence similarity and phenotype-based gene similarity.
+                
+                
+                  Conclusions
+                  The results demonstrate that our approach outperforms non-supervised methods, producing semantic similarity models that fit different biological perspectives significantly better than the commonly used manual combinations of semantic aspects.
+                

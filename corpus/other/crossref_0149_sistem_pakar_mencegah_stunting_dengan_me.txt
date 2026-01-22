@@ -1,0 +1,9 @@
+Title: Sistem Pakar Mencegah Stunting dengan Menentukan Gizi Anak Menggunakan Natural Language Processing (NLP)
+
+Source: crossref
+Authors: Muhammad Yusuf, Indah Purnama Sari, Virda Kristy
+Year: 2025
+URL: https://doi.org/10.35870/jtik.v9i3.3614
+
+Abstract:
+Stunting is a health issue caused by malnutrition that hampers child development. This study aims to develop an expert system based on Natural Language Processing (NLP) to provide nutritional information that is interactive, accurate, and easily accessible through a web platform. The system employs a forward chaining inference method, an approach that starts from initial facts to reach solutions based on logical rules. The strength of the NLP algorithm lies in its ability to understand user queries based on context, resulting in relevant and responsive solutions. The testing results indicate a system accuracy rate of 0.9756 or 97%, achieved through evaluations using a dataset of user queries under various test scenarios. This accuracy demonstrates the system's potential to assist parents in understanding their children's nutritional needs in real-time. Features such as interactive consultations and high accessibility make this system a practical and innovative solution for stunting prevention.

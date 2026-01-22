@@ -1,0 +1,9 @@
+Title: Discrepancy Modeling with Physics Informed Machine Learning
+
+Source: crossref
+Authors: Steven L. Brunton
+Year: 2023
+URL: https://doi.org/10.52843/cassyni.ftzlk9
+
+Abstract:
+This video describes how to combine machine learning with classical physics models to correct for discrepancies in the data (e.g., from nonlinear friction, wind resistance, etc.). Several examples are covered, from modern robotics, to classical connections with Galileo v. Aristotle, and Kepler v. Ptolemy. The examples in this video highlight work and discussions with Prof. Nathan Kutz, especially connections to classical scientific discoveries.

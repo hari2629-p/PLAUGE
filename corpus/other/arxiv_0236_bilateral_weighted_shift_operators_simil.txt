@@ -1,0 +1,9 @@
+Title: Bilateral weighted shift operators similar to normal operators
+
+Source: arxiv
+Authors: György Pál Gehér
+Year: 2015
+URL: N/A
+
+Abstract:
+We prove that an injective, not necessarily bounded weighted bilateral shift operator on $\ell^2(\mathbb{Z})$ is similar to a normal operator if and only if it is similar to a scalar multiple of the simple (i.e. unweighted) bilateral shift operator $S$.

@@ -1,0 +1,9 @@
+Title: Superintelligent Deep Learning Artificial Neural Networks
+
+Source: crossref
+Authors: Jamilu Adamu
+Year: 2019
+URL: https://doi.org/10.20944/preprints201912.0263.v1
+
+Abstract:
+Activation Functions are crucial parts of the Deep Learning Artificial Neural Networks. From the Biological point of view, a neuron is just a node with many inputs and one output. A neural network consists of many interconnected neurons. It is a &amp;ldquo;simple&amp;rdquo; device that receives data at the input and provides a response. The function of neurons is to process and transmit information; the neuron is the basic unit in the nervous system. Carly Vandergriendt (2018) stated the human brain at birth consists of an estimated 100 billion Neurons. The ability of a machine to mimic human intelligence is called Machine Learning. Deep Learning Artificial Neural Networks was designed to work like a human brain with the aid of arbitrary choice of Non-linear Activation Functions. Currently, there is no rule of thumb on the choice of Activation Functions, &amp;ldquo;Try out different things and see what combinations lead to the best performance&amp;rdquo;, however, sincerely; the choice of Activation Functions should not be Trial and error. Jamilu (2019) proposed that Activation Functions shall be emanated from AI-ML-Purified Data Set and its choice shall satisfy Jameel&amp;rsquo;s ANNAF Stochastic and or Deterministic Criterion. The objectives of this paper are to propose instances where Deep Learning Artificial Neural Networks are SUPERINTELLIGENT. Using Jameel&amp;rsquo;s ANNAF Stochastic and or Deterministic Criterion, the paper proposed four classes where Deep Learning Artificial Neural Networks are Superintelligent namely; Stochastic Superintelligent, Deterministic Superintelligent, and Stochastic-Deterministic 1st and 2nd Levels Superintelligence. Also, a Normal Probabilistic-Deterministic case was proposed.

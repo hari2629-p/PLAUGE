@@ -1,0 +1,10 @@
+Title: Multiagent Systems : A Modern Approach to Distributed Artificial Intelligence
+
+Source: openalex
+Authors: Gerhard Weiß
+Year: 2000
+URL: N/A
+
+Abstract:
+From the Publisher:
+This is the first comprehensive introduction to multiagent systems and contemporary distributed artificial intelligence. The book provides detailed coverage of basic topics as well as several closely related ones and is suitable as a textbook. The book can be used for teaching as well as self-study, and it is designed to meet the needs of both researchers and practitioners. In view of the interdisciplinary nature of the field, it will be a useful reference not only for computer scientists and engineers, but for social scientists and management and organization scientists as well.

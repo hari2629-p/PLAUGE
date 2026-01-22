@@ -1,0 +1,9 @@
+Title: Reinforcement learning
+
+Source: crossref
+Authors: Thomas P. Trappenberg
+Year: 2019
+URL: https://doi.org/10.1093/oso/9780198828044.003.0010
+
+Abstract:
+The discussion here considers a much more common learning condition where an agent, such as a human or a robot, has to learn to make decisions in the environment from simple feedback. Such feedback is provided only after periods of actions in the form of reward or punishment without detailing which of the actions has contributed to the outcome. This type of learning scenario is called reinforcement learning. This learning problem is formalized in a Markov decision-making process with a variety of related algorithms. The second part of this chapter will use function approximators with neural networks which have made recent progress as deep reinforcement learning.

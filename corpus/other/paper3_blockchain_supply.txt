@@ -1,0 +1,13 @@
+Blockchain Technology in Supply Chain Management
+
+Abstract: Blockchain technology offers unprecedented transparency and traceability in 
+supply chain operations. This paper examines how distributed ledger systems can address 
+challenges in product authenticity verification, inventory management, and transaction 
+efficiency. Smart contracts enable automated execution of agreements between parties, 
+reducing intermediary costs and processing time. Case studies from food industry, 
+pharmaceuticals, and luxury goods demonstrate successful blockchain implementations. 
+The immutable nature of blockchain records ensures data integrity and reduces fraud. 
+However, scalability limitations and energy consumption remain significant concerns. 
+Integration with Internet of Things devices enables real-time tracking of goods throughout 
+the supply chain. The paper proposes a framework for blockchain adoption and discusses 
+regulatory considerations for cross-border transactions.

@@ -1,0 +1,9 @@
+Title: Comparative Analysis of N-gram Text Representation on Igbo Text Document Similarity
+
+Source: arxiv
+Authors: Nkechi Ifeanyi-Reuben, Chidiebere Ugwu, Nwachukwu E. O
+Year: 2020
+URL: N/A
+
+Abstract:
+The improvement in Information Technology has encouraged the use of Igbo in the creation of text such as resources and news articles online. Text similarity is of great importance in any text-based applications. This paper presents a comparative analysis of n-gram text representation on Igbo text document similarity. It adopted Euclidean similarity measure to determine the similarities between Igbo text documents represented with two word-based n-gram text representation (unigram and bigram) models. The evaluation of the similarity measure is based on the adopted text representation models. The model is designed with Object-Oriented Methodology and implemented with Python programming language with tools from Natural Language Toolkits (NLTK). The result shows that unigram represented text has highest distance values whereas bigram has the lowest corresponding distance values. The lower the distance value, the more similar the two documents and better the quality of the model when used for a task that requires similarity measure. The similarity of two documents increases as the distance value moves down to zero (0). Ideally, the result analyzed revealed that Igbo text document similarity measured on bigram represented text gives accurate similarity result. This will give better, effective and accurate result when used for tasks such as text classification, clustering and ranking on Igbo text.

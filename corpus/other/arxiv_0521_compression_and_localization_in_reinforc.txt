@@ -1,0 +1,9 @@
+Title: Compression and Localization in Reinforcement Learning for ATARI Games
+
+Source: arxiv
+Authors: Joel Ruben Antony Moniz, Barun Patra, Sarthak Garg
+Year: 2019
+URL: N/A
+
+Abstract:
+Deep neural networks have become commonplace in the domain of reinforcement learning, but are often expensive in terms of the number of parameters needed. While compressing deep neural networks has of late assumed great importance to overcome this drawback, little work has been done to address this problem in the context of reinforcement learning agents. This work aims at making first steps towards model compression in an RL agent. In particular, we compress networks to drastically reduce the number of parameters in them (to sizes less than 3% of their original size), further facilitated by applying a global max pool after the final convolution layer, and propose using Actor-Mimic in the context of compression. Finally, we show that this global max-pool allows for weakly supervised object localization, improving the ability to identify the agent's points of focus.

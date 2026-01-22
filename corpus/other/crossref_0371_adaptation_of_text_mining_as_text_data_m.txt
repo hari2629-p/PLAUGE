@@ -1,0 +1,9 @@
+Title: Adaptation of Text Mining as Text Data Mining, Similar to Text Analytics for the Process of Driving High-Quality Information from Text
+
+Source: crossref
+Authors: Siddth Kumar Chhajer, Rudra Bhanu Satpathy
+Year: 2022
+URL: https://doi.org/10.36647/ttidmkd/01.01.a001
+
+Abstract:
+This research study describes the text mining adaptation of the business organization. In the present time, text mining helps the business organization to analyze the vast text document and extract valuable data from this text. This study has adopted the secondary qualitative data collection methods and from this secondary data, this study has conducted the thematic analysis to find the authentic result. This text mining process has used several types of tools and technologies that can help to increase the capacity of the organization. The business organization can get several benefits from this text mining process.  Keyword : Text mining, Text analytics, automated process

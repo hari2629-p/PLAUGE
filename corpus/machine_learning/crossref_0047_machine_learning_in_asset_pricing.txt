@@ -1,0 +1,9 @@
+Title: Machine Learning in Asset Pricing
+
+Source: crossref
+Authors: Stefan Nagel
+Year: 2021
+URL: https://doi.org/10.23943/princeton/9780691218700.001.0001
+
+Abstract:
+Investors in financial markets are faced with an abundance of potentially value-relevant information from a wide variety of different sources. In such data-rich, high-dimensional environments, techniques from the rapidly advancing field of machine learning (ML) are well-suited for solving prediction problems. Accordingly, ML methods are quickly becoming part of the toolkit in asset pricing research and quantitative investing. This book examines the promises and challenges of ML applications in asset pricing. Asset pricing problems are substantially different from the settings for which ML tools were developed originally. To realize the potential of ML methods, they must be adapted for the specific conditions in asset pricing applications. Economic considerations, such as portfolio optimization, absence of near arbitrage, and investor learning can guide the selection and modification of ML tools. Beginning with a brief survey of basic supervised ML methods, the book discusses the application of these techniques in empirical research in asset pricing and shows how they promise to advance the theoretical modeling of financial markets. The book presents the exciting possibilities of using cutting-edge methods in research on financial asset valuation.

@@ -1,0 +1,9 @@
+Title: Informing interlibrary networking and document supply in the English National Health Service: a comparison of models from five countries and a Caribbean network
+
+Source: crossref
+Authors: Pam White, Cheryl Twomey
+Year: 2006
+URL: https://doi.org/10.1108/02641610610669787
+
+Abstract:
+PurposeTo identify the issues associated with the introduction of desk top document supply to workers in the UK National Health Service (NHS).Design/methodology/approachThis paper assesses network models from five countries: Australia, the USA, Italy, Iceland, and Canada, and BIREME, a Latin American and Caribbean network. Factors considered will include library types involved, organizational structure of library systems, length of system implementation, formats of documents involved, and efficiency of the system. Funding and pricing structures, where information is available, are described.FindingsComplementary collections are necessary for the widest, most cost‐effective access to information. Access to electronic resources does not alleviate the need for remote document supply. Automation of library systems should improve the user experience, but does not necessarily replace the need for the involvement of library services and staff. Using software that conforms to the ISO ILL protocol and other industry standards such as Z39.50 allows for coordination of and improved efficiency of remote document supply (RDS) processes. Centralization of RDS does not guarantee an efficient service for users.Originality/valueProvides insights into current thinking in the NHS for delivering material electronically directly to end users.

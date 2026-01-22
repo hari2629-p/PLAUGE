@@ -1,0 +1,9 @@
+Title: Computer-based plagiarism detection methods and tools
+
+Source: openalex
+Authors: Romans Lukashenko, Vita Graudiņa, Jānis Grundspeņķis
+Year: 2007
+URL: https://doi.org/10.1145/1330598.1330642
+
+Abstract:
+The paper is dedicated to plagiarism problem. The ways how to reduce plagiarism: both: plagiarism prevention and plagiarism detection are discussed. Widely used plagiarism detection methods are described. The most known plagiarism detection tools are analysed.

@@ -1,0 +1,9 @@
+Title: Software Documents: Comparison and Measurement.
+
+Source: openalex
+Authors: Tom Arbuckle, Adam Balaban, Dennis Peters, Mark Lawford
+Year: 2007
+URL: N/A
+
+Abstract:
+A model of a stationary electrical potential on biomembrane was created. This model takes into account conformational changes in transport ATPase. N positive ions are transported simultaneously by the system of active transport. The model allows one to determine independently ion concentrations inside the cell and membrane electrical potential. It is shown that, to obtain the electrical potential, it is necessary to take into account organic negative intracellular ions. The effect of positive ions that are not transported by active transport systems on the potential value is discussed. The results obtained are in a good agreement with experimental data for various cells.

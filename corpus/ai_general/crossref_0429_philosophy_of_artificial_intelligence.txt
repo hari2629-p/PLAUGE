@@ -1,0 +1,10 @@
+Title: Philosophy of Artificial Intelligence
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0004
+
+Abstract:
+What is the philosophy of AI?
+               You might wonder why a field like AI seems to attract so much controversy. After all, other engineering disciplines—such as civil, mechanical, or electrical engineering—aren’t typically the target of vociferous criticism from various branches of the humanities. Largely,...

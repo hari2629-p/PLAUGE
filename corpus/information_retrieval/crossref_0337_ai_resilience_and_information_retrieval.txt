@@ -1,0 +1,9 @@
+Title: AI Resilience and Information Retrieval
+
+Source: crossref
+Authors: Paul Kantor
+Year: 2026
+URL: https://doi.org/10.54195/irrj.25004
+
+Abstract:
+IR provides multiple versions and sources to confirm an assertion. AI provides (essentially statistical) compilation and weighting of all those inputs. And generates a coherent and syntactically appropriate statement. What could go wrong?

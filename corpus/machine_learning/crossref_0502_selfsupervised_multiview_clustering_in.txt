@@ -1,0 +1,10 @@
+Title: Self‐supervised multi‐view clustering in computer vision: A survey
+
+Source: crossref
+Authors: Jiatai Wang, Zhiwei Xu, Xuewen Yang, Hailong Li, Bo Li
+Year: 2024
+URL: https://doi.org/10.1049/cvi2.12299
+
+Abstract:
+Abstract
+                  In recent years, multi‐view clustering (MVC) has had significant implications in the fields of cross‐modal representation learning and data‐driven decision‐making. Its main objective is to cluster samples into distinct groups by leveraging consistency and complementary information among multiple views. However, the field of computer vision has witnessed the evolution of contrastive learning, and self‐supervised learning has made substantial research progress. Consequently, self‐supervised learning is progressively becoming dominant in MVC methods. It involves designing proxy tasks to extract supervisory information from image and video data, thereby guiding the clustering process. Despite the rapid development of self‐supervised MVC, there is currently no comprehensive survey analysing and summarising the current state of research progress. Hence, the authors aim to explore the emergence of self‐supervised MVC by discussing the reasons and advantages behind it. Additionally, the internal connections and classifications of common datasets, data issues, representation learning methods, and self‐supervised learning methods are investigated. The authors not only introduce the mechanisms for each category of methods, but also provide illustrative examples of their applications. Finally, some open problems are identified for further investigation and development.

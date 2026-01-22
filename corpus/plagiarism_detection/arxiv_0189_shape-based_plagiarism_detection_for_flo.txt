@@ -1,0 +1,9 @@
+Title: Shape-Based Plagiarism Detection for Flowchart Figures in Texts
+
+Source: arxiv
+Authors: Senosy Arrish, Fadhil Noer Afif, Ahmadu Maidorawa, Naomie Salim
+Year: 2014
+URL: N/A
+
+Abstract:
+Plagiarism detection is well known phenomenon in the academic arena. Copying other people is considered as serious offence that needs to be checked. There are many plagiarism detection systems such as turn-it-in that has been developed to provide this checks. Most, if not all, discard the figures and charts before checking for plagiarism. Discarding the figures and charts results in look holes that people can take advantage. That means people can plagiarized figures and charts easily without the current plagiarism systems detecting it. There are very few papers which talks about flowcharts plagiarism detection. Therefore, there is a need to develop a system that will detect plagiarism in figures and charts. This paper presents a method for detecting flow chart figure plagiarism based on shape-based image processing and multimedia retrieval. The method managed to retrieve flowcharts with ranked similarity according to different matching sets.

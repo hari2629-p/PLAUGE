@@ -1,0 +1,9 @@
+Title: An Overview of Video Information Retrieval Techniques
+
+Source: crossref
+Authors: Sagarmay Deb, Yanchun Zhang
+Year: 2011
+URL: https://doi.org/10.4018/978-1-59140-571-9.ch012
+
+Abstract:
+Video information retrieval is currently a very important topic of research in the area of multimedia databases. Plenty of research work has been undertaken in the past decade to design efficient video information retrieval techniques from the video or multimedia databases. Although a large number of indexing and retrieval techniques have been developed, there are still no universally accepted feature extraction, indexing, and retrieval techniques available. In this chapter, we present an up-to-date overview of various video information retrieval systems. Since the volume of literature available in the field is enormous, only selected works are mentioned.

@@ -1,0 +1,9 @@
+Title: Exploring term-document matrices from matrix models in text mining
+
+Source: arxiv
+Authors: Ioannis Antonellis, Efstratios Gallopoulos
+Year: 2006
+URL: N/A
+
+Abstract:
+We explore a matrix-space model, that is a natural extension to the vector space model for Information Retrieval. Each document can be represented by a matrix that is based on document extracts (e.g. sentences, paragraphs, sections). We focus on the performance of this model for the specific case in which documents are originally represented as term-by-sentence matrices. We use the singular value decomposition to approximate the term-by-sentence matrices and assemble these results to form the pseudo-``term-document'' matrix that forms the basis of a text mining method alternative to traditional VSM and LSI. We investigate the singular values of this matrix and provide experimental evidence suggesting that the method can be particularly effective in terms of accuracy for text collections with multi-topic documents, such as web pages with news.

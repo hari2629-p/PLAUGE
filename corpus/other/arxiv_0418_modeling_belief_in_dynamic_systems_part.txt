@@ -1,0 +1,9 @@
+Title: Modeling Belief in Dynamic Systems, Part II: Revision and Update
+
+Source: arxiv
+Authors: N Friedman, J. Y. Halpern
+Year: 1999
+URL: N/A
+
+Abstract:
+The study of belief change has been an active area in philosophy and AI. In recent years two special cases of belief change, belief revision and belief update, have been studied in detail. In a companion paper (Friedman & Halpern, 1997), we introduce a new framework to model belief change. This framework combines temporal and epistemic modalities with a notion of plausibility, allowing us to examine the change of beliefs over time. In this paper, we show how belief revision and belief update can be captured in our framework. This allows us to compare the assumptions made by each method, and to better understand the principles underlying them. In particular, it shows that Katsuno and Mendelzon's notion of belief update (Katsuno & Mendelzon, 1991a) depends on several strong assumptions that may limit its applicability in artificial intelligence. Finally, our analysis allow us to identify a notion of minimal change that underlies a broad range of belief change operations including revision and update.

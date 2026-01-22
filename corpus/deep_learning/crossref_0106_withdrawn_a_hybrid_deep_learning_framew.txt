@@ -1,0 +1,10 @@
+Title: WITHDRAWN: A Hybrid Deep Learning Framework to Predict Alzheimer’s Disease Progression Using Generative Adversarial Networks and Deep Convolutional Neural Networks
+
+Source: crossref
+Authors: Unknown
+Year: 2023
+URL: https://doi.org/10.21203/rs.3.rs-2991769/v2
+
+Abstract:
+Abstract
+                The full text of this preprint has been withdrawn by the authors due to author disagreement with the posting of the preprint. Therefore, the authors do not wish this work to be cited as a reference. Questions should be directed to the corresponding author.

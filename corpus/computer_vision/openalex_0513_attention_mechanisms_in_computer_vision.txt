@@ -1,0 +1,9 @@
+Title: Attention mechanisms in computer vision: A survey
+
+Source: openalex
+Authors: Meng-Hao Guo, Tian-Xing Xu, Jiangjiang Liu, Zheng-Ning Liu, Peng-Tao Jiang
+Year: 2022
+URL: https://doi.org/10.1007/s41095-022-0271-y
+
+Abstract:
+Humans can naturally and effectively find salient regions in complex scenes.\nMotivated by this observation, attention mechanisms were introduced into\ncomputer vision with the aim of imitating this aspect of the human visual\nsystem. Such an attention mechanism can be regarded as a dynamic weight\nadjustment process based on features of the input image. Attention mechanisms\nhave achieved great success in many visual tasks, including image\nclassification, object detection, semantic segmentation, video understanding,\nimage generation, 3D vision, multi-modal tasks and self-supervised learning. In\nthis survey, we provide a comprehensive review of various attention mechanisms\nin computer vision and categorize them according to approach, such as channel\nattention, spatial attention, temporal attention and branch attention; a\nrelated repository https://github.com/MenghaoGuo/Awesome-Vision-Attentions is\ndedicated to collecting related work. We also suggest future directions for\nattention mechanism research.\n

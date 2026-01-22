@@ -1,0 +1,9 @@
+Title: Proceedings of the 24th annual meeting on Association for Computational Linguistics
+
+Source: openalex
+Authors: Alan W. Biermann
+Year: 1986
+URL: N/A
+
+Abstract:
+This volume is the official record of the Twenty-Fourth Annual Meeting of the Association for Computational Linguistics. It contains abstracts for the tutorials and panels as well as the texts of the presented papers.On administrative matters, Don Walker published the Call for Papers and this Proceedings, sent out the advertisements and registration packets, and handled countless other problems that most of us never knew existed. Kathy McKeown and Cecile Paris were in charge of the huge task of local arrangements.

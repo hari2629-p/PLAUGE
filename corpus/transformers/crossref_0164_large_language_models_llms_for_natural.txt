@@ -1,0 +1,10 @@
+Title: Large Language Models (LLMs) for Natural Language Processing (NLP) of Oil and Gas Drilling Data
+
+Source: crossref
+Authors: Prateek Kumar, Sanjay Kathuria
+Year: 2023
+URL: https://doi.org/10.2118/215167-ms
+
+Abstract:
+Abstract
+               In the oil and gas industry, drilling activities spawn substantial volumes of unstructured textual data. The examination and interpretation of these data pose significant challenges. This research exploits the emerging capabilities of large language models (LLMs) with over 100 billion parameters to extract actionable insights from raw drilling data. Through fine-tuning methodologies and the use of various prompt engineering strategies, we addressed several text downstream tasks, including summarization, classification, entity recognition, and information extraction. This study delves into our methods, findings, and the novel application of LLMs for efficient and precise analysis of drilling data.

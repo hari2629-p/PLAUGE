@@ -1,0 +1,9 @@
+Title: Reproducibility in Computational Linguistics: Are We Willing to Share?
+
+Source: crossref
+Authors: Martijn Wieling, Josine Rawee, Gertjan van Noord
+Year: 2018
+URL: https://doi.org/10.1162/coli_a_00330
+
+Abstract:
+ This study focuses on an essential precondition for reproducibility in computational linguistics: the willingness of authors to share relevant source code and data. Ten years after Ted Pedersen’s influential “Last Words” contribution in Computational Linguistics, we investigate to what extent researchers in computational linguistics are willing and able to share their data and code. We surveyed all 395 full papers presented at the 2011 and 2016 ACL Annual Meetings, and identified whether links to data and code were provided. If working links were not provided, authors were requested to provide this information. Although data were often available, code was shared less often. When working links to code or data were not provided in the paper, authors provided the code in about one third of cases. For a selection of ten papers, we attempted to reproduce the results using the provided data and code. We were able to reproduce the results approximately for six papers. For only a single paper did we obtain the exact same results. Our findings show that even though the situation appears to have improved comparing 2016 to 2011, empiricism in computational linguistics still largely remains a matter of faith. Nevertheless, we are somewhat optimistic about the future. Ensuring reproducibility is not only important for the field as a whole, but also seems worthwhile for individual researchers: The median citation count for studies with working links to the source code is higher. 

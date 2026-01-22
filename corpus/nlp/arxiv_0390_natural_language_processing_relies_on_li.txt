@@ -1,0 +1,9 @@
+Title: Natural Language Processing RELIES on Linguistics
+
+Source: arxiv
+Authors: Juri Opitz, Shira Wein, Nathan Schneider
+Year: 2024
+URL: N/A
+
+Abstract:
+Large Language Models (LLMs) have become capable of generating highly fluent text in certain languages, without modules specially designed to capture grammar or semantic coherence. What does this mean for the future of linguistic expertise in NLP? We highlight several aspects in which NLP (still) relies on linguistics, or where linguistic thinking can illuminate new directions. We argue our case around the acronym RELIES that encapsulates six major facets where linguistics contributes to NLP: Resources, Evaluation, Low-resource settings, Interpretability, Explanation, and the Study of language. This list is not exhaustive, nor is linguistics the main point of reference for every effort under these themes; but at a macro level, these facets highlight the enduring importance of studying machine systems vis-à-vis systems of human language.

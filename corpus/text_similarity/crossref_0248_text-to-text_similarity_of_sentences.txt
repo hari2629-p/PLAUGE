@@ -1,0 +1,9 @@
+Title: Text-to-Text Similarity of Sentences
+
+Source: crossref
+Authors: Vasile Rus, Mihai Lintean, Arthur C. Graesser, Danielle S. McNamara
+Year: 2012
+URL: https://doi.org/10.4018/978-1-60960-741-8.ch007
+
+Abstract:
+Assessing the semantic similarity between two texts is a central task in many applications, including summarization, intelligent tutoring systems, and software testing. Similarity of texts is typically explored at the level of word, sentence, paragraph, and document. The similarity can be defined quantitatively (e.g. in the form of a normalized value between 0 and 1) and qualitatively in the form of semantic relations such as elaboration, entailment, or paraphrase. In this chapter, we focus first on measuring quantitatively and then on detecting qualitatively sentence-level text-to-text semantic relations. A generic approach that relies on word-to-word similarity measures is presented as well as experiments and results obtained with various instantiations of the approach. In addition, we provide results of a study on the role of weighting in Latent Semantic Analysis, a statistical technique to assess similarity of texts. The results were obtained on two data sets: a standard data set on sentence-level paraphrase detection and a data set from an intelligent tutoring system.

@@ -1,0 +1,9 @@
+Title: Probabilistic Reasoning via Deep Learning: Neural Association Models
+
+Source: arxiv
+Authors: Quan Liu, Hui Jiang, Andrew Evdokimov, Zhen-Hua Ling, Xiaodan Zhu
+Year: 2016
+URL: N/A
+
+Abstract:
+In this paper, we propose a new deep learning approach, called neural association model (NAM), for probabilistic reasoning in artificial intelligence. We propose to use neural networks to model association between any two events in a domain. Neural networks take one event as input and compute a conditional probability of the other event to model how likely these two events are to be associated. The actual meaning of the conditional probabilities varies between applications and depends on how the models are trained. In this work, as two case studies, we have investigated two NAM structures, namely deep neural networks (DNN) and relation-modulated neural nets (RMNN), on several probabilistic reasoning tasks in AI, including recognizing textual entailment, triple classification in multi-relational knowledge bases and commonsense reasoning. Experimental results on several popular datasets derived from WordNet, FreeBase and ConceptNet have all demonstrated that both DNNs and RMNNs perform equally well and they can significantly outperform the conventional methods available for these reasoning tasks. Moreover, compared with DNNs, RMNNs are superior in knowledge transfer, where a pre-trained model can be quickly extended to an unseen relation after observing only a few training samples. To further prove the effectiveness of the proposed models, in this work, we have applied NAMs to solving challenging Winograd Schema (WS) problems. Experiments conducted on a set of WS problems prove that the proposed models have the potential for commonsense reasoning.

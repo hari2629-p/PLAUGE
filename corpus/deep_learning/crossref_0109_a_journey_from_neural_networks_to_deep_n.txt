@@ -1,0 +1,9 @@
+Title: A Journey From Neural Networks to Deep Networks
+
+Source: crossref
+Authors: Priyanka P. Patel, Amit R. Thakkar
+Year: 2022
+URL: https://doi.org/10.4018/978-1-6684-2408-7.ch005
+
+Abstract:
+The chapter is about deep learning fundaments and its recent trends. The chapter mentions many advanced applications and deep learning models and networks to easily solve those applications in a very smart way. Discussion of some techniques for computer vision problem and how to solve with deep learning approach are included. After taking fundamental knowledge of the background theory, one can create or solve applications. The current state-of-the-art of deep learning for education, healthcare, agriculture, industrial, organizations, and research and development applications are very fast growing. The chapter is about types of learning in a deep learning approach, what kind of data set one can be required, and what kind of hardware facility is required for the particular complex problem. For unsupervised learning problems, Deep learning algorithms have been designed, but in the same way Deep learning is also solving the supervised learning problems for a wide variety of tasks. 

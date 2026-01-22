@@ -1,0 +1,10 @@
+Title: Diagnosis of HIV (AIDS)  by Using deep learning and machine learning
+
+Source: crossref
+Authors: Hadeel M Saleh, Abdulrahman Kareem Oleiwi, Ahmed Abed Hwaidi Abed
+Year: 2024
+URL: https://doi.org/10.58496/bjml/2023/012
+
+Abstract:
+Human Immunodeficiency Virus (HIV) is a global health issue that can progress to Acquired Immunodeficiency Syndrome (HIV) if not diagnosed and treated early. The advent of Artificial Intelligence (AI), particularly in machine learning and deep learning, presents new opportunities for improving the accuracy and efficiency of HIV diagnosis. This research explores the application of AI techniques in diagnosing HIV by reviewing previous studies and proposing a novel AI-based approach. The proposed methodology leverages deep learning algorithms, such as convolutional neural networks (CNNs), along with advanced data preprocessing techniques to enhance diagnostic accuracy, sensitivity, and specificity. The results of the proposed CNN-based model show an accuracy of 96.2%, sensitivity of 95.8%, specificity of 96.8%, and an AUC-ROC score of 0.965. Compared to Random Forest (accuracy: 92.1%), SVM (accuracy: 91.5%), and traditional methods (accuracy: 89.0%), the CNN model outperforms existing techniques significantly in terms of accuracy, sensitivity, and specificity. This demonstrates the effectiveness of the proposed AI approach for enhancing early and accurate HIV detection.
+ 

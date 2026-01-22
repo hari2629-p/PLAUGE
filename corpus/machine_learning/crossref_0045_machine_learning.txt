@@ -1,0 +1,9 @@
+Title: Machine Learning
+
+Source: crossref
+Authors: Raymond J. Mooney
+Year: 2012
+URL: https://doi.org/10.1093/oxfordhb/9780199276349.013.0020
+
+Abstract:
+This article introduces the type of symbolic machine learning in which decision trees, rules, or case-based classifiers are induced from supervised training examples. It describes the representation of knowledge assumed by each of these approaches and reviews basic algorithms for inducing such representations from annotated training examples and using the acquired knowledge to classify future instances. Machine learning is the study of computational systems that improve performance on some task with experience. Most machine learning methods concern the task of categorizing examples described by a set of features. These techniques can be applied to learn knowledge required for a variety of problems in computational linguistics ranging from part-of-speech tagging and syntactic parsing to word-sense disambiguation and anaphora resolution. Finally, this article reviews the applications to a variety of these problems, such as morphology, part-of-speech tagging, word-sense disambiguation, syntactic parsing, semantic parsing, information extraction, and anaphora resolution.

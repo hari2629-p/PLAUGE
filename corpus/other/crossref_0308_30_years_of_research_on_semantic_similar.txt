@@ -1,0 +1,9 @@
+Title: 30 Years of Research on Semantic Similarity Measurement
+
+Source: crossref
+Authors: Kabir Sharma
+Year: 2023
+URL: https://doi.org/10.31219/osf.io/qpb6d
+
+Abstract:
+Over the past three decades, researchers have been interested in measuring the semantic similarity between words or concepts in natural language processing. This interest has arisen due to the need for more effective techniques for information retrieval, text classification, and other tasks. The concept of semantic similarity refers to the degree of relatedness between two words or concepts based on their meaning or context. Semantic similarity measurement involves various methods such as knowledge-based, corpus-based, and hybrid methods. In this paper, we review the evolution of semantic similarity measurement over the past 30 years, including the different approaches used and their advantages and limitations. We also discuss the challenges in developing accurate semantic similarity metrics and highlight the emerging trends in this field, such as the use of deep learning techniques to improve the accuracy of semantic similarity measurement. Finally, we conclude by suggesting some directions for future research in this field.

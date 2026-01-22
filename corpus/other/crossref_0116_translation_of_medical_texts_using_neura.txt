@@ -1,0 +1,9 @@
+Title: Translation of Medical Texts using Neural Networks
+
+Source: crossref
+Authors: Krzysztof Wolk, Krzysztof P. Marasek
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-0414-7.ch063
+
+Abstract:
+The quality of machine translation is rapidly evolving. Today one can find several machine translation systems on the web that provide reasonable translations, although the systems are not perfect. In some specific domains, the quality may decrease. A recently proposed approach to this domain is neural machine translation. It aims at building a jointly-tuned single neural network that maximizes translation performance, a very different approach from traditional statistical machine translation. Recently proposed neural machine translation models often belong to the encoder-decoder family in which a source sentence is encoded into a fixed length vector that is, in turn, decoded to generate a translation. The present research examines the effects of different training methods on a Polish-English Machine Translation system used for medical data. The European Medicines Agency parallel text corpus was used as the basis for training of neural and statistical network-based translation systems. A comparison and implementation of a medical translator is the main focus of our experiments.

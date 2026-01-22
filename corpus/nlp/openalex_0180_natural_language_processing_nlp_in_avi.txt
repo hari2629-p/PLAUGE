@@ -1,0 +1,9 @@
+Title: Natural Language Processing (NLP) in Aviation Safety: Systematic Review of Research and Outlook into the Future
+
+Source: openalex
+Authors: Chuyang Yang, Chenyu Huang
+Year: 2023
+URL: https://doi.org/10.3390/aerospace10070600
+
+Abstract:
+Advanced digital data-driven applications have evolved and significantly impacted the transportation sector in recent years. This systematic review examines natural language processing (NLP) approaches applied to aviation safety-related domains. The authors use Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) to conduct this review, and three databases (Web of Science, Scopus, and Transportation Research International Documentation) are screened. Academic articles from the period 2010–2022 are reviewed after applying two rounds of filtering criteria. The sub-domains, including aviation incident/accident reports analysis and air traffic control (ATC) communications, are investigated. The specific NLP approaches, related machine learning algorithms, additional causality models, and the corresponding performance are identified and summarized. In addition, the challenges and limitations of current NLP applications in aviation, such as ambiguity, limited training data, lack of multilingual support, are discussed. Finally, this review uncovers future opportunities to leverage NLP models to facilitate the safety and efficiency of the aviation system.

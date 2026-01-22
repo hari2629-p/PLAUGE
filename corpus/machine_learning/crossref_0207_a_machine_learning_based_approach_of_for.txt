@@ -1,0 +1,9 @@
+Title: A Machine Learning based approach of for Plagiarism Detection
+
+Source: crossref
+Authors: Mumta Lulwani, Muskan Khan
+Year: 2023
+URL: https://doi.org/10.31219/osf.io/39rgh
+
+Abstract:
+A Machine Learning based approach of for Plagiarism Detection

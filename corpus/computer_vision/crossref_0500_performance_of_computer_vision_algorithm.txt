@@ -1,0 +1,10 @@
+Title: Performance of Computer Vision Algorithms for Fine‐Grained Classification Using Crowdsourced Insect Images
+
+Source: crossref
+Authors: Rita Pucci, Vincent J. Kalkman, Dan Stowell
+Year: 2025
+URL: https://doi.org/10.1049/cvi2.70006
+
+Abstract:
+ABSTRACT
+                  With fine‐grained classification, we identify unique characteristics to distinguish among classes of the same super‐class. We are focusing on species recognition in Insecta as they are critical for biodiversity monitoring and at the base of many ecosystems. With citizen science campaigns, billions of images are collected in the wild. Once these are labelled, experts can use them to create distribution maps. However, the labelling process is time consuming, which is where computer vision comes in. The field of computer vision offers a wide range of algorithms, each with its strengths and weaknesses; how do we identify the algorithm that is in line with our application? To answer this question, we provide a full and detailed evaluation of nine algorithms among deep convolutional networks (CNN), vision transformers (ViT) and locality‐based vision transformers (LBVT) on 4 different aspects: classification performance, embedding quality, computational cost and gradient activity. We offer insights that we have not yet had in this domain proving to which extent these algorithms solve the fine‐grained tasks in Insecta. We found that ViT performs the best on inference speed and computational cost, whereas LBVT outperforms the others on performance and embedding quality; the CNN provide a trade‐off among the metrics.

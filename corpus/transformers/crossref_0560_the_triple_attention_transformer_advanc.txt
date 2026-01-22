@@ -1,0 +1,10 @@
+Title: The Triple Attention Transformer: Advancing Contextual Coherence in Transformer Models
+
+Source: crossref
+Authors: Shadi Ghaith
+Year: 2024
+URL: https://doi.org/10.21203/rs.3.rs-3916608/v1
+
+Abstract:
+Abstract
+        This paper introduces the Triple Attention Transformer (TAT), a transformative approach in transformer models, tailored for enhancing long-term contextual coherence in dialogue systems. TAT innovates by representing dialogues as chunks of sequences, coupled with a triple attention mechanism. This novel architecture enables TAT to effectively manage extended sequences, addressing the coherence challenges inherent in traditional transformer models. Empirical evaluations using the Schema-Guided Dialogue Dataset from DSTC8 demonstrate TAT's enhanced performance, with significant improvements in Character Error Rate, Word Error Rate, and BLEU score. Importantly, TAT excels in generating coherent, extended dialogues, showcasing its advanced contextual comprehension. The integration of Conv1D networks, dual-level positional encoding, and decayed attention weighting are pivotal to TAT's robust context management. The paper also highlights the BERT variant of TAT, which leverages pre-trained language models to further enrich dialogue understanding and generation capabilities. Future developments include refining attention mechanisms, improving role distinction, and architectural optimizations. TAT's applicability extends to various complex NLP tasks, affirming its potential as a pioneering advancement in natural language processing.

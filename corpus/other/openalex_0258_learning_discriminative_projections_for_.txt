@@ -1,0 +1,9 @@
+Title: Learning Discriminative Projections for Text Similarity Measures
+
+Source: openalex
+Authors: Wen-tau Yih, Kristina Toutanova, John Platt, Christopher Meek
+Year: 2011
+URL: N/A
+
+Abstract:
+Traditional text similarity measures consider each term similar only to itself and do not model semantic relatedness of terms. We propose a novel discriminative training method that projects the raw term vectors into a common, low-dimensional vector space. Our approach operates by finding the optimal matrix to minimize the loss of the pre-selected similarity function (e.g., cosine) of the projected vectors, and is able to efficiently handle a large number of training examples in the highdimensional space. Evaluated on two very different tasks, cross-lingual document retrieval and ad relevance measure, our method not only outperforms existing state-of-the-art approaches, but also achieves high accuracy at low dimensions and is thus more efficient. 1

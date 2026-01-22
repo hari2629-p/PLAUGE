@@ -1,0 +1,9 @@
+Title: Comparison of document vectorization methods: a case study with textual data
+
+Source: crossref
+Authors: Jessica Kubrusly, Gabriel Gonzalo Ledesma Valenotti
+Year: 2025
+URL: https://doi.org/10.29327/2520355.13.1-10
+
+Abstract:
+A explosão de informações digitais nas últimas décadas trouxe um enorme volume de dados em forma de texto. O interesse em extrair conhecimento desta vasta quantidade de dados originou a Mineração de Texto. Um dos desafios nesta área é transformar um banco de textos em uma base de dados numérica. Esse processo, chamado de vetorização de documentos, é fundamental para a automatização da extração de informação. O objetivo deste trabalho é comparar o desempenho de quatro métodos de vetorização de documentos quando utilizados para fins de classificação. Os métodos de vetorização comparados foram: BoW, TF-IDF e as duas arquiteturas diferentes do doc2vec, CBOW e skip. Os métodos de classificação aplicados foram: Regressão Logística, Árvore de Classificação, Floresta Aleatória, XGBoost e Perceptron. A base de dados foi a base pública \textit{The Women's E-Commerce Clothing Reviews}, composta por 10 atributos, entre os quais 3 deles foram considerados neste trabalho: o texto de avaliação do item, o título da avaliação e uma variável categórica que indica se o cliente recomenda ou não o produto. Uma amostra aleatória balanceada de 8.000 documentos, 4.000 documentos com recomendação positiva e 4.000 com recomendação negativa, foi sorteada e dividida em treino (70\%) e teste (30\%). A medida de comparação de desempenho foi a área embaixo da curva ROC (AUC). Quando comparados os métodos de vetorização de documentos, as duas arquiteturas do doc2vec apresentaram resultados superiores às demais em todos os métodos de classificação testados.

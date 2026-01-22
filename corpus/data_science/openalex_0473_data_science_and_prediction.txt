@@ -1,0 +1,9 @@
+Title: Data science and prediction
+
+Source: openalex
+Authors: Vasant Dhar
+Year: 2013
+URL: https://doi.org/10.1145/2500499
+
+Abstract:
+Big data promises automated actionable knowledge creation and predictive models for use by both humans and computers.

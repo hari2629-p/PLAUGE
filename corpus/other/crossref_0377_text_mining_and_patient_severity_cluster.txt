@@ -1,0 +1,9 @@
+Title: Text Mining and Patient Severity Clusters
+
+Source: crossref
+Authors: Patricia Cerrito
+Year: 2010
+URL: https://doi.org/10.4018/978-1-60566-752-2.ch008
+
+Abstract:
+Text mining diagnosis codes takes advantage of the linkage across patient conditions instead of trying to force the assumption of independence. Combinations of diagnoses are used to define groups of patients. For example, patients with diabetes have a high probability of heart disease and kidney failure compared to the general population. Instead of relying on these three conditions and assuming that the general population is just as likely to acquire them in combination, text mining examines the combinations of diabetes, diabetes with kidney failure, diabetes with heart failure, and diabetes with both conditions.

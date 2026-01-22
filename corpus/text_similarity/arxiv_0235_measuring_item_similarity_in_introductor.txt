@@ -1,0 +1,9 @@
+Title: Measuring Item Similarity in Introductory Programming: Python and Robot Programming Case Studies
+
+Source: arxiv
+Authors: Radek Pelánek, Tomáš Effenberger, Matěj Vaněk, Vojtěch Sassmann, Dominik Gmiterko
+Year: 2018
+URL: N/A
+
+Abstract:
+A personalized learning system needs a large pool of items for learners to solve. When working with a large pool of items, it is useful to measure the similarity of items. We outline a general approach to measuring the similarity of items and discuss specific measures for items used in introductory programming. Evaluation of quality of similarity measures is difficult. To this end, we propose an evaluation approach utilizing three levels of abstraction. We illustrate our approach to measuring similarity and provide evaluation using items from three diverse programming environments.

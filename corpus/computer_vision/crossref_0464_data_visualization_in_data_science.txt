@@ -1,0 +1,9 @@
+Title: Data Visualization in Data Science
+
+Source: crossref
+Authors: S M Nazmuz Sakib
+Year: 2022
+URL: https://doi.org/10.33774/coe-2022-c3kk5
+
+Abstract:
+Many of the important theoretical and practical issues that need to be addressed when developing data visualizations have been covered in the chapters that precede them. I also reviewed and evaluated a variety of data visualization examples, along with common mistakes and helpful approaches. Based on what we've learned, developing an efficient and ethical way to visualize data can be challenging. This chapter covers a wide range of topics, including the future of data visualization and new data visualization technologies. Finally, I have come to the conclusion of our study on data visualization. In the eleven chapters preceding this one, I have reviewed some of the most important theoretical and practical components of visualization methods and applications, and their applications. As I have seen, developing an efficient and effective approach to building a data visualization application is challenging. This procedure represents the relevant data.

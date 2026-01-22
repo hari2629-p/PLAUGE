@@ -1,0 +1,9 @@
+Title: Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning
+
+Source: arxiv
+Authors: M. A. Ganaie, M. Sajid, A. K. Malik, M. Tanveer
+Year: 2023
+URL: N/A
+
+Abstract:
+The domain of machine learning is confronted with a crucial research area known as class imbalance learning, which presents considerable hurdles in precise classification of minority classes. This issue can result in biased models where the majority class takes precedence in the training process, leading to the underrepresentation of the minority class. The random vector functional link (RVFL) network is a widely used and effective learning model for classification due to its good generalization performance and efficiency. However, it suffers when dealing with imbalanced datasets. To overcome this limitation, we propose a novel graph embedded intuitionistic fuzzy RVFL for class imbalance learning (GE-IFRVFL-CIL) model incorporating a weighting mechanism to handle imbalanced datasets. The proposed GE-IFRVFL-CIL model offers plethora of benefits: $(i)$ leveraging graph embedding to preserve the inherent topological structure of the datasets, $(ii)$ employing intuitionistic fuzzy theory to handle uncertainty and imprecision in the data, $(iii)$ and the most important, it tackles class imbalance learning. The amalgamation of a weighting scheme, graph embedding, and intuitionistic fuzzy sets leads to the superior performance of the proposed models on KEEL benchmark imbalanced datasets with and without Gaussian noise. Furthermore, we implemented the proposed GE-IFRVFL-CIL on the ADNI dataset and achieved promising results, demonstrating the model's effectiveness in real-world applications. The proposed GE-IFRVFL-CIL model offers a promising solution to address the class imbalance issue, mitigates the detrimental effect of noise and outliers, and preserves the inherent geometrical structures of the dataset.

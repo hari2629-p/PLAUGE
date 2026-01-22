@@ -1,0 +1,9 @@
+Title: AI-Generated Text and Plagiarism Detection: Pandora’s Tech-Box Unmasked
+
+Source: crossref
+Authors: Edgar Eslit
+Year: 2025
+URL: https://doi.org/10.20944/preprints202501.0060.v1
+
+Abstract:
+The use of AI-text generators and plagiarism detectors have made a big challenge to academic community because of the growing occurrence of "false positives" in student’s academic output. These mistakes, where original student work is mistakenly flagged as AI-generated or plagiarized, can have damaging effects on students' academic performance and emotional well-being. This research article explores into the root causes of these “false positives”, examining the limitations of current AI-generated text and plagiarism detection tools with their impact on the educational context.  Drawing on the educational theories like constructivism and cognitive load theory, the researcher promotes for a more nuanced approach that balances the potential benefits of AI with the crucial role of human judgment. Using qualitative content analysis and a critical examination of existing literature, the paper proposes a framework for reasonable and more effective AI-assisted or text plagiarism detection. This includes developing more sophisticated AI models that better understand context and language, fostering human intervention in the evaluation process, and updating policies based on the paper’s suggestions to ensure that AI will serve as a supportive tool rather than a retaliatory one. Overall, this article emphasizes the importance of a human-centered approach to AI in education, where technology enhances, rather than hampers, the learning and assessment process.

@@ -1,0 +1,9 @@
+Title: AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence
+
+Source: arxiv
+Authors: Marwan Mattar, Roozbeh Mottaghi, Julian Togelius, Danny Lange
+Year: 2019
+URL: N/A
+
+Abstract:
+This volume represents the accepted submissions from the AAAI-2019 Workshop on Games and Simulations for Artificial Intelligence held on January 29, 2019 in Honolulu, Hawaii, USA. https://www.gamesim.ai

@@ -1,0 +1,9 @@
+Title: Tuple Value Based Multiplicative Data Perturbation Approach To Preserve Privacy In Data Stream Mining
+
+Source: arxiv
+Authors: Hitesh Chhinkaniwala, Sanjay Garg
+Year: 2013
+URL: N/A
+
+Abstract:
+Huge volume of data from domain specific applications such as medical, financial, library, telephone, shopping records and individual are regularly generated. Sharing of these data is proved to be beneficial for data mining application. On one hand such data is an important asset to business decision making by analyzing it. On the other hand data privacy concerns may prevent data owners from sharing information for data analysis. In order to share data while preserving privacy, data owner must come up with a solution which achieves the dual goal of privacy preservation as well as an accuracy of data mining task - clustering and classification. An efficient and effective approach has been proposed that aims to protect privacy of sensitive information and obtaining data clustering with minimum information loss.

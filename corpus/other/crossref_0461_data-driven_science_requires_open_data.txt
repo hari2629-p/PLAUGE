@@ -1,0 +1,9 @@
+Title: Data-driven science requires open data
+
+Source: crossref
+Authors: Peter Suber
+Year: 2025
+URL: https://doi.org/10.63485/xr2wz-3sa49
+
+Abstract:
+Peter Murray-Rust, Data-driven science - a scientist&amp;#39;s view, a position paper for the NSF/JISC Repositories Workshop (Phoenix, April 17-19, 2007).

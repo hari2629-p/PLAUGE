@@ -1,0 +1,9 @@
+Title: Information Retrieval
+
+Source: crossref
+Authors: Evelyne Tzoukermann, Judith L. Klavans, Tomek Strzalkowski
+Year: 2012
+URL: https://doi.org/10.1093/oxfordhb/9780199276349.013.0029
+
+Abstract:
+Information retrieval (IR) involves retrieving information from stored data, through user queries or pre-formulated user profiles. The information can be in any format. IR typically advances over four broad stages viz., identification of text types, document preprocessing, document indexing, and query processing and matching the same to documents. Although NLP has a role to play in IR, the procedural complexities of the latter impede determination of the stage of incorporation of the former into the latter. Earliest attempts at connecting NLP with IR, were extremely ambitious, proposing concepts instead of terms, as complex structures, to be compared using sophisticated algorithms. In its current state, IR still comes in handy, to retrieve information from various thesauri and ontologies, both in general-purpose lexical databases, as well as those categorizing knowledge in particular scientific and trade domains. However, NLP has yet to prove a better compatibility with IR, in enhancing the latter.

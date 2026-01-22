@@ -1,0 +1,9 @@
+Title: Novel Code Plagiarism Detection Based on Abstract Syntax Tree and Fuzzy Petri Nets
+
+Source: crossref
+Authors: Victor R. L. Shen
+Year: 2019
+URL: https://doi.org/10.14710/ijee.1.1.46-56
+
+Abstract:
+Those students who major in computer science and/or engineering are required to design program codes in a variety of programming languages. However, many students submit their source codes they get from the Internet or friends with no or few modifications. Detecting the code plagiarisms done by students is very time-consuming and leads to the problems of unfair learning performance evaluation. This paper proposes a novel method to detect the source code plagiarisms by using a high-level fuzzy Petri net (HLFPN) based on abstract syntax tree (AST). First, the AST of each source code is generated after the lexical and syntactic analyses have been done. Second, token sequence is generated based on the AST. Using the AST can effectively detect the code plagiarism by changing the identifier or program statement order. Finally, the generated token sequences are compared with one another using an HLFPN to determine the code plagiarism. Furthermore, the experimental results have indicated that we can make better determination to detect the code plagiarism.

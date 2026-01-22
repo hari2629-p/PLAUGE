@@ -1,0 +1,9 @@
+Title: Towards Building an Arabic Plagiarism Detection System: Plagiarism Detection in Arabic
+
+Source: crossref
+Authors: Imtiaz Hussain Khan, Muazzam Ahmed Siddiqui, Kamal M. Jambi
+Year: 2019
+URL: https://doi.org/10.4018/ijirr.2019070102
+
+Abstract:
+This article describes a plagiarism detection system for the Arabic language that combines different similarity-measure techniques to uncover plagiarism in Arabic documents. The proposed system consists of two main components, one document-retrieval and the other detailed similarity analysis. The document-retrieval component generates queries from a given suspicious document and makes use of Google search API to retrieve candidate source documents from the Web. The similarity analysis component takes each source document in turn and attempts to identify the plagiarized parts in the suspicious document. The proposed system is thoroughly evaluated using an indigenous corpus. At the document-retrieval level, the system achieved above 75% accuracy in terms of f-score, whereas at the detailed similarity-computation level, the f-score is above 70%.

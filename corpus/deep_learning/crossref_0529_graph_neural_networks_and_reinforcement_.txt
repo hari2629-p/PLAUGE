@@ -1,0 +1,9 @@
+Title: Graph Neural Networks and Reinforcement Learning: A Survey
+
+Source: crossref
+Authors: Fatemeh Fathinezhad, Peyman Adibi, Bijan Shoushtarian, Jocelyn Chanussot
+Year: 2023
+URL: https://doi.org/10.5772/intechopen.111651
+
+Abstract:
+Graph neural network (GNN) is an emerging field of research that tries to generalize deep learning architectures to work with non-Euclidean data. Nowadays, combining deep reinforcement learning (DRL) with GNN for graph-structured problems, especially in multi-agent environments, is a powerful technique in modern deep learning. From the computational point of view, multi-agent environments are inherently complex, because future rewards depend on the joint actions of multiple agents. This chapter tries to examine different types of applying GNN and DRL techniques in the most common representations of multi-agent problems and their challenges. In general, the fusion of GNN and DRL can be addressed from two different points of view. First, GNN is used to influence the DRL performance and improve its formulation. Here, GNN is applied in relational DRL structures such as multi-agent and multi-task DRL. Second, DRL is used to improve the application of GNN. From this viewpoint, DRL can be used for a variety of purposes including neural architecture search and improving the explanatory power of GNN predictions.

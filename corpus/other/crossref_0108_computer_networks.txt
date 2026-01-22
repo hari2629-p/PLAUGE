@@ -1,0 +1,9 @@
+Title: Computer Networks
+
+Source: crossref
+Authors: Mrs. D. S. Jayakumari
+Year: 2024
+URL: https://doi.org/10.59646/cn/283
+
+Abstract:
+This comprehensive textbook on Computer Networks provides an in-depth exploration of the fundamental concepts, architectures, and technologies that underpin modern networking. With a focus on both theoretical foundations and practical applications, this book covers the entire spectrum of computer networking, from local area networks to wide area networks, wireless networks, and the Internet.

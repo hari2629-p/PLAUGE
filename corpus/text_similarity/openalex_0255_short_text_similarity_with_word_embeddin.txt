@@ -1,0 +1,9 @@
+Title: Short Text Similarity with Word Embeddings
+
+Source: openalex
+Authors: Tom Kenter, Maarten de Rijke
+Year: 2015
+URL: https://doi.org/10.1145/2806416.2806475
+
+Abstract:
+Determining semantic similarity between texts is important in many tasks in information retrieval such as search, query suggestion, automatic summarization and image finding. Many approaches have been suggested, based on lexical matching, handcrafted patterns, syntactic parse trees, external sources of structured semantic knowledge and distributional semantics. However, lexical features, like string matching, do not capture semantic similarity beyond a trivial level. Furthermore, handcrafted patterns and external sources of structured semantic knowledge cannot be assumed to be available in all circumstances and for all domains. Lastly, approaches depending on parse trees are restricted to syntactically well-formed texts, typically of one sentence in length.

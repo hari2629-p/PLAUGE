@@ -1,0 +1,9 @@
+Title: Graph Matching Techniques for Computer Vision
+
+Source: crossref
+Authors: Mario Vento, Pasquale Foggia
+Year: 2012
+URL: https://doi.org/10.4018/978-1-4666-1891-6.ch001
+
+Abstract:
+Many computer vision applications require a comparison between two objects, or between an object and a reference model. When the objects or the scenes are represented by graphs, this comparison can be performed using some form of graph matching. The aim of this chapter is to introduce the main graph matching techniques that have been used for computer vision, and to relate each application with the techniques that are most suited to it.

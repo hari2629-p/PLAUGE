@@ -1,0 +1,9 @@
+Title: Visual Similarity Perception of Directed Acyclic Graphs: A Study on Influencing Factors
+
+Source: arxiv
+Authors: Kathrin Ballweg, Margit Pohl, Günter Wallner, Tatiana von Landesberger
+Year: 2017
+URL: N/A
+
+Abstract:
+While visual comparison of directed acyclic graphs (DAGs) is commonly encountered in various disciplines (e.g., finance, biology), knowledge about humans' perception of graph similarity is currently quite limited. By graph similarity perception we mean how humans perceive commonalities and differences in graphs and herewith come to a similarity judgment. As a step toward filling this gap the study reported in this paper strives to identify factors which influence the similarity perception of DAGs. In particular, we conducted a card-sorting study employing a qualitative and quantitative analysis approach to identify 1) groups of DAGs that are perceived as similar by the participants and 2) the reasons behind their choice of groups. Our results suggest that similarity is mainly influenced by the number of levels, the number of nodes on a level, and the overall shape of the graph.

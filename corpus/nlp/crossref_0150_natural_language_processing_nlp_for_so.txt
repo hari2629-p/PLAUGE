@@ -1,0 +1,9 @@
+Title: Natural Language Processing (NLP) for Social Media Threat Intelligence
+
+Source: crossref
+Authors: Favour Olaoluwa, Kaledio Potter
+Year: 2024
+URL: https://doi.org/10.20944/preprints202409.0488.v1
+
+Abstract:
+In the digital age, social media platforms have become a significant source of both information and misinformation, presenting challenges and opportunities for threat intelligence. Natural Language Processing (NLP) has emerged as a powerful tool for extracting actionable insights from the vast amounts of unstructured text generated on these platforms. This paper explores the application of NLP techniques to enhance social media threat intelligence, focusing on methodologies for detecting and analyzing threats such as disinformation, cyberbullying, and extremist content. We examine various NLP approaches, including sentiment analysis, topic modeling, and entity recognition, and their effectiveness in identifying and mitigating potential risks. The paper also addresses the challenges associated with processing social media data, such as dealing with slang, context, and multilingual content. By leveraging NLP, organizations can improve their ability to monitor and respond to emerging threats in real-time, ultimately enhancing their overall security posture. The findings suggest that while NLP offers significant benefits, it must be complemented by human expertise and ethical considerations to ensure accurate and responsible threat assessment.

@@ -1,0 +1,10 @@
+Title: The Impact of Artificial Intelligence on Human Labor
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0006
+
+Abstract:
+Are robots going to take away our jobs?
+               While it’s tempting to think of AI systems in general, and robots in particular, as mechanical laborers competing for employment, this isn’t a helpful perspective from which to explore their impact on labor markets. The image...

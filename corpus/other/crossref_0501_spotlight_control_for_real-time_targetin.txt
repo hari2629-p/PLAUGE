@@ -1,0 +1,9 @@
+Title: Spotlight Control for Real-Time Targeting
+
+Source: crossref
+Authors: Mika Benjamin Heinemann, , Thomas Kernbauer, Philipp Fleck, Clemens Arth
+Year: 2024
+URL: https://doi.org/10.24132/csrn.3401.32
+
+Abstract:
+Off-road heavy machinery such as snow groomers or excavators, often operate in low-light and hazardous environments. In this work, we explore the development of an intelligent camera-spotlight system with automatic and manual control to illuminate points of interest, such as obstacles or individuals at risk. We implement a prototype as proof of concept and integrate our workflow using a standard lighting protocol and a single-board computer. The presented calibration of the camera and spotlight ensures high precision in the desired use cases. In addition to testing the prototype on a real snow groomer, we evaluated its performance in terms of accuracy and repeatability. Overall, we showcase the usability of a commercially available spotlight in the context of spatial augmented reality in heavy machinery applications.

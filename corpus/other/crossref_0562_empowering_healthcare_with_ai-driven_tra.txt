@@ -1,0 +1,9 @@
+Title: Empowering Healthcare With AI-Driven Transformer Models
+
+Source: crossref
+Authors: Suthanthira Devi P., G. Revathy, Mohana Priya Priya P.
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3373-2038-0.ch012
+
+Abstract:
+The BERT and GPT transformer models are leading the way in artificial intelligence (AI) in healthcare. Personalized medicine and clinical decision-making can be simplified with these models because they excel at handling natural language and unstructured data. Healthcare generates enormous amounts of data every day, including electronic health records (EHRs), imaging, and biomedical literature. It is difficult for clinicians and researchers to extract actionable insights from this unstructured information due to its unstructured nature. The transformer model can process and analyze this data efficiently because it has self-attention mechanisms and context understanding. In drug discovery, transformers analyze vast biomedical datasets to speed repurposing. They enable multi-modal assessments through text, image, and genomic data integration in diagnostics. Through AI-driven solutions, transformers will revolutionize healthcare by improving patient care, reducing workloads, and accelerating innovation.

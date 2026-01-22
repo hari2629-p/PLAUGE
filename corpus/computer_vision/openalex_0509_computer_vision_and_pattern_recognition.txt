@@ -1,0 +1,9 @@
+Title: Computer vision and pattern recognition
+
+Source: openalex
+Authors: Nanning Zheng, George Loizou, Xiaoyi Jiang, Xuguang Lan, Xuelong Li
+Year: 2007
+URL: https://doi.org/10.1080/00207160701303912
+
+Abstract:
+"Computer vision and pattern recognition." , 84(9), pp. 1265–1266 Additional informationNotes on contributorsNanning Zheng Email: nnzheng@mail.xjtu.edu.cn George Loizou Email: george@dcs.bbk.ac.uk Xuguang Lan Email: xglan@aiar.xjtu.edu.cn Xuelong Li Email: xuelong_li@ieee.org

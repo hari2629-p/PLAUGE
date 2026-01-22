@@ -1,0 +1,9 @@
+Title: Application and analysis of text similarity in text clustering in the Chinese context
+
+Source: crossref
+Authors: Wentao Fan
+Year: 2023
+URL: https://doi.org/10.54254/2755-2721/21/20231120
+
+Abstract:
+With the development of the Internet, information sharing is higher, and the amount of information that each user is exposed to is increasing. How to find the information peoples want from so much information is a very important question. The vast majority of these resources are related to textual information. The most intuitive manifestation of these problems is that when people usually use search engines, enter a piece of text, and search out the relevant website, if the algorithm is not good, the search results will be very unsatisfactory. Therefore, this paper studies the application of text similarity in text clustering in the Chinese context. First, the basic concept of text similarity is introduced. In addition, text clustering is explained/explained from three aspects: definition, application, and general processing process. Secondly, combined with the existing data, some mainstream clustering algorithms are comprehensively summarized. Then, combined with the above content, the similarity calculation method in text clustering is analyzed. Finally, the above methods are compared and analyzed according to the experimental results in the Python environment.

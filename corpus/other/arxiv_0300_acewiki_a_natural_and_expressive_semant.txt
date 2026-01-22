@@ -1,0 +1,9 @@
+Title: AceWiki: A Natural and Expressive Semantic Wiki
+
+Source: arxiv
+Authors: Tobias Kuhn
+Year: 2008
+URL: N/A
+
+Abstract:
+We present AceWiki, a prototype of a new kind of semantic wiki using the controlled natural language Attempto Controlled English (ACE) for representing its content. ACE is a subset of English with a restricted grammar and a formal semantics. The use of ACE has two important advantages over existing semantic wikis. First, we can improve the usability and achieve a shallow learning curve. Second, ACE is more expressive than the formal languages of existing semantic wikis. Our evaluation shows that people who are not familiar with the formal foundations of the Semantic Web are able to deal with AceWiki after a very short learning phase and without the help of an expert.

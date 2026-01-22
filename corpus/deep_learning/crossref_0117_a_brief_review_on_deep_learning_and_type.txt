@@ -1,0 +1,9 @@
+Title: A Brief Review on Deep Learning and Types of Implementation for Deep Learning
+
+Source: crossref
+Authors: Uthra Kunathur Thikshaja, Anand Paul
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-0414-7.ch002
+
+Abstract:
+In recent years, there's been a resurgence in the field of Artificial Intelligence and deep learning is gaining a lot of attention. Deep learning is a branch of machine learning based on a set of algorithms that can be used to model high-level abstractions in data by using multiple processing layers with complex structures, or otherwise composed of multiple non-linear transformations. Estimation of depth in a Neural Network (NN) or Artificial Neural Network (ANN) is an integral as well as complicated process. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. This chapter describes the motivations for deep architecture, problem with large networks, the need for deep architecture and new implementation techniques for deep learning. At the end, there is also an algorithm to implement the deep architecture using the recursive nature of functions and transforming them to get the desired output. 

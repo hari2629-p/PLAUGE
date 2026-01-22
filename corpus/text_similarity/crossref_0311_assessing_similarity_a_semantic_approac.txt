@@ -1,0 +1,9 @@
+Title: Assessing similarity: a semantic approach to non-evolutionary comparative homology
+
+Source: crossref
+Authors: Lars Vogt
+Year: 2018
+URL: https://doi.org/10.7287/peerj.preprints.1243v1
+
+Abstract:
+The concept of phylogenetic homology has been criticized of involving circular argumentation resulting from a methodological gap between its ontological definition and its empirical recognition criteria. Based on the role of similarity for the recognition of phylogenetic homologues I argue that phylogenetic homology presupposes non-evolutionary comparative homology. Due to their use of Platonic ideals, archetypes and the requirement of the a priori assumption of a stable positional reference system, pre-Darwinian notions of homology cannot be used in this context. Based on Young's concept of comparative homology, I suggest a similarity-based procedure for recognizing comparative homologues that utilizes a semantic framework. This approach circumvents the problems of the pre-Darwinian notions of comparative homology and provides the so far lacking conceptual basis for the application of recognition criteria of phylogenetic homology, adding the missing link to the logical chain for assessing phylogenetic homology and closing the methodological gap between its ontological definition and its epistemological recognition criteria. This approach to comparative homology provides an essential methodological framework for generalizing over individual organisms and identifying and demarcating anatomical structural kinds. It thus represents an important contribution to the theoretical and methodological foundation of both morphology and comparative biology.

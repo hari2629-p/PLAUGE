@@ -1,0 +1,9 @@
+Title: Intrinsic Plagiarism Detection Using Character n-gram Profiles
+
+Source: openalex
+Authors: Efstathios Stamatatos
+Year: 2009
+URL: N/A
+
+Abstract:
+Abstract: The task of intrinsic plagiarism detection deals with cases where no reference corpus is available and it is exclusively based on stylistic changes or inconsistencies within a given document. In this paper a new method is presented that attempts to quantify the style variation within a document using character n-gram profiles and a style change function based on an appropriate dissimilarity measure originally proposed for author identification. In addition, we propose a set of heuristic rules that attempt to detect plagiarism–free documents and plagiarized passages, as well as to reduce the effect of irrelevant style changes within a document. The proposed approach is evaluated on the recently-available corpus of the 1 st Int. Competition on Plagiarism Detection with promising results.

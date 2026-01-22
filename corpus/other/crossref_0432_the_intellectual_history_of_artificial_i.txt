@@ -1,0 +1,10 @@
+Title: The Intellectual History of Artificial Intelligence
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0002
+
+Abstract:
+Where did the term artificial intelligence come from?
+               The first use of “artificial intelligence” can be attributed to a specific individual—John McCarthy, in 1956 an assistant professor of mathematics at Dartmouth College in Hanover, New Hampshire. Along with three other, more senior researchers (Marvin...

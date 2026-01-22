@@ -1,0 +1,9 @@
+Title: Deep Learning Neural Networks in the Cloud
+
+Source: semantic_scholar
+Authors: Burhan Humayun Awan
+Year: 2023
+URL: https://www.semanticscholar.org/paper/3dfcd50e3fa5c24b6e4f9d633f002968638c1db0
+
+Abstract:
+Deep Neural Networks (DNNs) are currently used in a wide range of critical real-world applications as machine learning technology. Due to the high number of parameters that make up DNNs, learning and prediction tasks require millions of floating-point operations (FLOPs). Implementing DNNs into a cloud computing system with centralized servers and data storage sub-systems equipped with high-speed and high-performance computing capabilities is a more effective strategy. This research presents an updated analysis of the most recent DNNs used in cloud computing. It highlights the necessity of cloud computing while presenting and debating numerous DNN complexity issues related to various architectures. Additionally, it goes into their intricacies and offers a thorough analysis of several cloud computing platforms for DNN deployment. Additionally, it examines the DNN applications that are already running on cloud computing platforms to highlight the advantages of using cloud computing for DNNs. The study highlights the difficulties associated with implementing DNNs in cloud computing systems and provides suggestions for improving both current and future deployments.

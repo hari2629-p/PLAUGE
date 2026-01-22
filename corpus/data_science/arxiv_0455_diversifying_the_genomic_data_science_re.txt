@@ -1,0 +1,9 @@
+Title: Diversifying the Genomic Data Science Research Community
+
+Source: arxiv
+Authors: The Genomic Data Science Community Network, Rosa Alcazar, Maria Alvarez, Rachel Arnold, Mentewab Ayalew
+Year: 2022
+URL: N/A
+
+Abstract:
+Over the last 20 years, there has been an explosion of genomic data collected for disease association, functional analyses, and other large-scale discoveries. At the same time, there have been revolutions in cloud computing that enable computational and data science research, while making data accessible to anyone with a web browser and an internet connection. However, students at institutions with limited resources have received relatively little exposure to curricula or professional development opportunities that lead to careers in genomic data science. To broaden participation in genomics research, the scientific community needs to support students, faculty, and administrators at Underserved Institutions (UIs) including Community Colleges, Historically Black Colleges and Universities, Hispanic-Serving Institutions, and Tribal Colleges and Universities in taking advantage of these tools in local educational and research programs. We have formed the Genomic Data Science Community Network (http://www.gdscn.org/) to identify opportunities and support broadening access to cloud-enabled genomic data science. Here, we provide a summary of the priorities for faculty members at UIs, as well as administrators, funders, and R1 researchers to consider as we create a more diverse genomic data science community.

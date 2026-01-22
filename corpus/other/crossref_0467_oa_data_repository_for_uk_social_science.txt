@@ -1,0 +1,13 @@
+Title: OA data repository for UK social science data
+
+Source: crossref
+Authors: Peter Suber
+Year: 2025
+URL: https://doi.org/10.63485/bkv14-34p41
+
+Abstract:
+The UK Economic &amp;amp; Social Research Council (ESRC) has launched UKDA-store, an OA repository for data in the social sciences.  (Thanks to DataShare.)  From the July 24 announcement:                             Also see the UKDA-store FAQ and user guide.
+&lt;strong&gt;
+ Comments
+&lt;/strong&gt;
+At the moment, UKDA-store is limited to work by ESRC-funded researchers.

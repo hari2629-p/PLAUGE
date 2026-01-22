@@ -1,0 +1,9 @@
+Title: The Oxford handbook of computational linguistics
+
+Source: openalex
+Authors: Unknown
+Year: 2003
+URL: https://doi.org/10.5860/choice.41-0758
+
+Abstract:
+<italic>The Oxford Handbook of Computational Linguistics</italic> features thirty-eight articles commissioned from experts all over the world. The book describes major concepts, methods, and applications in computational linguistics. Part I looks at linguistic fundamentals and provides an overview of the field suitable for senior undergraduates and non-specialists from other fields of linguistics and related disciplines. Part II describes current tasks, techniques, and tools in natural language processing and aims to meet the needs of post-doctoral workers and others embarking on computational language research. Part III surveys current applications.

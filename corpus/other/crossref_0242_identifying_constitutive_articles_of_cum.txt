@@ -1,0 +1,10 @@
+Title: Identifying constitutive articles of cumulative dissertation theses by bilingual text similarity. Evaluation of similarity methods on a new short text task
+
+Source: crossref
+Authors: Paul Donner
+Year: 2021
+URL: https://doi.org/10.1162/qss_a_00152
+
+Abstract:
+Abstract
+               Cumulative dissertations are doctoral theses comprised of multiple published articles. For studies of publication activity and citation impact of early career researchers, it is important to identify these articles and link them to their associated theses. Using a new benchmark data set, this paper reports on experiments of measuring the bilingual textual similarity between, on the one hand, titles and keywords of doctoral theses, and, on the other hand, articles’ titles and abstracts. The tested methods are cosine similarity and L1 distance in the Vector Space Model (VSM) as baselines, the language-indifferent methods Latent Semantic Analysis (LSA) and trigram similarity, and the language-aware methods fastText and Random Indexing (RI). LSA and RI, two supervised methods, were trained on a purposively collected bilingual scientific parallel text corpus. The results show that the VSM baselines and the RI method perform best but that the VSM method is unsuitable for cross-language similarity due to its inherent monolingual bias.

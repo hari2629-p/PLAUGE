@@ -1,0 +1,9 @@
+Title: Q-Learning: Model Free Reinforcement Learning and Temporal Difference Learning
+
+Source: crossref
+Authors: Steven L. Brunton
+Year: 2023
+URL: https://doi.org/10.52843/cassyni.ss11hp
+
+Abstract:
+Here we describe Q-learning, which is one of the most popular methods in reinforcement learning. Q-learning is a type of temporal difference learning.  We discuss other TD algorithms, such as SARSA, and connections to biological learning through dopamine. Q-learning is also one of the most common frameworks for deep reinforcement learning.

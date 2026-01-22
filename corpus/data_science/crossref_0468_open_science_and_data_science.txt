@@ -1,0 +1,9 @@
+Title: Open Science and Data Science
+
+Source: crossref
+Authors: Peter Wittenburg
+Year: 2021
+URL: https://doi.org/10.1162/dint_a_00082
+
+Abstract:
+Data Science (DS) as defined by Jim Gray is an emerging paradigm in all research areas to help finding non-obvious patterns of relevance in large distributed data collections. “Open Science by Design” (OSD), i.e., making artefacts such as data, metadata, models, and algorithms available and re-usable to peers and beyond as early as possible, is a pre-requisite for a flourishing DS landscape. However, a few major aspects can be identified hampering a fast transition: (1) The classical “Open Science by Publication” (OSP) is not sufficient any longer since it serves different functions, leads to non-acceptable delays and is associated with high curation costs. Changing data lab practices towards OSD requires more fundamental changes than OSP. 2) The classical publication-oriented models for metrics, mainly informed by citations, will not work anymore since the roles of contributors are more difficult to assess and will often change, i.e., other ways for assigning incentives and recognition need to be found. (3) The huge investments in developing DS skills and capacities by some global companies and strong countries is leading to imbalances and fears by different stakeholders hampering the acceptance of Open Science (OS). (4) Finally, OSD will depend on the availability of a global infrastructure fostering an integrated and interoperable data domain—“one data-domain” as George Strawn calls it—which is still not visible due to differences about the technological key pillars. OS therefore is a need for DS, but it will take much more time to implement it than we may have expected.

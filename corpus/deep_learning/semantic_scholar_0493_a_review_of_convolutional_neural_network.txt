@@ -1,0 +1,9 @@
+Title: A review of convolutional neural networks in computer vision
+
+Source: semantic_scholar
+Authors: Xia Zhao, Limin Wang, Yufei Zhang, Xuming Han, Muhammet Deveci
+Year: 2024
+URL: https://www.semanticscholar.org/paper/ad06c8a5fd292af518f878c7ced132b61739cdd8
+
+Abstract:
+In computer vision, a series of exemplary advances have been made in several areas involving image classification, semantic segmentation, object detection, and image super-resolution reconstruction with the rapid development of deep convolutional neural network (CNN). The CNN has superior features for autonomous learning and expression, and feature extraction from original input data can be realized by means of training CNN models that match practical applications. Due to the rapid progress in deep learning technology, the structure of CNN is becoming more and more complex and diverse. Consequently, it gradually replaces the traditional machine learning methods. This paper presents an elementary understanding of CNN components and their functions, including input layers, convolution layers, pooling layers, activation functions, batch normalization, dropout, fully connected layers, and output layers. On this basis, this paper gives a comprehensive overview of the past and current research status of the applications of CNN models in computer vision fields, e.g., image classification, object detection, and video prediction. In addition, we summarize the challenges and solutions of the deep CNN, and future research directions are also discussed.

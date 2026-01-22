@@ -1,0 +1,9 @@
+Title: Computational Linguistics
+
+Source: crossref
+Authors: Karine Megerdoomian
+Year: 2018
+URL: https://doi.org/10.1093/oxfordhb/9780198736745.013.19
+
+Abstract:
+This chapter introduces the fields of Computational Linguistics (CL)—the computational modelling of linguistic representations and theories—and Natural Language Processing (NLP)—the design and implementation of tools for automated language understanding and production—and discusses some of the existing tensions between the formal approach to linguistics and the current state of the research and development in CL and NLP. The paper goes on to explain the specific challenges faced by CL and NLP for Persian, much of it derived from the intricacies presented by the Perso-Arabic script in automatically identifying word and phrase boundaries in text, as well as difficulties in automatic processing of compound words and light verb constructions. The chapter then provides an overview of the state of the art in current and recent CL and NLP for Persian. It concludes with areas for improvement and suggestions for future directions.

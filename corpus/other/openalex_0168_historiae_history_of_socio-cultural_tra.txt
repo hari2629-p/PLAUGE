@@ -1,0 +1,9 @@
+Title: HISTORIAE, History of Socio-Cultural Transformation as Linguistic Data Science. A Humanities Use Case
+
+Source: openalex
+Authors: Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi
+Year: 2021
+URL: https://doi.org/10.4230/oasics.ldk.2021.34
+
+Abstract:
+The paper proposes an interdisciplinary approach including methods from disciplines such as history of concepts, linguistics, natural language processing (NLP) and Semantic Web, to create a comparative framework for detecting semantic change in multilingual historical corpora and generating diachronic ontologies as linguistic linked open data (LLOD). Initiated as a use case (UC4.2.1) within the COST Action Nexus Linguarum, European network for Web-centred linguistic data science, the study will explore emerging trends in knowledge extraction, analysis and representation from linguistic data science, and apply the devised methodology to datasets in the humanities to trace the evolution of concepts from the domain of socio-cultural transformation. The paper will describe the main elements of the methodological framework and preliminary planning of the intended workflow.

@@ -1,0 +1,10 @@
+Title: Introduction to Reinforcement Learning
+
+Source: openalex
+Authors: Richard S. Sutton, Andrew G. Barto
+Year: 1998
+URL: N/A
+
+Abstract:
+From the Publisher:
+In Reinforcement Learning, Richard Sutton and Andrew Barto provide a clear and simple account of the key ideas and algorithms of reinforcement learning. Their discussion ranges from the history of the field's intellectual foundations to the most recent developments and applications. The only necessary mathematical background is familiarity with elementary concepts of probability.

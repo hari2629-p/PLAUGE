@@ -1,0 +1,4 @@
+Title: Towards the Study of Morphological Processing of the Tangkhul Language
+
+Abstract:
+There is no or little work on natural language processing of Tangkhul language. The current work is a humble beginning of morphological processing of this language using an unsupervised approach. We use a small corpus collected from different sources of text books, short stories and articles of other topics. Based on the experiments carried out, the morpheme identification task using morphessor gives reasonable and interesting output despite using a small corpus.

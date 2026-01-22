@@ -1,0 +1,9 @@
+Title: SNOMED CT Primitive Concept Similarity Measure by Concept Name Text Similarity Approach
+
+Source: crossref
+Authors: Htun Htet Htet, Sornlertlamvanich Virach
+Year: 2018
+URL: https://doi.org/10.3233/978-1-61499-834-1-373
+
+Abstract:
+In the last few years, Concept Similarity Measures (CSMs) become important for the biomedical ontologies in order to find adaptable treatments from the conceptually similar diseases. For the ontology primitive concepts, they are not fully defined in the ontology so taxonomical path-based similarity measure cannot give the correct similarity for primitive concepts. In this paper, we propose a new primitive concept name similarity measure based on natural language processing to get a better result in concept similarity measure in terms of noun phrase construction analysis. We conduct experiments on the standard clinical ontology SNOMED CT and make comparison between taxonomical path-based measure and our proposed similarity measure against human expert results in order to prove our proposed similarity measure can outperform the existing approaches for primitive concept similarity.

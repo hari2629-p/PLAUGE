@@ -1,0 +1,9 @@
+Title: Machine learning with sklearn
+
+Source: crossref
+Authors: Thomas P. Trappenberg
+Year: 2019
+URL: https://doi.org/10.1093/oso/9780198828044.003.0003
+
+Abstract:
+This chapter’s goal is to show how to apply machine learning algorithms in a general setting using some classic methods. In particular, it demonstrates how to apply three important machine learning algorithms, a support vector classifier (SVC), a random forest classifier (RFC), and a multilayer perceptron (MLP). While many of the methods studied later go beyond these now classic methods, this does not mean that these methods are obsolete. Also, the algorithms discussed here provide some form of baseline to discuss advanced methods like probabilistic reasoning and deep learning. The aim here is to demonstrate that applying machine learning methods based on machine learning libraries is not very difficult. It offers an opportunity to discuss evaluation techniques that are very important in practice.

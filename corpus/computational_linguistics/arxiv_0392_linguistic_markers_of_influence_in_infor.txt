@@ -1,0 +1,9 @@
+Title: Linguistic Markers of Influence in Informal Interactions
+
+Source: arxiv
+Authors: Shrimai Prabhumoye, Samridhi Choudhary, Evangelia Spiliopoulou, Christopher Bogart, Carolyn Penstein Rose
+Year: 2017
+URL: N/A
+
+Abstract:
+There has been a long standing interest in understanding `Social Influence' both in Social Sciences and in Computational Linguistics. In this paper, we present a novel approach to study and measure interpersonal influence in daily interactions. Motivated by the basic principles of influence, we attempt to identify indicative linguistic features of the posts in an online knitting community. We present the scheme used to operationalize and label the posts with indicator features. Experiments with the identified features show an improvement in the classification accuracy of influence by 3.15%. Our results illustrate the important correlation between the characteristics of the language and its potential to influence others.

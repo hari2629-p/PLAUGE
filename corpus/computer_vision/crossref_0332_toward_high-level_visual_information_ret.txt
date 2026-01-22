@@ -1,0 +1,9 @@
+Title: Toward High-Level Visual Information Retrieval
+
+Source: crossref
+Authors: Yu-Jin Zhang
+Year: 2011
+URL: https://doi.org/10.4018/978-1-59904-370-8.ch001
+
+Abstract:
+Content-based visual information retrieval (CBVIR), as a new generation (with new concepts, techniques and mechanisms, etc.) of visual information retrieval, has attracted many interests from database community. The research starts by using low-level feature in more than a dozen years’ ago. The current focus has been shifted to capture high-level semantics of visual information. This chapter will convey the research from feature level to semantic level, by treating the problem of semantic gap, under the general framework of CBVIR. This high level research is the so called semantic-based visual information retrieval (SBVIR). This chapter first shows some statistics about the research publications on semantic-based retrieval in recent years, it then presents some existing approaches based on multi-level image retrieval and multi-level video retrieval. It also gives an overview on several current centers of attention, by summarizing certain results on subjects as image and video annotation, human-computer interaction, models and tools for semantic retrieval, and miscellaneous techniques in application. Before finishing, some future research directions, the domain knowledge and learning, relevance feedback and association feedback, as well as research at even high level, such as cognitive level, are pointed out.

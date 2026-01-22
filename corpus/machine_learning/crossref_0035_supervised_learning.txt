@@ -1,0 +1,9 @@
+Title: Supervised Learning
+
+Source: crossref
+Authors: Stefan Nagel
+Year: 2021
+URL: https://doi.org/10.23943/princeton/9780691218700.003.0002
+
+Abstract:
+This chapter provides a brief overview of supervised learning methods as the literature on this topic is vast and rapidly evolving. It focuses on the basic elements of these techniques that seem particularly useful for asset pricing and looks at the material on some of those methods in more detail by reviewing asset pricing applications. Supervised learning methods can be grouped into two categories: classification and regression methods. The chapter explains that classification methods are used in settings where the dependent variable y is categorial, while regression methods deal with continuous dependent variables. In asset pricing applications, regression problems are more common, although classification methods can also be useful, for example for prediction of binary events like a corporate default.

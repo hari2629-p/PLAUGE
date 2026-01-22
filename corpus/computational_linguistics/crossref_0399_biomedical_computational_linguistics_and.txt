@@ -1,0 +1,9 @@
+Title: Biomedical Computational Linguistics and Natural Language Processing
+
+Source: crossref
+Authors: Kevin Bretonnel Cohen
+Year: 2021
+URL: https://doi.org/10.1093/oxfordhb/9780199573691.013.46
+
+Abstract:
+Computational linguistics has its origins in the post-Second World War research on translation of Russian-language scientific journal articles in the United States. Today, biomedical natural language processing treats clinical data, the scientific literature, and social media, with use cases ranging from studying adverse effects of drugs to interpreting high-throughput genomic assays (Névéol and Zweigenbaum 2018). Many of the most prominent research areas in the field involve extracting information from text and normalizing it to enormous databases of domain-relevant semantic classes, such as genes, diseases, and biological processes. Moving forward, the field is expected to play a significant role in understanding reproducibility in natural language processing.

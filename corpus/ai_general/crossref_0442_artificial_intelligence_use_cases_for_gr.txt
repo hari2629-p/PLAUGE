@@ -1,0 +1,12 @@
+Title: Artificial Intelligence Use Cases for Ground Vehicle Applications
+
+Source: crossref
+Authors: Unknown
+Year: 2025
+URL: https://doi.org/10.4271/j3312_202502
+
+Abstract:
+&lt;div class="section abstract"&gt;
+
+
+&lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report identifies use cases for AI technology applications to ground vehicles and transportation infrastructure. Whenever applicable, functional definitions and noted issues and concerns are provided in consistent with the current industry mobility practices and published peer-reviewed literature.&lt;/div&gt;&lt;/div&gt;

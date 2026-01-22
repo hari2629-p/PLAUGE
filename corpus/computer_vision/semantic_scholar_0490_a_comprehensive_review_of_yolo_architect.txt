@@ -1,0 +1,9 @@
+Title: A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS
+
+Source: semantic_scholar
+Authors: Juan R. Terven, Diana-Margarita Córdova-Esparza, J. Romero-González
+Year: 2023
+URL: https://www.semanticscholar.org/paper/913d86a84afae61b51281a1bce2edbd72b7c7acb
+
+Abstract:
+YOLO has become a central real-time object detection system for robotics, driverless cars, and video monitoring applications. We present a comprehensive analysis of YOLO’s evolution, examining the innovations and contributions in each iteration from the original YOLO up to YOLOv8, YOLO-NAS, and YOLO with transformers. We start by describing the standard metrics and postprocessing; then, we discuss the major changes in network architecture and training tricks for each model. Finally, we summarize the essential lessons from YOLO’s development and provide a perspective on its future, highlighting potential research directions to enhance real-time object detection systems.

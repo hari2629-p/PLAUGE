@@ -1,0 +1,9 @@
+Title: Pneumonia Detection with Semantic Similarity Scores
+
+Source: crossref
+Authors: Rahil Gholamipoor, Nima Rafiee, Markus Kollmann
+Year: 2021
+URL: https://doi.org/10.1101/2021.10.14.464247
+
+Abstract:
+X-ray images have been widely used for medical diagnoses of cardiothoracic and pulmonary abnormalities due to its noninvasiveness. Advancement in computer-aided diagnostic technologies, such as deep supervised methods, can help radiologists with a reliable early treatment and reduce diagnosis time. Nevertheless, these methods are prone to the small number of labeled samples and are limited to a specific abnormality. In this paper we combined a self-supervised contrastive method with a Mahalanobis distance score to develope an abnormality detection method that uses only healthy images during the training procedure. We were able to outperform previous unsupervised methods for the task of Pneumonia detection. We show that representation learned by the self-supervised method improves the supervised tasks for Pneumonia detection.

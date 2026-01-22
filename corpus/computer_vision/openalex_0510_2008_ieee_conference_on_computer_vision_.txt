@@ -1,0 +1,9 @@
+Title: 2008 IEEE Conference on Computer Vision and Pattern Recognition
+
+Source: openalex
+Authors: Unknown
+Year: 2008
+URL: https://doi.org/10.1109/cvpr12618.2008
+
+Abstract:
+Non-blind deblurring is an integral component of blind approaches for removing image blur due to camera shake.Even though learning-based deblurring methods exist, they have been limited to the generative case and are computationally expensive.To this date, manually-defined models are thus most widely used, though limiting the attained restoration quality.We address this gap by proposing a discriminative approach for non-blind deblurring.One key challenge is that the blur kernel in use at test time is not known in advance.To address this, we analyze existing approaches that use half-quadratic regularization.From this analysis, we derive a discriminative model cascade for image deblurring.Our cascade model consists of a Gaussian CRF at each stage, based on the recently introduced regression tree fields.We train our model by loss minimization and use synthetically generated blur kernels to generate training data.Our experiments show that the proposed approach is efficient and yields state-of-the-art restoration quality on images corrupted with synthetic and real blur.

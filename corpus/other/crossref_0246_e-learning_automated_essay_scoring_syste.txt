@@ -1,0 +1,9 @@
+Title: E-learning Automated Essay Scoring System Menggunakan Metode Searching Text Similarity Matching Text
+
+Source: crossref
+Authors: Rahmat Ahmad
+Year: 2020
+URL: https://doi.org/10.25042/jpe.052018.07
+
+Abstract:
+E-learning is an information technology that has been widely applied to the field of education in the form of websites because it can be accessed indefinitely and place. The development of E-learrning is logical because it follows the age of putting forward information and communication technology. Conventional learning is especially an evaluation of essay form learning, where teachers check students' essay answers that require more time and effort. Automated Essay Scoring (AES) is one of the features of Elearning that can facilitate the teacher in matching the answer of student essay with answer key. Text similarity is a method of matching text that is recall word based on specified condition (term). The language used in AES is Indonesian which has a different word morphology with other languages. The results obtained in this study is the Error rate using the term frequency (tf) is lower with high accuracy.

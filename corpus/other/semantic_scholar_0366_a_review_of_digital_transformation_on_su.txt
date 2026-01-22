@@ -1,0 +1,9 @@
+Title: A Review of Digital Transformation on Supply Chain Process Management Using Text Mining
+
+Source: semantic_scholar
+Authors: M. Tavana, A. Shaabani, Iman Raeesi Vanani, Rajan Kumar Gangadhari
+Year: 2022
+URL: https://www.semanticscholar.org/paper/b17d8f0262012d629f5f7e2c3d117eca6a50b820
+
+Abstract:
+Industry 4.0 technologies are causing a paradigm shift in supply chain process management. The digital transformation of the supply chains provides enormous benefits to organizations by empowering collaboration among multiple internal and external organizations and systems. This study presents a narrative review explaining the existing knowledge on digital transformation in supply chain process management using text mining. It summarizes the existing literature to explain the current state of the art in supply chain digitalization. This comprehensive review identifies the most important topics and technologies and determines the future trends in this emerging field. We investigate the articles published in Web of Science and Scopus databases and use text mining techniques (clustering and topic modeling) on the article contents. Using VOS viewer, a bibliometric analysis of 395 articles with 12,700 references is analyzed. The contents of the articles are explored using text mining approaches. The synthesized results reveal that the most important topics in digital transformation are “sustainable supply chain management” and “circular economy and industry 4.0 technologies”. The study further discovers big data, data analytics, blockchain, artificial intelligence, machine learning, and the Internet of Things as the most critical technologies for facilitating supply chain digital transformation. Finally, an overlay heatmap analysis of the research articles found that digital transformation, supply chain management, industry 4.0, decision-making, and sustainability are emerging trends in supply chain digitalization.

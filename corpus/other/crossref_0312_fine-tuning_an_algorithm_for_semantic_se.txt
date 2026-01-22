@@ -1,0 +1,9 @@
+Title: Fine-Tuning an Algorithm for Semantic Search Using a Similarity Graph
+
+Source: crossref
+Authors: Lubomir Stanchev
+Year: 2015
+URL: https://doi.org/10.1142/s1793351x15400073
+
+Abstract:
+ Given a set of documents and an input query that is expressed in a natural language, the problem of document search is retrieving the most relevant documents. Unlike most existing systems that perform document search based on keyword matching, we propose a method that considers the meaning of the words in the queries and documents. As a result, our algorithm can return documents that have no words in common with the input query as long as the documents are relevant. For example, a document that contains the words "Ford", "Chrysler" and "General Motors" multiple times is surely relevant for the query "car" even if the word "car" never appears in the document. Our information retrieval algorithm is based on a similarity graph that contains the degree of semantic closeness between terms, where a term can be a word or a phrase. Since the algorithms that constructs the similarity graph takes as input a myriad of parameters, in this paper we fine-tune the part of the algorithm that constructs the Wikipedia part of the graph. Specifically, we experimentally fine-tune the algorithm on the Miller and Charles study benchmark that contains 30 pairs of terms and their similarity score as determined by human users. We then evaluate the performance of the fine-tuned algorithm on the Cranfield benchmark that contains 1400 documents and 225 natural language queries. The benchmark also contains the relevant documents for every query as determined by human judgment. The results show that the fine-tuned algorithm produces higher mean average precision (MAP) score than traditional keyword-based search algorithms because our algorithm considers not only the words and phrases in the query and documents, but also their meaning. 

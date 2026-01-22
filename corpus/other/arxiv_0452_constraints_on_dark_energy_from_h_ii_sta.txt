@@ -1,0 +1,9 @@
+Title: Constraints on dark energy from H II starburst galaxy apparent magnitude versus redshift data
+
+Source: arxiv
+Authors: Data Mania, Bharat Ratra
+Year: 2011
+URL: N/A
+
+Abstract:
+In this paper we use H II starburst galaxy apparent magnitude versus redshift data from Siegel et al. (2005) to constrain dark energy cosmological model parameters. These constraints are generally consistent with those derived using other data sets, but are not as restrictive as the tightest currently available constraints.

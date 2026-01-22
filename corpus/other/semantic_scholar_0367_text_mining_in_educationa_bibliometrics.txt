@@ -1,0 +1,9 @@
+Title: Text Mining in Education—A Bibliometrics-Based Systematic Review
+
+Source: semantic_scholar
+Authors: A. Ahadi, A. Singh, M. Bower, Michael Garrett
+Year: 2022
+URL: https://www.semanticscholar.org/paper/dc20c9ba01397d5b3fd2be5dc1db521d867968f7
+
+Abstract:
+Advances in Information Technology (IT) and computer science have without a doubt had a significant impact on our daily lives. The past few decades have witnessed the advancement of IT enabled processes in generating actionable insights in various fields, encouraging research based applications of modern Data Science methods. Among many other fields, education research has also been adopting different analytical approaches to advance the state of education systems. Moreover, developments in software engineering and web-based applications have made collection of education data possible at large scales. This systematic review aims to explore the 21st century’s state of the art applications of text mining methods used in the field of education. We analyse the metadata of all publications that use text mining or natural language processing in educational settings to report on the key themes of application of text mining methods in educational studies providing an overview of the current state of the art and the future directions for research and applications.

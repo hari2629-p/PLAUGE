@@ -1,0 +1,9 @@
+Title: A comparison of reading paper and on-line documents
+
+Source: openalex
+Authors: Kenton O’Hara, Abigail Sellen
+Year: 1997
+URL: https://doi.org/10.1145/258549.258787
+
+Abstract:
+Article Free Access Share on A comparison of reading paper and on-line documents Authors: Kenton O'Hara Rank Xerox Research Centre (EuroPARC), 61 Regent St., Cambridge, CB2 1AB, U.K. Rank Xerox Research Centre (EuroPARC), 61 Regent St., Cambridge, CB2 1AB, U.K.View Profile , Abigail Sellen Rank Xerox Research Centre (EuroPARC), 61 Regent St., Cambridge, CB2 1AB, U.K. Rank Xerox Research Centre (EuroPARC), 61 Regent St., Cambridge, CB2 1AB, U.K.View Profile Authors Info & Claims CHI '97: Proceedings of the ACM SIGCHI Conference on Human factors in computing systemsMarch 1997 Pages 335–342https://doi.org/10.1145/258549.258787Online:27 March 1997Publication History 295citation5,569DownloadsMetricsTotal Citations295Total Downloads5,569Last 12 Months194Last 6 weeks16 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF

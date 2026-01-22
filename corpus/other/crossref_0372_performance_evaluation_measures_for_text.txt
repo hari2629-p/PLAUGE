@@ -1,0 +1,9 @@
+Title: Performance Evaluation Measures for Text Mining
+
+Source: crossref
+Authors: Hanna Suominen
+Year: 2009
+URL: https://doi.org/10.4018/978-1-59904-990-8.ch041
+
+Abstract:
+The purpose of this chapter is to provide an overview of prevalent measures for evaluating the quality of system output in seven key text mining task domains. For each task domain, a selection of widely used, well applicable measures is presented, and their strengths and weaknesses are discussed. Performance evaluation is essential for text mining system development and comparison, but the selection of a suitable performance evaluation measure is not a straightforward task. Therefore this chapter also attempts to give guidelines for measure selection. As measures are under constant development in many task domains and it is important to take the task domain characteristics and conventions into account, references to relevant performance evaluation events and literature are provided. 

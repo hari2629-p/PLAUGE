@@ -1,0 +1,9 @@
+Title: Model Based Reinforcement Learning: Policy Iteration, Value Iteration, and Dynamic Programming
+
+Source: crossref
+Authors: Steven L. Brunton
+Year: 2023
+URL: https://doi.org/10.52843/cassyni.6fs4s9
+
+Abstract:
+Here we introduce dynamic programming, which is a cornerstone of model-based reinforcement learning. We demonstrate dynamic programming for policy iteration and value iteration, leading to the quality function and Q-learning.

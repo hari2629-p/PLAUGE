@@ -1,0 +1,9 @@
+Title: Attention mechanisms in computer vision: A survey
+
+Source: semantic_scholar
+Authors: Meng-Hao Guo, Tianhan Xu, Jiangjiang Liu, Zheng-Ning Liu, Peng-Tao Jiang
+Year: 2021
+URL: https://www.semanticscholar.org/paper/45f686be3b96302ede327645227134e1c304dbab
+
+Abstract:
+Humans can naturally and effectively find salient regions in complex scenes. Motivated by this observation, attention mechanisms were introduced into computer vision with the aim of imitating this aspect of the human visual system. Such an attention mechanism can be regarded as a dynamic weight adjustment process based on features of the input image. Attention mechanisms have achieved great success in many visual tasks, including image classification, object detection, semantic segmentation, video understanding, image generation, 3D vision, multimodal tasks, and self-supervised learning. In this survey, we provide a comprehensive review of various attention mechanisms in computer vision and categorize them according to approach, such as channel attention, spatial attention, temporal attention, and branch attention; a related repository https://github.com/MenghaoGuo/Awesome-Vision-Attentions is dedicated to collecting related work. We also suggest future directions for attention mechanism research.

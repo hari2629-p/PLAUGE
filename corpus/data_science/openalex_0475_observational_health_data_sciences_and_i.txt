@@ -1,0 +1,9 @@
+Title: Observational Health Data Sciences and Informatics (OHDSI): Opportunities for Observational Researchers
+
+Source: openalex
+Authors: George Hripcsak, Jon Duke, Nigam H. Shah, Christian Reich, Vojtech Huser
+Year: 2015
+URL: https://doi.org/10.3233/978-1-61499-564-7-574
+
+Abstract:
+The vision of creating accessible, reliable clinical evidence by accessing the clincial experience of hundreds of millions of patients across the globe is a reality. Observational Health Data Sciences and Informatics (OHDSI) has built on learnings from the Observational Medical Outcomes Partnership to turn methods research and insights into a suite of applications and exploration tools that move the field closer to the ultimate goal of generating evidence about all aspects of healthcare to serve the needs of patients, clinicians and all other decision-makers around the world.

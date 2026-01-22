@@ -1,0 +1,9 @@
+Title: Effectiveness of Coaching Interventions using Grammarly Software and Plagiarism Detection Software in Reducing Grammatical Errors and Plagiarism of Undergraduate Researches
+
+Source: crossref
+Authors: Genaro V. Japos
+Year: 2014
+URL: https://doi.org/10.7719/irj.v1i1.207
+
+Abstract:
+Grammar checker and plagiarism software are indispensable tools in aiding researchers to identify and correct their mistakes. The study examined the errors detected by grammarly software and plagiarism software and how these were reduced due to coaching interventions. The study used the descriptive and inferential research design involving 47 specimens of student research as undergraduate theses written as publishable paper. These papers were intended for the Advancing Research Journals by academic discipline available online, cross referenced and indexed. The study involved a statistical analysis of data derived from software reports tested through the use of t-test and Pearson correlation. The results showed significant reductions in the occurrence of the grammar errors indicating that the coaching interventions were effective. There is also an inverse, moderate and significant correlation between occurrence of grammatical score and plagiarism. The study concludes that those who commit higher incidents of plagiarism also have lower commission of grammatical errors. When students are poor in writing style and vocabulary use, their score for originality increases. The study recommends for adoption of academic integrity policies to curb grammar and plagiarism occurrences among student researchers in the university.

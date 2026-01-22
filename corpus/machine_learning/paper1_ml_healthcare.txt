@@ -1,0 +1,13 @@
+Machine Learning in Healthcare: A Comprehensive Review
+
+Abstract: Machine learning has emerged as a transformative technology in healthcare, 
+enabling improved diagnostics, personalized treatment plans, and efficient resource allocation. 
+This paper reviews the current state of machine learning applications in medical imaging, 
+drug discovery, and patient outcome prediction. Deep learning algorithms, particularly 
+convolutional neural networks, have shown remarkable accuracy in detecting diseases from 
+medical images such as X-rays, MRIs, and CT scans. Natural language processing techniques 
+are being applied to electronic health records to extract meaningful insights. The integration 
+of machine learning with wearable devices enables continuous health monitoring. However, 
+challenges remain in data privacy, model interpretability, and regulatory approval. Future 
+research should focus on developing explainable AI models that healthcare professionals 
+can trust and understand.

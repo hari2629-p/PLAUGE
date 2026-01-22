@@ -1,0 +1,9 @@
+Title: The performance of text similarity algorithms
+
+Source: openalex
+Authors: Didik Dwi Prasetya, Aji Prasetya Wibawa, Tsukasa Hirashima
+Year: 2018
+URL: https://doi.org/10.26555/ijain.v4i1.152
+
+Abstract:
+Text similarity measurement compares text with available references to indicate the degree of similarity between those objects. There have been many studies of text similarity and resulting in various approaches and algorithms. This paper investigates four majors text similarity measurements which include String-based, Corpus-based, Knowledge-based, and Hybrid similarities. The results of the investigation showed that the semantic similarity approach is more rational in finding substantial relationship between texts.

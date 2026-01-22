@@ -1,0 +1,9 @@
+Title: Accessibility in Information Retrieval
+
+Source: arxiv
+Authors: Leif Azzopardi, Vishwa Vinay
+Year: 2024
+URL: N/A
+
+Abstract:
+This paper introduces the concept of accessibility from the field of transportation planning and adopts it within the context of Information Retrieval (IR). An analogy is drawn between the fields, which motivates the development of document accessibility measures for IR systems. Considering the accessibility of documents within a collection given an IR System provides a different perspective on the analysis and evaluation of such systems which could be used to inform the design, tuning and management of current and future IR systems.

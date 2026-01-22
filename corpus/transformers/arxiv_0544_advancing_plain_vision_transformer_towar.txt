@@ -1,0 +1,9 @@
+Title: Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model
+
+Source: arxiv
+Authors: Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du
+Year: 2022
+URL: N/A
+
+Abstract:
+Large-scale vision foundation models have made significant progress in visual tasks on natural images, with vision transformers being the primary choice due to their good scalability and representation ability. However, large-scale models in remote sensing (RS) have not yet been sufficiently explored. In this paper, we resort to plain vision transformers with about 100 million parameters and make the first attempt to propose large vision models tailored to RS tasks and investigate how such large models perform. To handle the large sizes and objects of arbitrary orientations in RS images, we propose a new rotated varied-size window attention to replace the original full attention in transformers, which can significantly reduce the computational cost and memory footprint while learning better object representation by extracting rich context from the generated diverse windows. Experiments on detection tasks show the superiority of our model over all state-of-the-art models, achieving 81.24% mAP on the DOTA-V1.0 dataset. The results of our models on downstream classification and segmentation tasks also show competitive performance compared to existing advanced methods. Further experiments show the advantages of our models in terms of computational complexity and data efficiency in transferring.

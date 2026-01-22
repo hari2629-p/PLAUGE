@@ -1,0 +1,9 @@
+Title: Detecting Disguised Plagiarism
+
+Source: arxiv
+Authors: Hatem A. Mahmoud
+Year: 2017
+URL: N/A
+
+Abstract:
+Source code plagiarism detection is a problem that has been addressed several times before; and several tools have been developed for that purpose. In this research project we investigated a set of possible disguises that can be mechanically applied to plagiarized source code to defeat plagiarism detection tools. We propose a preprocessor to be used with existing plagiarism detection tools to "normalize" source code before checking it, thus making such disguises ineffective.

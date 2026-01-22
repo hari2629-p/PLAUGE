@@ -1,0 +1,9 @@
+Title: Intrusion Detection A Text Mining Based Approach
+
+Source: arxiv
+Authors: Gunupudi RajeshKumar, N Mangathayaru, G Narsimha
+Year: 2016
+URL: N/A
+
+Abstract:
+Intrusion Detection is one of major threats for organization. The approach of intrusion detection using text processing has been one of research interests which is gaining significant importance from researchers. In text mining based approach for intrusion detection, system calls serve as source for mining and predicting possibility of intrusion or attack. When an application runs, there might be several system calls which are initiated in the background. These system calls form the strong basis and the deciding factor for intrusion detection. In this paper, we mainly discuss the approach for intrusion detection by designing a distance measure which is designed by taking into consideration the conventional Gaussian function and modified to suit the need for similarity function. A Framework for intrusion detection is also discussed as part of this research.

@@ -1,0 +1,9 @@
+Title: Methods for Detecting Paraphrase Plagiarism
+
+Source: arxiv
+Authors: Victor Thompson
+Year: 2017
+URL: N/A
+
+Abstract:
+Paraphrase plagiarism is one of the difficult challenges facing plagiarism detection systems. Paraphrasing occur when texts are lexically or syntactically altered to look different, but retain their original meaning. Most plagiarism detection systems (many of which are commercial based) are designed to detect word co-occurrences and light modifications, but are unable to detect severe semantic and structural alterations such as what is seen in many academic documents. Hence many paraphrase plagiarism cases go undetected. In this paper, we approached the problem of paraphrase plagiarism by proposing methods for detecting the most common techniques (phenomena) used in paraphrasing texts (namely; lexical substitution, insertion/deletion and word and phrase reordering), and combined the methods into a paraphrase detection model. We evaluated our proposed methods and model on collections containing paraphrase texts. Experimental results show significant improvement in performance when the methods were combined (the proposed model) as opposed to running them individually. The results also show that the proposed paraphrase detection model outperformed a standard baseline (based on greedy string tilling), and previous studies.

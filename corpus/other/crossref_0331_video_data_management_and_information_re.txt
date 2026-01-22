@@ -1,0 +1,9 @@
+Title: Video Data Management and Information Retrieval
+
+Source: crossref
+Authors: Sagarmay Deb
+Year: 2011
+URL: https://doi.org/10.4018/978-1-59140-571-9.ch001
+
+Abstract:
+In this chapter, we present a basic introduction to two very important areas of research in the domain of Information Technology, namely, video data management and video information retrieval. Both of these areas need additional research efforts to seek solutions to many unresolved problems for efficient data management and information retrieval. We discuss those issues and relevant works done so far in these two fields.

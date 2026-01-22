@@ -1,0 +1,9 @@
+Title: Old and new challenges in automatic plagiarism detection
+
+Source: openalex
+Authors: Paul Clough, Regent Court
+Year: 2003
+URL: N/A
+
+Abstract:
+Automatic methods of measuring similarity between program code and natural language text pairs have been used for many years to assist humans in detecting plagiarism. For example, over the past thirty years or so, a vast number of approaches have been proposed for detecting likely plagiarism between programs written by Computer Science students. However, more recently, approaches to identifying similarities between natural language texts have been addressed, but given the ambiguity and complexity of natural over program languages, this task is very difficult. Automatic detection is gaining further interest from both the academic and commercial worlds given the ease with which texts can now be found, copied and rewritten. Following the recent increase in the popularity of on-line services offering plagiarism detection services and the increased publicity surrounding cases of plagiarism in academia and industry, this paper explores the nature of the plagiarism problem, and in particular summarise the approaches used so far for its detection. I focus on plagiarism detection in natural language, and discuss a number of methods I have used to measure text reuse. I end by suggesting a number of recommendations for further work in the field of automatic plagiarism detection. 1.

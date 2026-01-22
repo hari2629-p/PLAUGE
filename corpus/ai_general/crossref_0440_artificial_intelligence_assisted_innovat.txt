@@ -1,0 +1,9 @@
+Title: Artificial Intelligence Assisted Innovation
+
+Source: crossref
+Authors: Gideon Samid
+Year: 2021
+URL: https://doi.org/10.5772/intechopen.96112
+
+Abstract:
+Artificial Intelligence Assisted Innovation (AIAI) is a technology designed to improve innovation productivity by helping human innovators with all the support tasks that kindle the creative spark, and also with sorting out innovative propositions for their merit. Innovation activity is mushrooming and hence innovative history is an ever growing data accumulation. AIAI identified a universal innovation map, which is processed like the tape in a Turing machine, only here in the Innovation Turing machine, marking an innovation pathway. By mapping innovative history onto these maps, one enables the growing record of innovation history to guide current innovation as to merit, expected cost, estimated duration, etc. Using Monte Carlo and Discriminant Analysis, an Artificial Innovation Assistant runs a dialog with the human innovator with a net effect of accelerated innovation. Users of AIAI are expected to exhibit a commanding lead over innovators guided only by their creativity.

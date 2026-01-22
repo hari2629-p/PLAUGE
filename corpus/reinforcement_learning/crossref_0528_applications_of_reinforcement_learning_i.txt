@@ -1,0 +1,31 @@
+Title: Applications of Reinforcement Learning in Biometrics Sectors
+
+Source: crossref
+Authors: Baljit Singh Saini, Cherry Khosla
+Year: 2025
+URL: https://doi.org/10.2174/9789815322316125010009
+
+Abstract:
+Biometric systems rely on unique human characteristics for secure
+identification and authentication. Recently, Reinforcement Learning (RL), a powerful
+machine learning technique where algorithms learn through trial and error, has
+emerged as a potential game-changer in this field. This chapter explores the exciting
+possibilities of utilizing RL to enhance the capabilities of biometric systems, while also
+acknowledging the challenges that need to be addressed. Building upon the core
+concepts of RL - agents, environments, rewards, and policies - the chapter investigates
+its potential applications within the biometrics landscape. We explore areas like
+Liveness detection: RL algorithms can be employed to differentiate real-time biometric
+presentations, such as fingerprints or facial scans, from fraudulent attempts like photos
+or videos; Multimodal biometric authentication: RL can empower systems to
+dynamically weigh the contribution of various biometric modalities, like fingerprints,
+facial recognition, and iris scans, for more robust and accurate authentication;
+Continuous user verification: By enabling systems to learn and adapt throughout user
+sessions, RL can be used to continuously verify user identity, improving security and
+convenience and Adaptive biometric system optimization: RL can allow for real-time
+adjustments to parameters within the biometric system, ensuring optimal performance
+under various conditions. By providing a comprehensive analysis of both the potential
+applications and the challenges associated with RL in biometrics, this chapter aims to
+contribute to a deeper understanding of this emerging field. We believe that fostering
+open dialogue and collaboration between researchers, developers, and policymakers is
+essential to ensure the responsible exploration of RL in biometrics, paving the way for
+a future of secure and trustworthy human-machine interaction.

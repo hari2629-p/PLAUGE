@@ -1,0 +1,9 @@
+Title: Efficient Algorithms to Mine Maximal Span-Trusses From Temporal Graphs
+
+Source: arxiv
+Authors: Quintino Francesco Lotito, Alberto Montresor
+Year: 2020
+URL: N/A
+
+Abstract:
+Over the last decade, there has been an increasing interest in temporal graphs, pushed by a growing availability of temporally-annotated network data coming from social, biological and financial networks. Despite the importance of analyzing complex temporal networks, there is a huge gap between the set of definitions, algorithms and tools available to study large static graphs and the ones available for temporal graphs. An important task in temporal graph analysis is mining dense structures, i.e., identifying high-density subgraphs together with the span in which this high density is observed. In this paper, we introduce the concept of $(k, Δ)$-truss (span-truss) in temporal graphs, a temporal generalization of the $k$-truss, in which $k$ captures the information about the density and $Δ$ captures the time span in which this density holds. We then propose novel and efficient algorithms to identify maximal span-trusses, namely the ones not dominated by any other span-truss neither in the order $k$ nor in the interval $Δ$, and evaluate them on a number of public available datasets.

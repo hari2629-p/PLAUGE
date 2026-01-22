@@ -1,0 +1,9 @@
+Title: Buku Ajar Text Mining
+
+Source: crossref
+Authors: , Yulian Findawati
+Year: 2020
+URL: https://doi.org/10.21070/2020/978-623-6833-19-3
+
+Abstract:
+Puji syukur kepada Tuhan Yang Maha Esa, sehingga Usulan Buku Text Mining ini dapat disusun dengan baik dan selesai pada waktu yang telah ditentukan oleh Universitas Muhammadiyah Sidoarjo khususnya Direktorat Akademik yang bersedia untuk mengeluarkan dana dalam penulisan buku ajar ini. Penulisan buku ajar ini ditulis dalam 8 BAB secara garis besar, berdasarkan pengalaman penulis didunia kerja serta diambil dari hasil penelitian baik dari hasil penelitian mandiri maupun dari pendanaan Kemenristekdikti yang penulis dapatkan. Tak lupa kami juga mengucapkan terima kasih kepada: 1. Dr. Hidayatulloh, M.Si selaku Rektor Universitas Muhammadiyah Sidoarjo yang telah memberikan dan memfasilitasi dalam penulisan buku ajar ini. 2. Direktorat Akademik Universitas Muhammadiyah Sidoarjo yang telah memfasilitasi dan mengkoordinasi dalam penulisan buku ajar ini. 3. Dr. Hindarto, S.Kom, MT. selaku Dekan Fakultas Teknik, Universitas Universitas Muhammadiyah Sidoarjo yang telah memberikan dukungan untuk mengikuti penulisan buku ajar ini. 4. Dosen-dosen Teknik Informatika Universitas Universitas Muhammadiyah Sidoarjo yang telah memberikan dukungan untuk mengikuti penulisan buku ajar ini. 5. Para narasumber yang penulis tidak dapat sebutkan satu persatu yang telah banyak membantu, atas pengetahuan dan keterampilan yang diberikan dalam penyusunan penulisan buku ajar ini. 6. Aslab Teknik Informatika dan mahasiswa Teknik Informatika yang penulis tidak dapat sebutkan satu persatu yang telah banyak membantu, atas pengetahuan dan keterampilan yang diberikan dalam penyusunan penulisan buku ajar ini.

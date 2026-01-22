@@ -1,0 +1,9 @@
+Title: A Brief Survey of Text Mining
+
+Source: openalex
+Authors: Andreas Hotho, Andreas Nürnberger, Gerhard Paaß
+Year: 2005
+URL: https://doi.org/10.21248/jlcl.20.2005.68
+
+Abstract:
+The enormous amount of information stored in unstructured texts cannot simply be used for further processing by computers, which typically handle text as simple sequences of character strings.Therefore, specific (pre-)processing methods and algorithms are required in order to extract useful patterns.Text mining refers generally to the process of extracting interesting information and knowledge from unstructured text.In this article, we discuss text mining as a young and interdisciplinary field in the intersection of the related areas information retrieval, machine learning, statistics, computational linguistics and especially data mining.We describe the main analysis tasks preprocessing, classification, clustering, information extraction and visualization.In addition, we briefly discuss a number of successful applications of text mining.

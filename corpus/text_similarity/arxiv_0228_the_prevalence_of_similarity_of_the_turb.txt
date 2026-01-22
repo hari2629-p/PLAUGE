@@ -1,0 +1,9 @@
+Title: The Prevalence of Similarity of the Turbulent Wall-bounded Velocity Profile
+
+Source: arxiv
+Authors: David Weyburne
+Year: 2014
+URL: N/A
+
+Abstract:
+Castillo and George (Castillo, L. and George, W., AIAA J. 39, 41(2001)) developed a flow governing equation approach for describing the turbulent outer boundary layer region. The approach was used to develop similarity criteria for the mean velocity and Reynolds shear stress profiles. Using the criteria as a guide, Castillo, George, and coworkers examined an extensive set of experimental datasets and claim that most of these turbulent velocity boundary layers appear to be similar boundary layers when scaled with the Zagarola and Smits (Zagarola, M. and Smits, A., J. Fluid Mech. 373, 33(1998)) velocity parameter. In the work herein it is shown that their success at showing scaled profile similarity in many of those datasets is flawed due to a similarity problem that occurs when one combines the defect profile and the Zagarola and Smits type of velocity scaling parameter. The same problem has been identified in other papers in the literature and may in fact be widespread. We conclude that similarity of the turbulent velocity profile is not as prevalent as was claimed by Castillo, George, and coworkers. The result has implications as to the accepted paradigm of the scaling of the turbulent boundary layer.

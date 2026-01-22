@@ -1,0 +1,9 @@
+Title: A new method to measure the semantic similarity of GO terms
+
+Source: openalex
+Authors: James Z. Wang, Zhidian Du, Rapeeporn Payattakool, Philip S. Yu, Chin‐Fu Chen
+Year: 2007
+URL: https://doi.org/10.1093/bioinformatics/btm087
+
+Abstract:
+Abstract Motivation: Although controlled biochemical or biological vocabularies, such as Gene Ontology (GO) (http://www.geneontology.org), address the need for consistent descriptions of genes in different data sources, there is still no effective method to determine the functional similarities of genes based on gene annotation information from heterogeneous data sources. Results: To address this critical need, we proposed a novel method to encode a GO term's semantics (biological meanings) into a numeric value by aggregating the semantic contributions of their ancestor terms (including this specific term) in the GO graph and, in turn, designed an algorithm to measure the semantic similarity of GO terms. Based on the semantic similarities of GO terms used for gene annotation, we designed a new algorithm to measure the functional similarity of genes. The results of using our algorithm to measure the functional similarities of genes in pathways retrieved from the saccharomyces genome database (SGD), and the outcomes of clustering these genes based on the similarity values obtained by our algorithm are shown to be consistent with human perspectives. Furthermore, we developed a set of online tools for gene similarity measurement and knowledge discovery. Availability: The online tools are available at: http://bioinformatics.clemson.edu/G-SESAME Contact: jzwang@cs.clemson.edu Supplementary information: http://bioinformatics.clemson.edu/Publication/Supplement/gsp.htm

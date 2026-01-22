@@ -1,0 +1,9 @@
+Title: Natural Language Processing (NLP): Transforming Human-Machine Communication
+
+Source: crossref
+Authors: Anish Kumar
+Year: 2025
+URL: https://doi.org/10.36948/ijfmr.2025.v07i05.56061
+
+Abstract:
+Natural Language Processing (NLP) allows computers to comprehend, decode, and produce human language. This study examines text-centered communication and investigates approaches for analyzing electronic writings through techniques like finite-state automata, regular expressions, and grammars. The research emphasizes organized text processing and its ability to enhance human-computer interaction in digital environments

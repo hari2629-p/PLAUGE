@@ -1,0 +1,9 @@
+Title: Learning openCV: computer vision with the openCV library
+
+Source: openalex
+Authors: Gary Bradski, Adrian Kaehler
+Year: 2008
+URL: N/A
+
+Abstract:
+Learning OpenCV puts you right in the middle of the rapidly expanding field of computer vision. Written by the creators of OpenCV, the widely used free open-source library, this book introduces you to computer vision and demonstrates how you can quickly build applications that enable computers to see" and make decisions based on the data. With this book, any developer or hobbyist can get up and running with the framework quickly, whether it's to build simple or sophisticated vision applications

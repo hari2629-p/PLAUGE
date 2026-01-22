@@ -1,0 +1,9 @@
+Title: Design and Development of Cost-Effective Child Surveillance System using Computer Vision Technology
+
+Source: semantic_scholar
+Authors: Vedavyas Peddiraju, Ramchandar Rao Pamulaparthi, Chakaradhar Adupa, Laxman Raju Thoutam
+Year: 2022
+URL: https://www.semanticscholar.org/paper/290f40b6e5ad78a7f5c2cb226e48f98132843d9f
+
+Abstract:
+The project's primary goal is to ensure child surveillance, continuous monitor and alert system for safety. Pre-defined navigation is one of the primary challenges in the robotic industry. Many technologies have been developed to overcome these problems. The project utilizes a high-quality night vision camera that is installed on a navigation robot that moves in the pre-defined path. The night vision camera captures the image and video of child activity, and transmits the data to the main system. The navigation robot is also equipped with the passive infrared (PIR) sensor to monitor any unauthorized human face intervention for child abuduction, and sound sensor for cry detection. The sound sensor detects the crying of the child and gives alert to the parent for immediate assistance.re will be developed using Python in the Google Colab.

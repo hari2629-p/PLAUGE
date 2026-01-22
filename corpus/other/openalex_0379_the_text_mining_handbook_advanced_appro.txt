@@ -1,0 +1,9 @@
+Title: The text mining handbook: advanced approaches in analyzing unstructured data
+
+Source: openalex
+Authors: Unknown
+Year: 2007
+URL: https://doi.org/10.5860/choice.44-5684
+
+Abstract:
+1. Introduction to text mining 2. Core text mining operations 3. Text mining preprocessing techniques 4. Categorization 5. Clustering 6. Information extraction 7. Probabilistic models for Information extraction 8. Preprocessing applications using probabilistic and hybrid approaches 9. Presentation-layer considerations for browsing and query refinement 10. Visualization approaches 11. Link analysis 12. Text mining applications Appendix Bibliography.

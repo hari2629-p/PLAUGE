@@ -1,0 +1,9 @@
+Title: Application of Natural Language Processing (NLP) in Detecting and Preventing Suicide Ideation: A Systematic Review
+
+Source: openalex
+Authors: Abayomi Arowosegbe, Tope Oyelade
+Year: 2023
+URL: https://doi.org/10.3390/ijerph20021514
+
+Abstract:
+(1) Introduction: Around a million people are reported to die by suicide every year, and due to the stigma associated with the nature of the death, this figure is usually assumed to be an underestimate. Machine learning and artificial intelligence such as natural language processing has the potential to become a major technique for the detection, diagnosis, and treatment of people. (2) Methods: PubMed, EMBASE, MEDLINE, PsycInfo, and Global Health databases were searched for studies that reported use of NLP for suicide ideation or self-harm. (3) Result: The preliminary search of 5 databases generated 387 results. Removal of duplicates resulted in 158 potentially suitable studies. Twenty papers were finally included in this review. (4) Discussion: Studies show that combining structured and unstructured data in NLP data modelling yielded more accurate results than utilizing either alone. Additionally, to reduce suicides, people with mental problems must be continuously and passively monitored. (5) Conclusions: The use of AI&amp;ML opens new avenues for considerably guiding risk prediction and advancing suicide prevention frameworks. The review’s analysis of the included research revealed that the use of NLP may result in low-cost and effective alternatives to existing resource-intensive methods of suicide prevention.

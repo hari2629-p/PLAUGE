@@ -1,0 +1,9 @@
+Title: Will it Blend? Composing Value Functions in Reinforcement Learning
+
+Source: arxiv
+Authors: Benjamin van Niekerk, Steven James, Adam Earle, Benjamin Rosman
+Year: 2018
+URL: N/A
+
+Abstract:
+An important property for lifelong-learning agents is the ability to combine existing skills to solve unseen tasks. In general, however, it is unclear how to compose skills in a principled way. We provide a "recipe" for optimal value function composition in entropy-regularised reinforcement learning (RL) and then extend this to the standard RL setting. Composition is demonstrated in a video game environment, where an agent with an existing library of policies is able to solve new tasks without the need for further learning.

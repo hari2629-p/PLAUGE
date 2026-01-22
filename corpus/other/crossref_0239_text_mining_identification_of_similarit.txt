@@ -1,0 +1,10 @@
+Title: Text Mining: Identification of Similarity of Text documents using Hybrid Similarity model
+
+Source: crossref
+Authors: Shiva Prasad KM
+Year: 2022
+URL: https://doi.org/10.21203/rs.3.rs-2103061/v1
+
+Abstract:
+Abstract
+        The volume of data that is accessible on the internet has increased dramatically. This growth of data will only increase exponentially in the future as more data exhaust devices are connected to the network. A part of this data consists of documents from various sources. As the data from various digital sources increases, it becomes tough to perform the process of identification of relevant information which is most essentially needed for their further usage. Our paper aims at providing a hybrid similarity algorithm that identifies similar documents both in terms of semantic similarity and contextual similarity using text summarization techniques. Some of these techniques use deep learning with multiple layers and prebuilt models of NLP to provide similarity between documents and attempt to provide a quantitative number to the polysemy quotient of the corpus. The experimental results of our model provided an accuracy of 76.25% compared with other traditional algorithms

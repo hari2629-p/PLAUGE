@@ -1,0 +1,9 @@
+Title: A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence
+
+Source: openalex
+Authors: Michael Haenlein, Andreas Kaplan
+Year: 2019
+URL: https://doi.org/10.1177/0008125619864925
+
+Abstract:
+This introduction to this special issue discusses artificial intelligence (AI), commonly defined as “a system’s ability to interpret external data correctly, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.” It summarizes seven articles published in this special issue that present a wide variety of perspectives on AI, authored by several of the world’s leading experts and specialists in AI. It concludes by offering a comprehensive outlook on the future of AI, drawing on micro-, meso-, and macro-perspectives.

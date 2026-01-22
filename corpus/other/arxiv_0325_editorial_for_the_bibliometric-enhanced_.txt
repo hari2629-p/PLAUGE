@@ -1,0 +1,9 @@
+Title: Editorial for the Bibliometric-enhanced Information Retrieval Workshop at ECIR 2014
+
+Source: arxiv
+Authors: Philipp Mayr, Philipp Schaer, Andrea Scharnhorst, Peter Mutschke
+Year: 2014
+URL: N/A
+
+Abstract:
+This first "Bibliometric-enhanced Information Retrieval" (BIR 2014) workshop aims to engage with the IR community about possible links to bibliometrics and scholarly communication. Bibliometric techniques are not yet widely used to enhance retrieval processes in digital libraries, although they offer value-added effects for users. In this workshop we will explore how statistical modelling of scholarship, such as Bradfordizing or network analysis of co-authorship network, can improve retrieval services for specific communities, as well as for large, cross-domain collections. This workshop aims to raise awareness of the missing link between information retrieval (IR) and bibliometrics / scientometrics and to create a common ground for the incorporation of bibliometric-enhanced services into retrieval at the digital library interface. Our interests include information retrieval, information seeking, science modelling, network analysis, and digital libraries. The goal is to apply insights from bibliometrics, scientometrics, and informetrics to concrete practical problems of information retrieval and browsing.

@@ -1,0 +1,9 @@
+Title: Anderson Acceleration for Reinforcement Learning
+
+Source: arxiv
+Authors: Matthieu Geist, Bruno Scherrer
+Year: 2018
+URL: N/A
+
+Abstract:
+Anderson acceleration is an old and simple method for accelerating the computation of a fixed point. However, as far as we know and quite surprisingly, it has never been applied to dynamic programming or reinforcement learning. In this paper, we explain briefly what Anderson acceleration is and how it can be applied to value iteration, this being supported by preliminary experiments showing a significant speed up of convergence, that we critically discuss. We also discuss how this idea could be applied more generally to (deep) reinforcement learning.

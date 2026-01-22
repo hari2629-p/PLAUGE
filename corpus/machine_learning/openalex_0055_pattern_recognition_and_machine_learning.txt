@@ -1,0 +1,9 @@
+Title: Pattern Recognition and Machine Learning
+
+Source: openalex
+Authors: Christopher Bishop
+Year: 2007
+URL: https://doi.org/10.1117/1.2819119
+
+Abstract:
+The <i>Journal of Electronic Imaging</i> (JEI), copublished bimonthly with the Society for Imaging Science and Technology, publishes peer-reviewed papers that cover research and applications in all areas of electronic imaging science and technology.

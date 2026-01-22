@@ -1,0 +1,9 @@
+Title: Shared Information and Program Plagiarism Detection
+
+Source: openalex
+Authors: Xuemei Chen, B. Francia, M. Li, B. McKinnon, Abdulkadir Şeker
+Year: 2004
+URL: https://doi.org/10.1109/tit.2004.830793
+
+Abstract:
+A fundamental question in information theory and in computer science is how to measure similarity or the amount of shared information between two sequences. We have proposed a metric, based on Kolmogorov complexity, to answer this question and have proven it to be universal. We apply this metric in measuring the amount of shared information between two computer programs, to enable plagiarism detection. We have designed and implemented a practical system SID (Software Integrity Diagnosis system) that approximates this metric by a heuristic compression algorithm. Experimental results demonstrate that SID has clear advantages over other plagiarism detection systems. SID system server is online at http://software.bioinformatics.uwaterloo.ca/SID/.

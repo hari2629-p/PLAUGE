@@ -1,0 +1,9 @@
+Title: `CodeAliker' - Plagiarism Detection on the Cloud
+
+Source: arxiv
+Authors: Nitish Upreti
+Year: 2012
+URL: N/A
+
+Abstract:
+Plagiarism is a burning problem that academics have been facing in all of the varied levels of the educational system. With the advent of digital content, the challenge to ensure the integrity of academic work has been amplified. This paper discusses on defining a precise definition of plagiarized computer code, various solutions available for detecting plagiarism and building a cloud platform for plagiarism disclosure. 'CodeAliker', our application thus developed automates the submission of assignments and the review process associated for essay text as well as computer code. It has been made available under the GNU's General Public License as a Free and Open Source Software.

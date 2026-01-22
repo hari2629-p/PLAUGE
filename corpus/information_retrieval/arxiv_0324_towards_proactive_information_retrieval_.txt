@@ -1,0 +1,9 @@
+Title: Towards Proactive Information Retrieval in Noisy Text with Wikipedia Concepts
+
+Source: arxiv
+Authors: Tabish Ahmed, Sahan Bulathwela
+Year: 2022
+URL: N/A
+
+Abstract:
+Extracting useful information from the user history to clearly understand informational needs is a crucial feature of a proactive information retrieval system. Regarding understanding information and relevance, Wikipedia can provide the background knowledge that an intelligent system needs. This work explores how exploiting the context of a query using Wikipedia concepts can improve proactive information retrieval on noisy text. We formulate two models that use entity linking to associate Wikipedia topics with the relevance model. Our experiments around a podcast segment retrieval task demonstrate that there is a clear signal of relevance in Wikipedia concepts while a ranking model can improve precision by incorporating them. We also find Wikifying the background context of a query can help disambiguate the meaning of the query, further helping proactive information retrieval.

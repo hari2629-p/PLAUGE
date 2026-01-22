@@ -1,0 +1,9 @@
+Title: Deep Reinforcement Learning: A Brief Survey
+
+Source: openalex
+Authors: Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil A. Bharath
+Year: 2017
+URL: https://doi.org/10.1109/msp.2017.2743240
+
+Abstract:
+Deep reinforcement learning (DRL) is poised to revolutionize the field of artificial intelligence (AI) and represents a step toward building autonomous systems with a higher-level understanding of the visual world. Currently, deep learning is enabling reinforcement learning (RL) to scale to problems that were previously intractable, such as learning to play video games directly from pixels. DRL algorithms are also applied to robotics, allowing control policies for robots to be learned directly from camera inputs in the real world. In this survey, we begin with an introduction to the general field of RL, then progress to the main streams of value-based and policy-based methods. Our survey will cover central algorithms in deep RL, including the deep Q-network (DQN), trust region policy optimization (TRPO), and asynchronous advantage actor critic. In parallel, we highlight the unique advantages of deep neural networks, focusing on visual understanding via RL. To conclude, we describe several current areas of research within the field.

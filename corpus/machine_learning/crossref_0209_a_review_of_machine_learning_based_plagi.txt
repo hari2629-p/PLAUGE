@@ -1,0 +1,9 @@
+Title: A Review of Machine Learning based Plagiarism Detection Approaches
+
+Source: crossref
+Authors: Shabbir Attique, Warish Hassan
+Year: 2023
+URL: https://doi.org/10.31219/osf.io/3z6c7
+
+Abstract:
+A Review of Machine Learning based Plagiarism Detection Approaches

@@ -1,0 +1,9 @@
+Title: Quantitative Clustering in Mean-Field Transformer Models
+
+Source: semantic_scholar
+Authors: Shi Chen, Zhengjiang Lin, Yury Polyanskiy, Philippe Rigollet
+Year: 2025
+URL: https://www.semanticscholar.org/paper/acbea2f050b35b06f3c91f93d3e28f1d2058ee86
+
+Abstract:
+The evolution of tokens through a deep transformer models can be modeled as an interacting particle system that has been shown to exhibit an asymptotic clustering behavior akin to the synchronization phenomenon in Kuramoto models. In this work, we investigate the long-time clustering of mean-field transformer models. More precisely, we establish exponential rates of contraction to a Dirac point mass for any suitably regular initialization under some assumptions on the parameters of transformer models, any suitably regular mean-field initialization synchronizes exponentially fast with some quantitative rates.

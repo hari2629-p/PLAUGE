@@ -1,0 +1,9 @@
+Title: Text Mining Infrastructure in<i>R</i>
+
+Source: openalex
+Authors: Ingo Feinerer, Kurt Hornik, David Meyer
+Year: 2008
+URL: https://doi.org/10.18637/jss.v025.i05
+
+Abstract:
+During the last decade text mining has become a widely used discipline utilizing statistical and machine learning methods. We present the tm package which provides a framework for text mining applications within R. We give a survey on text mining facilities in R and explain how typical application tasks can be carried out using our framework. We present techniques for count-based analysis methods, text clustering, text classiffication and string kernels. (authors' abstract)

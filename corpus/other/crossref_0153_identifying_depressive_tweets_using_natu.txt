@@ -1,0 +1,9 @@
+Title: Identifying Depressive Tweets using Natural Language Processing (NLP) Frameworks
+
+Source: crossref
+Authors: Damilola Oladimeji, Laura Garland, Qingzhong Liu
+Year: 2023
+URL: https://doi.org/10.5121/csit.2023.130920
+
+Abstract:
+The number of patients diagnosed with depression yearly is a growing concern among mental health advocates. Consequently, the ef ect of this ailment is detrimental to not only the patient but also family members, as well as their jobs or school. Many factors, ranging from hereditary conditions to life-altering experiences, can trigger depression, and symptoms vary between individuals. Hence, the disparity of symptoms in diagnosing depression makes it dif icult to identify early on. Fortunately, the prevalence of social media platforms has led to individuals posting updates on various aspects of their lives, particularly their mental health. These platforms now provide valuable data sources for mental health researchers, aiding in the timely diagnosis of depression. In this research, we use sentiment analysis to identify depressed tweets from random tweets. We used six natural language processing frameworks for our classification. They are BERT, XLNet, ALBERT, DeBERTa, RoBERTa, and ELECTRA. Our results show that BERT performs best with an accuracy of 99%, while ALBERT is the model with the lowest accuracy rate at 87%. This research shows that by leveraging NLP frameworks, we can successfully utilize machine learning for the early detection of depression and help diagnose individuals struggling with this ailment.

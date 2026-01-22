@@ -1,0 +1,9 @@
+Title: Academic Source Code Plagiarism Detection by Measuring Program Behavioural Similarity
+
+Source: arxiv
+Authors: Hayden Cheers, Yuqing Lin, Shamus P. Smith
+Year: 2021
+URL: N/A
+
+Abstract:
+Source code plagiarism is a long-standing issue in tertiary computer science education. Many source code plagiarism detection tools have been proposed to aid in the detection of source code plagiarism. However, existing detection tools are not robust to pervasive plagiarism-hiding transformations, and as a result can be inaccurate in the detection of plagiarised source code. This article presents BPlag, a behavioural approach to source code plagiarism detection. BPlag is designed to be both robust to pervasive plagiarism-hiding transformations, and accurate in the detection of plagiarised source code. Greater robustness and accuracy is afforded by analysing the behaviour of a program, as behaviour is perceived to be the least susceptible aspect of a program impacted upon by plagiarism-hiding transformations. BPlag applies symbolic execution to analyse execution behaviour and represent a program in a novel graph-based format. Plagiarism is then detected by comparing these graphs and evaluating similarity scores. BPlag is evaluated for robustness, accuracy and efficiency against 5 commonly used source code plagiarism detection tools. It is then shown that BPlag is more robust to plagiarism-hiding transformations and more accurate in the detection of plagiarised source code, but is less efficient than compared tools.

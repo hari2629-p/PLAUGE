@@ -1,0 +1,10 @@
+Title: Semantic Similarity Loss for Neural Source CodeSummarization
+
+Source: crossref
+Authors: Chia-Yi Su, Collin McMillan
+Year: 2023
+URL: https://doi.org/10.21203/rs.3.rs-3240092/v1
+
+Abstract:
+Abstract
+        This paper presents an improved loss function for neural source code summariza-tion. Code summarization is the task of writing natural language descriptions ofsource code. Neural code summarization refers to automated techniques for gen-erating these descriptions using neural networks. Almost all current approachesinvolve neural networks as either standalone models or as part of a pretrainedlarge language models e.g., GPT, Codex, LLaMA. Yet almost all also use acategorical cross-entropy (CCE) loss function for network optimization. Twoproblems with CCE are that 1) it computes loss over each word prediction one-at-a-time, rather than evaluating a whole sentence, and 2) it requires a perfectprediction, leaving no room for partial credit for synonyms. We propose and eval-uate a loss function to alleviate this problem. In essence, we propose to use asemantic similarity metric to calculate loss over the whole output sentence pre-diction per training batch, rather than just loss for each word. We also proposeto combine our loss with traditional CCE for each word, which streamlines thetraining process compared to baselines. We evaluate our approach over severalbaselines and report an improvement in the vast majority of conditions.

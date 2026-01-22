@@ -1,0 +1,9 @@
+Title: Multi-Sensor Motion Fusion Using Deep Neural Network Learning
+
+Source: crossref
+Authors: Xinyao Sun, Anup Basu, Irene Cheng
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-0414-7.ch032
+
+Abstract:
+Hand pose estimation for a continuous sequence has been an important topic not only in computer vision but also human-computer-interaction. Exploring the feasibility to use hand gestures to replace input devices, e.g., mouse, keyboard, joy-stick and touch screen, has attracted increasing attention from academic and industrial researchers. The fast advancement of hand pose estimation techniques is complemented by the rapid development of smart sensors technology such as Kinect and Leap. We introduce a hand pose estimation multi-sensor system. Two tracking models are proposed based on Deep (Recurrent) Neural Network (DRNN) architecture. Data captured from different sensors are analyzed and fused to produce an optimal hand pose sequence. Experimental results show that our models outperform previous methods with better accuracy, meeting real-time application requirement. Performance comparisons between DNN and DRNN, spatial and spatial-temporal features, and single- and dual- sensors, are also presented. 

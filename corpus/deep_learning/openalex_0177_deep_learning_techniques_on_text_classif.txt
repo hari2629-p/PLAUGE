@@ -1,0 +1,9 @@
+Title: Deep Learning Techniques on Text Classification Using Natural Language Processing (NLP) In Social Healthcare Network: A Comprehensive Survey
+
+Source: openalex
+Authors: P. Lavanya, E. Sasikala
+Year: 2021
+URL: https://doi.org/10.1109/icspc51351.2021.9451752
+
+Abstract:
+The social media is becoming an increasing trend for sharing the thoughts, ideas, opinions, etc. based on online reviews which generates a tremendous amount of unstructured data (ie. User posts). For processing those unstructured data supervised learning algorithms are preferred which helps for better performance optimization. Few years ago, Deep Learning (DL) techniques (ie. Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN)) models has become popular in healthcare applications by giving the rise in complicacy of the healthcare data. Deep Learning (DL) Techniques provides an effective and efficient model for data analysis by uncovering the masked patterns and find the meaningful information from the significant amount of health data whereas the traditional analytics does not able to produce within a stipulated period. Specifically, Deep Learning (DL) techniques consist of yielding good results by using the models of pattern recognition for social healthcare networks. The study of this paper focuses on by investigating the models of deep learning (DL) techniques applied to classify the text in social media healthcare networks. The main intention of this review provides an insight for training the data and to classify the text by analyzing and extracting the raw input and produce the output with the help of Natural language processing (NLP). Overall, the purpose of this review is to enhance the performance of the text classifier based on effectiveness to improve accuracy and text processing speed by using a suitable methodology in order produce the promising results in the future.

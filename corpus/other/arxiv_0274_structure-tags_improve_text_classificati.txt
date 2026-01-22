@@ -1,0 +1,9 @@
+Title: Structure-Tags Improve Text Classification for Scholarly Document Quality Prediction
+
+Source: arxiv
+Authors: Gideon Maillette de Buy Wenniger, Thomas van Dongen, Eleri Aedmaa, Herbert Teun Kruitbosch, Edwin A. Valentijn
+Year: 2020
+URL: N/A
+
+Abstract:
+Training recurrent neural networks on long texts, in particular scholarly documents, causes problems for learning. While hierarchical attention networks (HANs) are effective in solving these problems, they still lose important information about the structure of the text. To tackle these problems, we propose the use of HANs combined with structure-tags which mark the role of sentences in the document. Adding tags to sentences, marking them as corresponding to title, abstract or main body text, yields improvements over the state-of-the-art for scholarly document quality prediction. The proposed system is applied to the task of accept/reject prediction on the PeerRead dataset and compared against a recent BiLSTM-based model and joint textual+visual model as well as against plain HANs. Compared to plain HANs, accuracy increases on all three domains. On the computation and language domain our new model works best overall, and increases accuracy 4.7% over the best literature result. We also obtain improvements when introducing the tags for prediction of the number of citations for 88k scientific publications that we compiled from the Allen AI S2ORC dataset. For our HAN-system with structure-tags we reach 28.5% explained variance, an improvement of 1.8% over our reimplementation of the BiLSTM-based model as well as 1.0% improvement over plain HANs.

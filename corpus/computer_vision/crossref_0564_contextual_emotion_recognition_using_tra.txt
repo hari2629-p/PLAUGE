@@ -1,0 +1,9 @@
+Title: Contextual Emotion Recognition Using Transformer-Based Models
+
+Source: crossref
+Authors: Aayush Devgan
+Year: 2023
+URL: https://doi.org/10.36227/techrxiv.23804025.v1
+
+Abstract:
+&lt;p&gt;In order to increase the precision of emotion identification in text, this research suggests a context-aware emotion recognition system employing transformer models, especially BERT. The model is able to comprehend complex emotions and context-dependent expressions since it was trained on a broad, emotion-labeled dataset. On a benchmark dataset, its efficacy is assessed in comparison to conventional techniques and standard transformer models. The system is proficient at gathering contextual information, and the findings demonstrate a considerable improvement in emotion recognition accuracy. This study improves textual emotion identification, opening the door to applications like chatbots that can recognize emotions and systems for tracking mental health. It also identifies potential areas for further study in developing transformer models for context-sensitive NLP applications.&lt;/p&gt;

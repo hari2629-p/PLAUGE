@@ -1,0 +1,9 @@
+Title: Text Mining to Define a Validated Model of Hospital Rankings
+
+Source: crossref
+Authors: Patricia Bintzler Cerrito
+Year: 2008
+URL: https://doi.org/10.4018/978-1-59904-373-9.ch013
+
+Abstract:
+The purpose of this chapter is to demonstrate how text mining can be used to reduce the number of levels in a categorical variable to then use the variable in a predictive model. The method works particularly well when several levels of the variable have the same identifier so that they can be combined into a text string of variables. The stemming property of the linked words is used to create clusters of these strings. In this chapter, we validate the technique through kernel density estimation, and we compare this technique to other techniques used to reduce the levels of categorical data.

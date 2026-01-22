@@ -1,0 +1,10 @@
+Title: Sociogeographical Machine Learning
+
+Source: crossref
+Authors: Rolf Lyneborg Lund
+Year: 2024
+URL: https://doi.org/10.1093/oxfordhb/9780197653609.013.18
+
+Abstract:
+Abstract
+               This chapter delves into the integration of machine learning (ML) within spatial social science, elucidating its capacity for enhancing the analysis of sociogeographical data. It underscores the distinction between spatial and non-spatial data, emphasizing the importance of spatial context in understanding social phenomena. By exploring various ML methodologies, the chapter assesses their implications for sociogeographical studies, advocating for the incorporation of ML techniques to unravel complex social dynamics within geographical contexts. Through a detailed examination of both unsupervised and supervised learning models, it demonstrates the pivotal role of ML in identifying and categorizing sociospatial phenomena, offering insights into neighborhood effects and the theoretical and practical challenges of applying ML in spatial analysis. The chapter not only showcases the potential of ML to advance spatial social science but also calls for a nuanced understanding of the questions that necessitate ML approaches, positioning ML as a critical tool for future sociospatial research endeavors.

@@ -1,0 +1,9 @@
+Title: Machine Learning and Deep Learning Technologies
+
+Source: crossref
+Authors: Yew Kee Wong
+Year: 2021
+URL: https://doi.org/10.5121/csit.2021.111214
+
+Abstract:
+In the information era, enormous amounts of data have become available on hand to decision makers. Big data refers to datasets that are not only big, but also high in variety and velocity, which makes them difficult to handle using traditional tools and techniques. Due to the rapid growth of such data, solutions need to be studied and provided in order to handle and extract value and knowledge from these datasets. Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Such minimal human intervention can be provided using machine learning, which is the application of advanced deep learning techniques on big data. This paper aims to analyse some of the different machine learning and deep learning algorithms and methods, aswell as the opportunities provided by the AI applications in various decision making domains.

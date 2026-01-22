@@ -1,0 +1,9 @@
+Title: Feature Similarity based K Nearest Neighbor for Optimizing of Text Indexes
+
+Source: crossref
+Authors: Taeho Jo
+Year: 2024
+URL: https://doi.org/10.31219/osf.io/cv9rg
+
+Abstract:
+This article proposes the modified KNN (K Nearest Neighbor)algorithm which considers the feature similarity and is applied tothe index optimization. The texts which are given as features forencoding words into numerical vectors are semantic related entities,rather than independent ones, and the index optimization is able tobe viewed into a classification task where each word is classifiedinto expansion, inclusion, and removal. In the proposed system, eachword in the given text is classified into one of the threecategories by the proposed KNN algorithm, associates words are addedto ones which are classified into expansion, and ones which areclassified into inclusion are kept by themselves without adding anyword. The proposed KNN version is empirically validated as thebetter approach in deciding the importance level of words in newsarticles and opinions. The significance of this research is toimprove the classification performance by utilizing the featuresimilarities.

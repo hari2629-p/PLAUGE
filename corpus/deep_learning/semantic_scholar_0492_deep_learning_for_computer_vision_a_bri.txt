@@ -1,0 +1,9 @@
+Title: Deep Learning for Computer Vision: A Brief Review
+
+Source: semantic_scholar
+Authors: A. Voulodimos, N. Doulamis, A. Doulamis, Eftychios E. Protopapadakis
+Year: 2018
+URL: https://www.semanticscholar.org/paper/ca011427853d34ce4ec9ccafde8a70c9eacc3e21
+
+Abstract:
+Over the last years deep learning methods have been shown to outperform previous state-of-the-art machine learning techniques in several fields, with computer vision being one of the most prominent cases. This review paper provides a brief overview of some of the most significant deep learning schemes used in computer vision problems, that is, Convolutional Neural Networks, Deep Boltzmann Machines and Deep Belief Networks, and Stacked Denoising Autoencoders. A brief account of their history, structure, advantages, and limitations is given, followed by a description of their applications in various computer vision tasks, such as object detection, face recognition, action and activity recognition, and human pose estimation. Finally, a brief overview is given of future directions in designing deep learning schemes for computer vision problems and the challenges involved therein.

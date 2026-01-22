@@ -1,0 +1,10 @@
+Title: Defining Artificial Intelligence
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0001
+
+Abstract:
+What is artificial intelligence?
+               That’s an easy question to ask and a hard one to answer—for two reasons. First, there’s little agreement about what intelligence is. Second, there’s scant reason to believe that machine intelligence bears much relationship to human intelligence, at least so...

@@ -1,0 +1,9 @@
+Title: Theory-Guided Data Science: A New Paradigm for Scientific Discovery from Data
+
+Source: openalex
+Authors: Anuj Karpatne, Gowtham Atluri, James H. Faghmous, Michael Steinbach, Arindam Banerjee
+Year: 2017
+URL: https://doi.org/10.1109/tkde.2017.2720168
+
+Abstract:
+Data science models, although successful in a number of commercial domains,\nhave had limited applicability in scientific problems involving complex\nphysical phenomena. Theory-guided data science (TGDS) is an emerging paradigm\nthat aims to leverage the wealth of scientific knowledge for improving the\neffectiveness of data science models in enabling scientific discovery. The\noverarching vision of TGDS is to introduce scientific consistency as an\nessential component for learning generalizable models. Further, by producing\nscientifically interpretable models, TGDS aims to advance our scientific\nunderstanding by discovering novel domain insights. Indeed, the paradigm of\nTGDS has started to gain prominence in a number of scientific disciplines such\nas turbulence modeling, material discovery, quantum chemistry, bio-medical\nscience, bio-marker discovery, climate science, and hydrology. In this paper,\nwe formally conceptualize the paradigm of TGDS and present a taxonomy of\nresearch themes in TGDS. We describe several approaches for integrating domain\nknowledge in different research themes using illustrative examples from\ndifferent disciplines. We also highlight some of the promising avenues of novel\nresearch for realizing the full potential of theory-guided data science.\n

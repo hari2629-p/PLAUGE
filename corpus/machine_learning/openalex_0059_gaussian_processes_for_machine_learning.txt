@@ -1,0 +1,9 @@
+Title: Gaussian Processes for Machine Learning
+
+Source: openalex
+Authors: Carl Edward Rasmussen, Christopher K. I. Williams
+Year: 2005
+URL: https://doi.org/10.7551/mitpress/3206.001.0001
+
+Abstract:
+A comprehensive and self-contained introduction to Gaussian processes, which provide a principled, practical, probabilistic approach to learning in kernel machines.

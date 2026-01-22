@@ -1,0 +1,9 @@
+Title: Pattern Recognition and Machine Learning
+
+Source: openalex
+Authors: Radford M. Neal
+Year: 2007
+URL: https://doi.org/10.1198/tech.2007.s518
+
+Abstract:
+(2007). Pattern Recognition and Machine Learning. Technometrics: Vol. 49, No. 3, pp. 366-366.

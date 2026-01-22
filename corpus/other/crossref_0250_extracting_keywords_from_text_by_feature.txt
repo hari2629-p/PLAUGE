@@ -1,0 +1,9 @@
+Title: Extracting Keywords from Text by Feature Similarity based K Nearest Neighbor
+
+Source: crossref
+Authors: Taeho Jo
+Year: 2024
+URL: https://doi.org/10.31219/osf.io/fecph
+
+Abstract:
+This article proposes the modified KNN (K Nearest Neighbor)algorithm which considers the feature similarity and is applied tothe keyword extraction. The texts which are given as features forencoding words into numerical vectors are semantic related entities,rather than independent ones, and the keyword extraction is able tobe viewed into a binary classification where each word is classifiedinto keyword or non-keyword. In the proposed system, a text which isgiven as the input is indexed into a list of words, each word isclassified by the proposed KNN version, and the words which areclassified into keyword are extracted ad the output. The proposedKNN version is empirically validated as the better approach indeciding whether each word is a keyword or non-keyword in newsarticles and opinions. The significance of this research is toimprove the classification performance by utilizing the featuresimilarities.

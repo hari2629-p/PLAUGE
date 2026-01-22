@@ -1,0 +1,9 @@
+Title: Semantic Similarity Based on Corpus Statistics and Lexical Taxonomy
+
+Source: openalex
+Authors: Jay J. Jiang, David W. Conrath
+Year: 1997
+URL: N/A
+
+Abstract:
+This paper presents a new approach for measuring semantic similarity/distance between words and concepts. It combines a lexical taxonomy structure with corpus statistical information so that the semantic distance between nodes in the semantic space constructed by the taxonomy can be better quantified with the computational evidence derived from a distributional analysis of corpus data. Specifically, the proposed measure is a combined approach that inherits the edge-based approach of the edge counting scheme, which is then enhanced by the node-based approach of the information content calculation. When tested on a common data set of word pair similarity ratings, the proposed approach outperforms other computational models. It gives the highest correlation value (r = 0.828) with a benchmark based on human similarity judgements, whereas an upper bound (r = 0.885) is observed when human subjects replicate the same task. 1.

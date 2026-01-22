@@ -1,0 +1,9 @@
+Title: A high frequency transformer model for the EMTP
+
+Source: openalex
+Authors: A.S. Morched, L. Marti, J.H. Ottevangers
+Year: 1993
+URL: https://doi.org/10.1109/61.252688
+
+Abstract:
+A model to simulate the high-frequency behavior of a power transformer is presented. This model is based on the frequency characteristics of the transformer admittance matrix between its terminals over a given range of frequencies. The transformer admittance characteristics can be obtained from measurements or from detailed internal models based on the physical layout of the transformer. The elements of the nodal admittance matrix are approximated with rational functions consisting of real as well as complex conjugate poles and zeroes. These approximations are realized in the form of an RLC network in a format suitable for direct use with the ElectroMagnetics Transient Program (EMTP). The high-frequency transformer model can be used as a stand-alone linear model or as an add-on module of a more comprehensive model where iron core nonlinearities are represented in detail.< <ETX xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">&gt;</ETX>

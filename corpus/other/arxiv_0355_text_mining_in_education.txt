@@ -1,0 +1,9 @@
+Title: Text mining in education
+
+Source: arxiv
+Authors: R. Ferreira-Mello, M. Andre, A. Pinheiro, E. Costa, C. Romero
+Year: 2024
+URL: N/A
+
+Abstract:
+The explosive growth of online education environments is generating a massive volume of data, specially in text format from forums, chats, social networks, assessments, essays, among others. It produces exciting challenges on how to mine text data in order to find useful knowledge for educational stakeholders. Despite the increasing number of educational applications of text mining published recently, we have not found any paper surveying them. In this line, this work presents a systematic overview of the current status of the Educational Text Mining field. Our final goal is to answer three main research questions: Which are the text mining techniques most used in educational environments? Which are the most used educational resources? And which are the main applications or educational goals? Finally, we outline the conclusions and the more interesting future trends.

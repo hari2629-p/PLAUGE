@@ -1,0 +1,9 @@
+Title: All-optical machine learning using diffractive deep neural networks
+
+Source: openalex
+Authors: Xing Lin, Yair Rivenson, Nezih Tolga Yardimci, Muhammed Veli, Yi Luo
+Year: 2018
+URL: https://doi.org/10.1126/science.aat8084
+
+Abstract:
+All-optical deep learning Deep learning uses multilayered artificial neural networks to learn digitally from large datasets. It then performs advanced identification and classification tasks. To date, these multilayered neural networks have been implemented on a computer. Lin et al. demonstrate all-optical machine learning that uses passive optical components that can be patterned and fabricated with 3D-printing. Their hardware approach comprises stacked layers of diffractive optical elements analogous to an artificial neural network that can be trained to execute complex functions at the speed of light. Science , this issue p. 1004

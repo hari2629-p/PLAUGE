@@ -1,0 +1,9 @@
+Title: Transformer models in biomedicine
+
+Source: semantic_scholar
+Authors: S. Madan, Manuel Lentzen, Johannes Brandt, Daniel Rueckert, M. Hofmann-Apitius
+Year: 2024
+URL: https://www.semanticscholar.org/paper/5ff90e0747199dc8578e5643028b2c4d4750188c
+
+Abstract:
+Deep neural networks (DNN) have fundamentally revolutionized the artificial intelligence (AI) field. The transformer model is a type of DNN that was originally used for the natural language processing tasks and has since gained more and more attention for processing various kinds of sequential data, including biological sequences and structured electronic health records. Along with this development, transformer-based models such as BioBERT, MedBERT, and MassGenie have been trained and deployed by researchers to answer various scientific questions originating in the biomedical domain. In this paper, we review the development and application of transformer models for analyzing various biomedical-related datasets such as biomedical textual data, protein sequences, medical structured-longitudinal data, and biomedical images as well as graphs. Also, we look at explainable AI strategies that help to comprehend the predictions of transformer-based models. Finally, we discuss the limitations and challenges of current models, and point out emerging novel research directions.

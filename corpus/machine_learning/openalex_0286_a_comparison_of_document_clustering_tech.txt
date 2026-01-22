@@ -1,0 +1,9 @@
+Title: A Comparison of Document Clustering Techniques
+
+Source: openalex
+Authors: Michael Steinbach, George Karypis, Vipin Kumar
+Year: 2000
+URL: N/A
+
+Abstract:
+This paper presents the results of an experimental study of some common document clustering techniques. In particular, we compare the two main approaches to document clustering, agglomerative hierarchical clustering and K-means. (For K-means we used a &amp;quot;standard&amp;quot; K-means algorithm and a variant of K-means, &amp;quot;bisecting&amp;quot; K-means.) Hierarchical clustering is often portrayed as the better quality clustering approach, but is limited because of its quadratic time complexity. In contrast, K-means and its variants have a time complexity which is linear in the number of documents, but are thought to produce inferior clusters. Sometimes K-means and agglomerative hierarchical approaches are combined so as to &amp;quot;get the best of both worlds.&amp;quot; However, our results indicate that the bisecting K-means technique is better than the standard K-means approach and as good or better than the hierarchical approaches that we tested for a variety of cluster evaluation metrics. We propose an explanation for these r...

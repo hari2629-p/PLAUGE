@@ -1,0 +1,9 @@
+Title: Comparison Latent Semantic and WordNet Approach for Semantic Similarity Calculation
+
+Source: arxiv
+Authors: I Wayan Simri Wicaksana, Bambang Wahyudi
+Year: 2011
+URL: N/A
+
+Abstract:
+Information exchange among many sources in Internet is more autonomous, dynamic and free. The situation drive difference view of concepts among sources. For example, word 'bank' has meaning as economic institution for economy domain, but for ecology domain it will be defined as slope of river or lake. In this aper, we will evaluate latent semantic and WordNet approach to calculate semantic similarity. The evaluation will be run for some concepts from different domain with reference by expert or human. Result of the evaluation can provide a contribution for mapping of concept, query rewriting, interoperability, etc.

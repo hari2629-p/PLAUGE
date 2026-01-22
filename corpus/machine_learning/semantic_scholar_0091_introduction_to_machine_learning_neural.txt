@@ -1,0 +1,9 @@
+Title: Introduction to Machine Learning, Neural Networks, and Deep Learning
+
+Source: semantic_scholar
+Authors: Rene Y. Choi, Aaron S. Coyner, Jayashree Kalpathy-Cramer, M. Chiang, J. Campbell
+Year: 2020
+URL: https://www.semanticscholar.org/paper/6b67e38e488cdb6a5af8ae44fdbb2c069c9cea0e
+
+Abstract:
+Purpose To present an overview of current machine learning methods and their use in medical research, focusing on select machine learning techniques, best practices, and deep learning. Methods A systematic literature search in PubMed was performed for articles pertinent to the topic of artificial intelligence methods used in medicine with an emphasis on ophthalmology. Results A review of machine learning and deep learning methodology for the audience without an extensive technical computer programming background. Conclusions Artificial intelligence has a promising future in medicine; however, many challenges remain. Translational Relevance The aim of this review article is to provide the nontechnical readers a layman's explanation of the machine learning methods being used in medicine today. The goal is to provide the reader a better understanding of the potential and challenges of artificial intelligence within the field of medicine.

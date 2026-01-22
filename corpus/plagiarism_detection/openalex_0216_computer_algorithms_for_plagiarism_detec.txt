@@ -1,0 +1,9 @@
+Title: Computer algorithms for plagiarism detection
+
+Source: openalex
+Authors: Alice C. Parker, J.O. Hamblen
+Year: 1989
+URL: https://doi.org/10.1109/13.28038
+
+Abstract:
+A survey of computer algorithms used for the detection of student plagiarism is presented. A summary of several algorithms is provided. Common features of the different plagiarism detection algorithms are described. Ethical and administrative issues involving detected plagiarism are discussed.< <ETX xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">&gt;</ETX>

@@ -1,0 +1,14 @@
+Title: Artificial Intelligence Data for Ground Vehicle Applications
+
+Source: crossref
+Authors: Unknown
+Year: 2024
+URL: https://doi.org/10.4271/j3298_202407
+
+Abstract:
+&lt;div class="section abstract"&gt;
+
+
+&lt;div class="htmlview paragraph"&gt;This SAE Technical Information Report provides preliminary information regarding the current state of data collection, data processing methods, and usage for developing AI and its enabled systems and applications in the ground vehicle domain. This information report is a survey of topics highlighting data’s impact on AI solutions and methods that may be used to develop or improve data-related processes.&lt;/div&gt;
+&lt;div class="htmlview paragraph"&gt;This report may offer insights that can drive innovation, improve safety, optimize performance, and develop regulatory compliance methods. Solution providers may find this information insightful and realize the potential for collaborative measures in development of their AI-enabled systems. Developers of standards and lawmakers may gain a better understanding of the current state of the industry and find opportunities to develop policies to guide the future of transportation, which in turn directly impacts the public. Other committees and academic affiliates may see links between data for AI in the ground vehicle domain and their domains of interest, which could spawn novel research, development, and standards.&lt;/div&gt;
+&lt;/div&gt;

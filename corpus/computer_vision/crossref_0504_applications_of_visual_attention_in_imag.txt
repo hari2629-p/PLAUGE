@@ -1,0 +1,9 @@
+Title: Applications of Visual Attention in Image Processing, Computer Vision, and Graphics
+
+Source: crossref
+Authors: Rajarshi Pal
+Year: 2018
+URL: https://doi.org/10.4018/978-1-5225-5204-8.ch069
+
+Abstract:
+Selective visual attention is an amazing capability of primate visual system to restrict the focus to few interesting objects (or portions) in a scene. Thus, primates are able to pay attention to the required visual content amidst myriads of other visual information. It enables them to interact with the external environment in real time through reduction of computational load in their brain. This inspires image and computer vision scientists to derive computational models of visual attention and to use them in varieties of applications in real-life, mainly to speed up the processing through reduction of computational burden which often characterizes image processing and vision tasks. This chapter discusses a wide variety of such applications of visual attention models in image processing, computer vision and graphics. 

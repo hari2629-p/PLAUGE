@@ -1,0 +1,9 @@
+Title: Text Categorization via Similarity Search: An Efficient and Effective Novel Algorithm
+
+Source: arxiv
+Authors: Hubert Haoyang Duan, Vladimir Pestov, Varun Singla
+Year: 2013
+URL: N/A
+
+Abstract:
+We present a supervised learning algorithm for text categorization which has brought the team of authors the 2nd place in the text categorization division of the 2012 Cybersecurity Data Mining Competition (CDMC'2012) and a 3rd prize overall. The algorithm is quite different from existing approaches in that it is based on similarity search in the metric space of measure distributions on the dictionary. At the preprocessing stage, given a labeled learning sample of texts, we associate to every class label (document category) a point in the space of question. Unlike it is usual in clustering, this point is not a centroid of the category but rather an outlier, a uniform measure distribution on a selection of domain-specific words. At the execution stage, an unlabeled text is assigned a text category as defined by the closest labeled neighbour to the point representing the frequency distribution of the words in the text. The algorithm is both effective and efficient, as further confirmed by experiments on the Reuters 21578 dataset.

@@ -1,0 +1,9 @@
+Title: Proceedings of the 28th International Conference on Computational Linguistics
+
+Source: openalex
+Authors: Xiaodan Zhu, Preslav Nakov, Jun Zhao, Michal Ptaszynski, Bartosz Ziolko
+Year: 2020
+URL: https://doi.org/10.18653/v1/2020.coling-main
+
+Abstract:
+Only eighteen months ago, I joined Leo, Horacio, Mónica, and Nuria on a tour of the delights that the Barcelona venue would be offering us in September 2020.Together with Chengqing, we made great plans for a fantastic intellectual and social gathering with our colleagues from far and wide, Catalanstyle.We held on to this plan for as long as we could but the second wave of the COVID-19 pandemic eventually put paid to that idea, and the conference is now a virtual one.We also received a record 2195 submissions -eclipsing by double the already record-breaking number at our last COLING in 2018 in Santa Fe.For these reasons, COLING2020 will be remembered for the conference that forced us to innovate and do things differently.Transforming our well-made plans to become a virtual conference has obviously involved introducing a de facto disruptive innovation, one that has taken us far out of our comfort zone of experience.The Organising Committee thoroughly embraced this challenge, doing everything that they could and more; I am in awe of them and of the exciting offering that they have created for COLING2020.We now have before us a rich programme of over 653 papers, 7 tutorials, and 22 workshops.I want to take this opportunity to thank the entire Organising Committee for their extraordinary effort in helping to make this virtual COLING2020 possible.The PC Chairs (Núria Bel, Chengqing Zong) and Local Organisation Chairs (Leo Wanner, Horacio Saggion, Mónica Domínguez) bore the brunt of the organisational burden and worked tirelessly despite the other unexpected demands to their professional and personal lives.Enormous efforts were made by Workshop Chairs (

@@ -1,0 +1,9 @@
+Title: Business Applications of Deep Learning
+
+Source: crossref
+Authors: Armando Vieira
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-0414-7.ch052
+
+Abstract:
+Deep Learning (DL) took Artificial Intelligence (AI) by storm and has infiltrated into business at an unprecedented rate. Access to vast amounts of data extensive computational power and a new wave of efficient learning algorithms, helped Artificial Neural Networks to achieve state-of-the-art results in almost all AI challenges. DL is the cornerstone technology behind products for image recognition and video annotation, voice recognition, personal assistants, automated translation and autonomous vehicles. DL works similarly to the brain by extracting high-level, complex abstractions from data in a hierarchical and discriminative or generative way. The implications of DL supported AI in business is tremendous, shaking to the foundations many industries. In this chapter, I present the most significant algorithms and applications, including Natural Language Processing (NLP), image and video processing and finance. 

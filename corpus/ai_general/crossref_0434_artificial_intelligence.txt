@@ -1,0 +1,9 @@
+Title: Artificial intelligence
+
+Source: crossref
+Authors: Gillian Pocock, Hugh M
+Year: 1993
+URL: https://doi.org/10.1093/hesc/9780198557364.003.0001
+
+Abstract:
+This chapter explores the extensive potential of artificial intelligence (AI), which has been recognized and harnessed by computer scientists, including physics and life sciences. It analyses how AI is applied to those areas of chemistry that offer great scope for investigation by intelligent methods. It also defines AI as an attempt to replicate intelligent reasoning through ‘machines’, which the chapter uses in a sense that is much broader than its everyday meaning. It highlights the differences between the way scientific problems are tackled using conventional methods and the way they are solved using the alternative methods of AI. It discusses how computers can be persuaded to act intelligently and solve problems that may resist solution using ‘dumb’ methods.

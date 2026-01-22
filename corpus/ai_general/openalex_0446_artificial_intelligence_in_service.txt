@@ -1,0 +1,9 @@
+Title: Artificial Intelligence in Service
+
+Source: openalex
+Authors: Ming‐Hui Huang, Roland T. Rust
+Year: 2018
+URL: https://doi.org/10.1177/1094670517752459
+
+Abstract:
+Artificial intelligence (AI) is increasingly reshaping service by performing various tasks, constituting a major source of innovation, yet threatening human jobs. We develop a theory of AI job replacement to address this double-edged impact. The theory specifies four intelligences required for service tasks—mechanical, analytical, intuitive, and empathetic—and lays out the way firms should decide between humans and machines for accomplishing those tasks. AI is developing in a predictable order, with mechanical mostly preceding analytical, analytical mostly preceding intuitive, and intuitive mostly preceding empathetic intelligence. The theory asserts that AI job replacement occurs fundamentally at the task level, rather than the job level, and for “lower” (easier for AI) intelligence tasks first. AI first replaces some of a service job’s tasks, a transition stage seen as augmentation, and then progresses to replace human labor entirely when it has the ability to take over all of a job’s tasks. The progression of AI task replacement from lower to higher intelligences results in predictable shifts over time in the relative importance of the intelligences for service employees. An important implication from our theory is that analytical skills will become less important, as AI takes over more analytical tasks, giving the “softer” intuitive and empathetic skills even more importance for service employees. Eventually, AI will be capable of performing even the intuitive and empathetic tasks, which enables innovative ways of human–machine integration for providing service but also results in a fundamental threat for human employment.

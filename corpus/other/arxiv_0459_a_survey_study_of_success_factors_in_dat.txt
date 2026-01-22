@@ -1,0 +1,9 @@
+Title: A survey study of success factors in data science projects
+
+Source: arxiv
+Authors: Iñigo Martinez, Elisabeth Viles, Igor G. Olaizola
+Year: 2022
+URL: N/A
+
+Abstract:
+In recent years, the data science community has pursued excellence and made significant research efforts to develop advanced analytics, focusing on solving technical problems at the expense of organizational and socio-technical challenges. According to previous surveys on the state of data science project management, there is a significant gap between technical and organizational processes. In this article we present new empirical data from a survey to 237 data science professionals on the use of project management methodologies for data science. We provide additional profiling of the survey respondents' roles and their priorities when executing data science projects. Based on this survey study, the main findings are: (1) Agile data science lifecycle is the most widely used framework, but only 25% of the survey participants state to follow a data science project methodology. (2) The most important success factors are precisely describing stakeholders' needs, communicating the results to end-users, and team collaboration and coordination. (3) Professionals who adhere to a project methodology place greater emphasis on the project's potential risks and pitfalls, version control, the deployment pipeline to production, and data security and privacy.

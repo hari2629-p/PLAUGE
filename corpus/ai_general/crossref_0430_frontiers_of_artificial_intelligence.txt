@@ -1,0 +1,10 @@
+Title: Frontiers of Artificial Intelligence
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0003
+
+Abstract:
+What are the main areas of research and development in AI?
+               Work in artificial intelligence is generally divided into a number of subfields that address common, though difficult, practical problems or require different tools or skills. Some of the more prominent are robotics, computer...

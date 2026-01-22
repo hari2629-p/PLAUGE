@@ -1,0 +1,9 @@
+Title: Multiple View Geometry in Computer Vision
+
+Source: openalex
+Authors: Richard Hartley, Andrew Zisserman
+Year: 2004
+URL: https://doi.org/10.1017/cbo9780511811685
+
+Abstract:
+A basic problem in computer vision is to understand the structure of a real world scene given several images of it. Techniques for solving this problem are taken from projective geometry and photogrammetry. Here, the authors cover the geometric principles and their algebraic representation in terms of camera projection matrices, the fundamental matrix and the trifocal tensor. The theory and methods of computation of these entities are discussed with real examples, as is their use in the reconstruction of scenes from multiple images. The new edition features an extended introduction covering the key ideas in the book (which itself has been updated with additional examples and appendices) and significant new results which have appeared since the first edition. Comprehensive background material is provided, so readers familiar with linear algebra and basic numerical methods can understand the projective geometry and estimation algorithms presented, and implement the algorithms directly from the book.

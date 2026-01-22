@@ -1,0 +1,9 @@
+Title: Class Diagram Extraction from Textual Requirements Using Natural Language Processing (NLP) Techniques
+
+Source: openalex
+Authors: M. L. Inche Ibrahim, Rodina Ahmad
+Year: 2010
+URL: https://doi.org/10.1109/iccrd.2010.71
+
+Abstract:
+The automation of class generation from natural language requirements is highly challenging. This paper proposes a method and a tool to facilitate requirements analysis process and class diagram extraction from textual requirements supporting natural language processing NLP and Domain Ontology techniques. Requirements engineers analyze requirements manually to come out with analysis artifacts such as class diagram. The time spent on the analysis and the low quality of human analysis proved the need of automated support. A "Requirements Analysis and Class Diagram Extraction (RACE)" is a desktop instrument to assist requirements analysts and SE students in analyzing textual requirements, finding core concepts and its relationships, and step by step extraction of the class diagram. The evaluation of RACE system is in the process and will be conducted using two forms of evaluation, experimental and expert evaluation.

@@ -1,0 +1,9 @@
+Title: Text Mining in Bioinformatics
+
+Source: crossref
+Authors: Yanliang Qi
+Year: 2009
+URL: https://doi.org/10.4018/978-1-59904-990-8.ch042
+
+Abstract:
+The biology literatures have been increased in an exponential growth in recent year. The researchers need an effective tool to help them find out the needed information in the databases. Text mining is a powerful tool to solve this problem. In this chapter, we talked about the features of text mining and bioinformatics, text mining applications, research methods in bioinformatics and problems and future path. 

@@ -1,0 +1,9 @@
+Title: AI/ML+Physics: Recap and Summary [Physics Informed Machine Learning]
+
+Source: crossref
+Authors: Steve Brunton
+Year: 2024
+URL: https://doi.org/10.52843/cassyni.2mt4mr
+
+Abstract:
+This video provides a brief recap of this introductory series on Physics Informed Machine Learning.  We revisit the five stages of machine learning, and how physics may be incorporated into these stages.  We also discuss architectures, symmetries, the digital twin, applications in engineering, and the importance of dynamical systems and controls benchmarks.

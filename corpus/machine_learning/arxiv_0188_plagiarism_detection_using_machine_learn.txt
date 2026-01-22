@@ -1,0 +1,9 @@
+Title: Plagiarism Detection Using Machine Learning
+
+Source: arxiv
+Authors: Omraj Kamat, Tridib Ghosh, Kalaivani J, Angayarkanni V, Rama P
+Year: 2024
+URL: N/A
+
+Abstract:
+Plagiarism is an act of using someone else's work without proper acknowledgment, and this sin is seen to cut across various arenas including the academy, publishing, and other similar arenas. The traditional methods of plagiarism detection through keyword matching and review by humans usually fail to cope with increasingly sophisticated techniques used to mask copy pasted content. This paper aims to introduce a plagiarism detection approach based on machine learning that utilizes natural language processing and complex classification algorithms toward efficient detection of similarities between the documents. The developed model has the capability to detect both exact and paraphrased plagiarism accurately using advanced feature extraction techniques with supervised learning algorithms. We adapted and tested our model on an extensive text sample dataset. And we demonstrated some promising results about precision, recall, and detection accuracy. These outcomes showed that applying machine learning techniques can significantly enhance the functionalities of plagiarism detection systems and improve traditional ones with robust scalability. Future work would include enlargement of the dataset and fine-tuning of the model toward more complicated cases of disguised plagiarism.

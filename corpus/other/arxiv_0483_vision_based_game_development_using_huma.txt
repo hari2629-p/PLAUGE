@@ -1,0 +1,9 @@
+Title: Vision Based Game Development Using Human Computer Interaction
+
+Source: arxiv
+Authors: S. Sumathi, S. K. Srivatsa, M. Uma Maheswari
+Year: 2010
+URL: N/A
+
+Abstract:
+A Human Computer Interface (HCI) System for playing games is designed here for more natural communication with the machines. The system presented here is a vision-based system for detection of long voluntary eye blinks and interpretation of blink patterns for communication between man and machine. This system replaces the mouse with the human face as a new way to interact with the computer. Facial features (nose tip and eyes) are detected and tracked in realtime to use their actions as mouse events. The coordinates and movement of the nose tip in the live video feed are translated to become the coordinates and movement of the mouse pointer on the application. The left or right eye blinks fire left or right mouse click events. The system works with inexpensive USB cameras and runs at a frame rate of 30 frames per second.

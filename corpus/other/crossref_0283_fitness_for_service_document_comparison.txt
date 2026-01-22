@@ -1,0 +1,9 @@
+Title: Fitness for Service Document Comparison: API 579 vs. PDAM
+
+Source: crossref
+Authors: Carl E. Jaske, Melissa J. Rubal
+Year: 2010
+URL: https://doi.org/10.1115/ipc2010-31552
+
+Abstract:
+Assessing the Fitness for Service (FFS) of deficient pipeline segments or facilities is an important step in managing the mechanical integrity and safety of pipeline systems. However, FFS can be determined according to several documents, including API 579-1/ASME FFS-1 2007 Fitness-For-Service (API 579) and the Pipeline Defect Assessment Manual (PDAM). The document contents and assessment methodologies of API 579 and PDAM are reviewed and compared for several common damage mechanisms. API 579 was originally developed for the refining and petrochemical industries but is currently applied to a broad range of equipment and systems. In contrast, PDAM was developed under a joint industry project to assess defects specifically in petrochemical pipelines. While PDAM refers the reader to API 579 for the assessment of several damage mechanisms, including gouges, manufacturing defects, weld defects, and cracks, the authors of PDAM claim that API 579 is generic, biased towards pipes in process plants, and can be overly conservative for the assessment of other pipeline defects. Understanding and comparing the current FFS documents can lead to an enhanced allocation of available resources and can improve the level of FFS assessments in the pipeline industry. The methods used to assess corrosion of components with static internal pressures, dents, dent-gouge combinations, and cracks are compared.

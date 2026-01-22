@@ -1,0 +1,9 @@
+Title: Resume Screening With Natural Language Processing (NLP)
+
+Source: crossref
+Authors: Mehtap Saatci, Rukiye Kaya, Ramazan Ünlü
+Year: 2024
+URL: https://doi.org/10.17093/alphanumeric.1536577
+
+Abstract:
+This study addresses the challenges employers face in screening the large number of resumes received for job positions. We aim to ensure fair evaluation of candidates, reduce bias, and increase the efficiency of the candidate evaluation process by automating the resume screening process. The proposed system uses NLP techniques to extract the relevant competencies from resumes, focusing on the key skills required for specific positions. The competency sets taken for the positions were used. A case study was conducted for 123 job positions. The extracted competencies are matched to predefined skill sets associated with various job positions using Jaccard Similarity. This method provides a similarity score that helps rank candidates by comparing the presence or absence of words in the candidate's resume to the required competencies. This NLP-based system offers significant benefits such as saving time and resources, increasing accuracy in candidate selection, and reducing bias by focusing only on competencies. The system's integration with LinkedIn increases its usefulness by allowing seamless import and analysis of resumes. Overall, this study demonstrates the transformative potential of NLP in optimizing the resume screening process by providing a scalable, efficient, and unbiased solution for large organizations.

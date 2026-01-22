@@ -1,0 +1,9 @@
+Title: A plagiarism detection system
+
+Source: openalex
+Authors: John L. Donaldson, Ann-Marie Lancaster, Paula H. Sposato
+Year: 1981
+URL: https://doi.org/10.1145/800037.800955
+
+Abstract:
+The problem of plagiarism in programming assignments by students in computer science courses has caused considerable concern among both faculty and students. There are a number of methods which instructors use in an effort to control the plagiarism problem. In this paper we describe a plagiarism detection system which was recently implemented in our department. This system is being used to detect similarities in student programs.

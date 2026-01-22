@@ -1,0 +1,9 @@
+Title: XML document-grammar comparison: related problems and applications
+
+Source: crossref
+Authors: Joe Tekli, Richard Chbeir, Agma Traina, Caetano Traina
+Year: 2011
+URL: https://doi.org/10.2478/s13537-011-0005-1
+
+Abstract:
+AbstractXML document comparison is becoming an ever more popular research issue due to the increasingly abundant use of XML. Likewise, a growing interest fosters the development of XML grammar matching and comparison, due to the proliferation of heterogeneous XML data sources, particularly on the Web. Nonetheless, the process of comparing XML documents with XML grammars, i.e., XML document and grammar similarity evaluation, has not yet received the attention it deserves. In this paper, we provide an overview on existing research related to XML document/grammar comparison, presenting the background and discussing the various techniques related to the problem. We also discuss some prominent application domains, ranging over document classification and clustering, document transformation, grammar evolution, selective dissemination of XML information, XML querying, as well as alert filtering in intrusion detection systems and Web Services matching and communications.

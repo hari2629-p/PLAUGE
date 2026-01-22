@@ -1,0 +1,10 @@
+Title: Color Comparison in Questioned Document Examination Using Microspectrophotometry
+
+Source: crossref
+Authors: LA Olson
+Year: 1986
+URL: https://doi.org/10.1520/jfs11910j
+
+Abstract:
+Abstract
+               The work of the document examiner is often aided through the use of specialized analytical instruments. One such instrument, in use at the Immigration &amp; Naturalization Service Forensic Document Laboratory (INSFDL), is the Nanometrics 10S Microspectrophotometer, manufactured by Nanometrics, Inc., of Sunnyvale, CA. This pseudo-dual-beam spectrophotometer performs nondestructive color analysis of objects down to 2 μm in size. First, an object to be examined (such as an ink line) is viewed through a microscope and the light reflected from it is measured over the visible spectrum. The reflected energy is then compared with a standard stored in the system's microprocessor, and a spectral curve is provided which is characteristic of the color of the object examined. At INSFDL, the Nanospec 10S™ has been successfully used to differentiate similarly colored printing inks, stamp pad inks, and fibers found on various travel and identity documents. Examples from recent cases will be demonstrated.

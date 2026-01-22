@@ -1,0 +1,9 @@
+Title: Overview of the 2nd International Competition on Plagiarism Detection
+
+Source: openalex
+Authors: Martin Potthast, Alberto Barrón‐Cedeño, Andreas Eiselt, Benno Stein, Paolo Rosso
+Year: 2011
+URL: N/A
+
+Abstract:
+Abstract This paper overviews 18 plagiarism detectors that have been developed and evaluated within PAN’10. We start with a unified retrieval process that summarizes the best practices employed this year. Then, the detectors ’ performances are evaluated in detail, highlighting several important aspects of plagiarism detection, such as obfuscation, intrinsic vs. external plagiarism, and plagiarism case length. Finally, all results are compared to those of last year’s competition. 1

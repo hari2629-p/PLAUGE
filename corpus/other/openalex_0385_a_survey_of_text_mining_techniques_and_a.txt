@@ -1,0 +1,9 @@
+Title: A Survey of Text Mining Techniques and Applications
+
+Source: openalex
+Authors: Vishal Gupta, Gurpreet Singh Lehal
+Year: 2009
+URL: https://doi.org/10.4304/jetwi.1.1.60-76
+
+Abstract:
+Text Mining has become an important research area. Text Mining is the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources. In this paper, a Survey of Text Mining techniques and applications have been s presented.

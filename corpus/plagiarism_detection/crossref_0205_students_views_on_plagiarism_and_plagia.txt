@@ -1,0 +1,10 @@
+Title: Students’ views on plagiarism and plagiarism detection systems
+
+Source: crossref
+Authors: Marvi Remmik, Tiina Tasa, Liana Roos, Erika Löfström
+Year: 2019
+URL: https://doi.org/10.12697/eha.2019.7.1.07
+
+Abstract:
+Plagiaat on ülikoolides endiselt suur probleem. Tehnoloogia areng on võimaldanud üliõpilastele lihtsa juurdepääsu veebimaterjalidele, see aga mõjutab nende pla gieerimiskäitumist, muutes selle levinumaks kui kunagi varem. Uurimuse eesmärk on välja selgitada üliõpilaste arusaamad plagiaadist ja plagiaadituvastussüsteemide kasutamisest. Selleks analüüsiti 380-lt eri valdkonna ja õppetaseme üliõpilaselt küsimustikuga kogutud andmeid, millest ilmneb, et üle poole vastajatest ei pea plagiaati levinud probleemiks ega tea täpselt, milles plagiaat seisneb. Sotsiaalteaduste ning humanitaarteaduste ja kunstide valdkonna üliõpilased on võrreldes loodus- ja täppisteaduste ning meditsiinivaldkonna üliõpilastega plagiaadi olemusest ja plagiaadituvastussüsteemidest teadlikumad. Plagiaadi leviku pidurdamiseks peetakse oluliseks ennetustööd: akadeemiliste tekstide kirjutamise oskuse ja õpioskuste arendamist, plagiaadi olemuse kohta ühtsete arusaamade kujundamist ja plagiaadijuhtumite menetlemiseks institutsioonisiseste eeskirjade kehtestamist. Plagiaadituvastussüsteemide kasutamine on üliõpilaste hinnangul õiglane, aga ka hirmu teki tav. Sellised tulemused osutavad vajadusele suurendada õppejõudude vastutust teema käsitlemisel ainekursuste raames.
+ Summary

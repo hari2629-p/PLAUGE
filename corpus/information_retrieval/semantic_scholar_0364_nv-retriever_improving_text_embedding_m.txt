@@ -1,0 +1,9 @@
+Title: NV-Retriever: Improving text embedding models with effective hard-negative mining
+
+Source: semantic_scholar
+Authors: G. Moreira, Radek Osmulski, Mengyao Xu, Ronay Ak, Benedikt Schifferer
+Year: 2024
+URL: https://www.semanticscholar.org/paper/4688eafc5f77d72bb1b04b382cb3a1ca2b089963
+
+Abstract:
+Text embedding models have been popular for information retrieval applications such as semantic search and Question-Answering systems based on Retrieval-Augmented Generation (RAG). Those models are typically Transformer models that are fine-tuned with contrastive learning objectives. One of the challenging aspects of fine-tuning embedding models is the selection of high quality hard-negative passages for contrastive learning. In this paper we introduce a family of positive-aware mining methods that use the positive relevance score as an anchor for effective false negative removal, leading to faster training and more accurate retrieval models. We provide an ablation study on hard-negative mining methods over their configurations, exploring different teacher and base models. We further demonstrate the efficacy of our proposed mining methods at scale with the NV-Retriever-v1 model, which scores 60.9 on MTEB Retrieval (BEIR) benchmark and placed 1st when it was published to the MTEB Retrieval on July, 2024.

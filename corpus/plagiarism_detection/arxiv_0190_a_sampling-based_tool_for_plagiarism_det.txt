@@ -1,0 +1,9 @@
+Title: A Sampling-based Tool for Plagiarism Detection in Student Texts
+
+Source: arxiv
+Authors: T. Kakkonen, N. Myller
+Year: 2012
+URL: N/A
+
+Abstract:
+This paper introduces AntiPlag, an advanced plagiarism detection tool intended for use on student texts. It is capable of both hermetic detection that scrutinizes only local collections of documents (other students' texts and lecture materials, for example) and web plagiarism detection, in which the aim is at identifying instances of plagiarism that have been sourced from the Internet. The main feature of the system is the sampling-based web plagiarism detection, a novel approach to plagiarism detection that is based on combining web and hermetic search technologies. The system uses standard web search engines to locate documents on the Internet that might have been used as sources of plagiarism by the writer of a text. During this sampling phase, the suspected sources are downloaded, converted to ASCII text and saved to the local database so that they can be later processed by using the hermetic detection methods. We evaluated the system by using a test set that contained instances of verbatim copying as well as texts in which plagiarism was concealed by minor editing, replacing words with synonyms and by paraphrasing. We compared the results achieved by AntiPlag to an earlier evaluation study of four web plagiarism detection systems, SafeAssignment, TurnitIn, EVE2 and Plagiarism-Finder. AntiPlag performed better than any of these systems, achieving the accuracy 95.8% over all the test items.

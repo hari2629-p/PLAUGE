@@ -1,0 +1,9 @@
+Title: Interpretable Machine Learning
+
+Source: semantic_scholar
+Authors: Bradley C. Boehmke, Brandon M. Greenwell
+Year: 2019
+URL: https://www.semanticscholar.org/paper/b0c34618ffd1154f35863e2ce7250ac6b6f2c424
+
+Abstract:
+Interpretable machine learning has become a popular research direction as deep neural networks (DNNs) have become more powerful and their applications more mainstream, yet DNNs remain difficult to understand. Testing with Concept Activation Vectors, TCAV, (Kim et al. 2017) is an approach to interpreting DNNs in a human-friendly way and has recently received significant attention in the machine learning community. The TCAV algorithm achieves a degree of global interpretability for DNNs through human-defined concepts as explanations. This project introduces Robust TCAV, which builds on TCAV and experimentally determines best practices for this method. The objectives for Robust TCAV are 1) Making TCAV more consistent by reducing variance in the TCAV score distribution and 2) Increasing CAV and TCAV score resistance to perturbations. A difference of means method for CAV generation was determined to be the best practice to achieve both objectives. Many areas of the TCAV process are explored including CAV visualization in low dimensions, negative class selection, and activation perturbation in the direction of a CAV. Finally, a thresholding technique is considered to remove noise in TCAV scores. This project is a step in the direction of making TCAV, an already impactful algorithm in interpretability, more reliable and useful for practitioners.

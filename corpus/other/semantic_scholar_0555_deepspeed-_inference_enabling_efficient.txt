@@ -1,0 +1,9 @@
+Title: DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale
+
+Source: semantic_scholar
+Authors: Reza Yazdani Aminabadi, Samyam Rajbhandari, Minjia Zhang, A. A. Awan, Cheng Li
+Year: 2022
+URL: https://www.semanticscholar.org/paper/c022f75b00d795c6297d6a9ea948856ea4d365a1
+
+Abstract:
+The landscape of transformer model inference is increasingly diverse in model size, model characteristics, latency and throughput requirements, hardware requirements, etc. With such diversity, designing a versatile inference system is challenging. DeepSpeed-Inference addresses these challenges by (1) a multi-GPU inference solution to minimize latency while maximizing throughput for both dense and sparse transformers when the model fits in aggregate GPU memory, and (2) a heterogeneous inference solution that leverages CPU/NVMe/GPU memory to enable high-throughput inference for models larger than aggregate GPU memory. DeepSpeed-Inference reduces latency by 6.4× and increases throughput by 1.5 ×over the state-of-the-art. It enables trillion parameter scale inference under real-time latency constraints by leveraging hundreds of GPUs, an unprecedented scale for inference. It can inference 25 ×larger models than with GPU-only solutions, while delivering a high throughput of 84 TFLOPS (over 50% of A6000 peak).

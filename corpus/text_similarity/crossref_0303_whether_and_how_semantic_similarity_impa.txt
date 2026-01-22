@@ -1,0 +1,9 @@
+Title: Whether and how semantic similarity impairs short-term memory: A test with a new index of semantic similarity
+
+Source: crossref
+Authors: Sho Ishiguro, Satoru Saito
+Year: 2020
+URL: https://doi.org/10.31234/osf.io/va5js
+
+Abstract:
+Semantic similarity appears to have a facilitative effect on short-term memory (STM), which contrasts with the detrimental effects of phonological and visual similarity on STM. Given that STM theories generally posit detrimental effects of similarity, it is theoretically and empirically important to test the semantic similarity effect. Recently, a review study proposed that semantic similarity per se would have a detrimental effect while semantic association and additional retrieval cues, which are facilitative of STM, would work as confounding factors for the semantic similarity effect. The present study tested this view by minimizing the influence of these possible confounding factors in the experiment and by utilizing a new index of semantic similarity in the analysis. The results of the present study indicated that the semantic similarity indeed had a detrimental effect on immediate serial recall correct-in-position scores. An examination based on two other scoring methods (i.e., item correct and absolute order errors) further suggested that the locus of the detrimental effect of semantic similarity is in order memory. In addition, other semantico-lexical variables (e.g., word length, frequency, and imageability) were also analyzed. Patterns of these variables’ effects on item memory were complementary to the effect of semantic similarity on order memory. From a theoretical point of view, as the detrimental effect of semantic similarity demonstrated by the present study is comparable to phonological and visual similarity effects, this finding implies a store based on semantic information or a general process for various types of information.

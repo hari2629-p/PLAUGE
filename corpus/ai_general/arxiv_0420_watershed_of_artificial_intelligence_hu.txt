@@ -1,0 +1,9 @@
+Title: Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence
+
+Source: arxiv
+Authors: Li Weigang, Liriam Enamoto, Denise Leyi Li, Geraldo Pereira Rocha Filho
+Year: 2021
+URL: N/A
+
+Abstract:
+This article reviews the "Once learning" mechanism that was proposed 23 years ago and the subsequent successes of "One-shot learning" in image classification and "You Only Look Once - YOLO" in objective detection. Analyzing the current development of Artificial Intelligence (AI), the proposal is that AI should be clearly divided into the following categories: Artificial Human Intelligence (AHI), Artificial Machine Intelligence (AMI), and Artificial Biological Intelligence (ABI), which will also be the main directions of theory and application development for AI. As a watershed for the branches of AI, some classification standards and methods are discussed: 1) Human-oriented, machine-oriented, and biological-oriented AI R&D; 2) Information input processed by Dimensionality-up or Dimensionality-reduction; 3) The use of one/few or large samples for knowledge learning.

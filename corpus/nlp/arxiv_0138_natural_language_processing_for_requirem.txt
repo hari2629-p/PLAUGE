@@ -1,0 +1,9 @@
+Title: Natural Language Processing for Requirements Traceability
+
+Source: arxiv
+Authors: Jin L. C. Guo, Jan-Philipp Steghöfer, Andreas Vogelsang, Jane Cleland-Huang
+Year: 2024
+URL: N/A
+
+Abstract:
+Traceability, the ability to trace relevant software artifacts to support reasoning about the quality of the software and its development process, plays a crucial role in requirements and software engineering, particularly for safety-critical systems. In this chapter, we provide a comprehensive overview of the representative tasks in requirement traceability for which natural language processing (NLP) and related techniques have made considerable progress in the past decade. We first present the definition of traceability in the context of requirements and the overall engineering process, as well as other important concepts related to traceability tasks. Then, we discuss two tasks in detail, including trace link recovery and trace link maintenance. We also introduce two other related tasks concerning when trace links are used in practical contexts. For each task, we explain the characteristics of the task, how it can be approached through NLP techniques, and how to design and conduct the experiment to demonstrate the performance of the NLP techniques. We further discuss practical considerations on how to effectively apply NLP techniques and assess their effectiveness regarding the data set collection, the metrics selection, and the role of humans when evaluating the NLP approaches. Overall, this chapter prepares the readers with the fundamental knowledge of designing automated traceability solutions enabled by NLP in practice.

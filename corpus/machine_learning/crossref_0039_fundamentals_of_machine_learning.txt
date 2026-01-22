@@ -1,0 +1,9 @@
+Title: Fundamentals of Machine Learning
+
+Source: crossref
+Authors: Thomas P. Trappenberg
+Year: 2019
+URL: https://doi.org/10.1093/oso/9780198828044.001.0001
+
+Abstract:
+Machine learning is exploding, both in research and for industrial applications. This book aims to be a brief introduction to this area given the importance of this topic in many disciplines, from sciences to engineering, and even for its broader impact on our society. This book tries to contribute with a style that keeps a balance between brevity of explanations, the rigor of mathematical arguments, and outlining principle ideas. At the same time, this book tries to give some comprehensive overview of a variety of methods to see their relation on specialization within this area. This includes some introduction to Bayesian approaches to modeling as well as deep learning. Writing small programs to apply machine learning techniques is made easy today by the availability of high-level programming systems. This book offers examples in Python with the machine learning libraries sklearn and Keras. The first four chapters concentrate largely on the practical side of applying machine learning techniques. The book then discusses more fundamental concepts and includes their formulation in a probabilistic context. This is followed by chapters on advanced models, that of recurrent neural networks and that of reinforcement learning. The book closes with a brief discussion on the impact of machine learning and AI on our society.

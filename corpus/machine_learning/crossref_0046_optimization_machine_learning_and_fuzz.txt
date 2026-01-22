@@ -1,0 +1,9 @@
+Title: Optimization, Machine Learning, and Fuzzy Logic
+
+Source: crossref
+Authors: R. Kingsly Stephen, T. Archana
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3693-7352-1.ch001
+
+Abstract:
+Machine learning, a cornerstone of AI, has revolutionized industries and technologies, empowering systems to adapt without direct programming. This abstract delves into the foundational principles of machine learning, elucidating the paradigms of supervised, unsupervised, and reinforcement learning. Supervised learning involves the task of training models on datasets, where each input is associated with a corresponding output. Unsupervised learning diverges from supervised learning by operating on unlabelled datasets, endeavouring to discern inherent structures and patterns autonomously. Principal component analysis (PCA) and other dimensionality reduction methods, such as K-means clustering algorithms, and association rule learning methods uncover latent insights within unannotated data, empowering data-driven decision-making. Reinforcement learning adopts an interactive paradigm, wherein agents navigate environments to accomplish predefined objectives.

@@ -1,0 +1,9 @@
+Title: Quantitative Evaluation of Transformer Architectures Towards MRI-Based Brain Tumor Classification and Segmentation
+
+Source: crossref
+Authors: Anuradha Kar
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3373-2038-0.ch003
+
+Abstract:
+Transformer based architectures have emerged as powerful deep learning models compared to traditional convolutional neural networks (CNNs) for complex tasks like image classification and segmentation. In this study, the performance of transformer architectures on analysis of medical imaging datasets is investigated through quantitative comparison of three state-of-the-art transformer models which are Vision Transformer (ViT), SegFormer, and MaskFormer, with respect to CNN-based architectures. The models are evaluated on benchmark MRI datasets of human brain across two core tasks: classification and semantic segmentation for three tumor types namely glioma, meningioma and pituitary tumor. Our analysis takes into account multiple performance indicators, including accuracy, segmentation quality, model complexity, and model interpretability. The results reveal notable differences in trade-offs between accuracy, interpretability, and resource demands, offering practical guidance on the relative strengths and suitability of transformer and CNN models in clinical brain tumor diagnostics.

@@ -1,0 +1,9 @@
+Title: Bibliometric-enhanced Information Retrieval: 2nd International BIR Workshop
+
+Source: arxiv
+Authors: Philipp Mayr, Ingo Frommholz, Andrea Scharnhorst, Peter Mutschke
+Year: 2015
+URL: N/A
+
+Abstract:
+This workshop brings together experts of communities which often have been perceived as different once: bibliometrics / scientometrics / informetrics on the one side and information retrieval on the other. Our motivation as organizers of the workshop started from the observation that main discourses in both fields are different, that communities are only partly overlapping and from the belief that a knowledge transfer would be profitable for both sides. Bibliometric techniques are not yet widely used to enhance retrieval processes in digital libraries, although they offer value-added effects for users. On the other side, more and more information professionals, working in libraries and archives are confronted with applying bibliometric techniques in their services. This way knowledge exchange becomes more urgent. The first workshop set the research agenda, by introducing in each other methods, reporting about current research problems and brainstorming about common interests. This follow-up workshop continues the overall communication, but also puts one problem into the focus. In particular, we will explore how statistical modelling of scholarship can improve retrieval services for specific communities, as well as for large, cross-domain collections like Mendeley or ResearchGate. This second BIR workshop continues to raise awareness of the missing link between Information Retrieval (IR) and bibliometrics and contributes to create a common ground for the incorporation of bibliometric-enhanced services into retrieval at the scholarly search engine interface.

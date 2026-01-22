@@ -1,0 +1,13 @@
+Title: Building Urban Resilience through Mega-Events: A Systematic Review using Text Mining and Natural Language Processing (NLP)
+
+Source: crossref
+Authors: Bochra Hadj Kilani
+Year: 2024
+URL: https://doi.org/10.32388/m3bifl
+
+Abstract:
+This research aims to explore the link between urban resilience and urban mega-events and to better understand how effective planning, sustainable development, and social capital can be used to enhance urban resilience. The research will seek to explore how urban mega-events can be planned in ways that not only explode economic impacts but also promote strategies for enhancing resilience in cities. To investigate the relationship between urban resilience and mega-events, a systematic review of the existing literature (2500 articles) was carried out. To investigate the relationship between urban resilience and mega-events, we conducted a systematic review of 2500 articles, but we acknowledge the limitations of qualitatively reviewing such a large number of publications. Therefore, we differentiated between keyword analysis and systematic literature analysis for identifying success factors and good practices.
+
+After that, eleven articles on different aspects of urban resilience and mega-events were analyzed using lexical analysis (text mining) to measure and quantify the sentiment of the articles. We are conscious of the fact that 11 articles are not enough for the corpus analyzed, but we have tried to make a sample and a selection according to the theme, the keywords, and the most cited in the bibliometric search so that this selection is as representative as possible.
+
+A hierarchical analysis was also used to group the articles into comparable groups. The results of this analysis provided a better understanding of common views on urban resilience, the implications of mega-events on urban areas, and ways to improve the resilience of cities. According to the findings, adequate organization and action planning are essential for the successful development of cities hosting mega-events. In particular, the implementation of sustainability initiatives is imperative to ensure long-term resilience. In conclusion, future research must focus on the current understanding of mega-events and their influence on urban resilience and look at their long-term impacts. It should be conducted in different contexts, taking into account the various aspects of equity involved in these events.

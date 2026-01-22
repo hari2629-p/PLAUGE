@@ -1,0 +1,9 @@
+Title: Investigating academic plagiarism: A forensic linguistics approach to plagiarism detection
+
+Source: crossref
+Authors: Rui Sousa-Silva
+Year: 2020
+URL: https://doi.org/10.21913/ijei.v10i1.932
+
+Abstract:
+Automatic plagiarism detection tools have evolved considerably in recent years. Owing in part to the recent technological developments, which provided more powerful processing capacities, as well as to the research interest that plagiarism detection attracted among computational linguists, results are nowadays more accurate and reliable. However, most of the plagiarism detection systems freely and commercially available are still based on similarity measures, whose algorithms search for similar or, at most, identical strings of text, within a more or less short search distance. Although these methods tend to perform well in detecting literal, verbatim plagiarism, their performance drops when other strategies are used, such as word substitution or reordering. This paper presents the results of a forensic linguistic analysis of real plagiarism cases among higher education students. Comparing the suspect plagiarised strings against the most likely originals from a legal perspective, it is demonstrated that strategies other than literal borrowing are increasingly used to plagiarise. A forensic linguistic explanation of the strategies used and why they represent instances of plagiarism is then offered, and examples are provided to illustrate why existing software fails to detect them. The paper concludes by arguing that commonly used detection software packages can be effective in identifying matching text, but are not necessarily good plagiarism detection systems. More indepth research and improvements in computational linguistics and natural language processing are required to increase the accuracy and reliability of the machinedetection procedure.

@@ -1,0 +1,25 @@
+Title: Integrating Clustering and Semantic Similarity for MAUDE Database Dimensionality Reduction
+
+Source: crossref
+Authors: Lei Hua
+Year: 2024
+URL: https://doi.org/10.1101/2024.12.03.24318439
+
+Abstract:
+Abstract
+                
+                  Objective
+                  To develop and evaluate an automated methodology for dimensionality reduction of the FDA’s MAUDE database through schema matching and merging.
+                
+                
+                  Methods
+                  We conducted 96 trails integrating clustering algorithms with semantic similarity evaluations using the DeepSeek V2.5 API. This approach identified and merged semantically similar tables. Feature extraction was performed using Term Frequency-Inverse Document Frequency (TF-IDF) vectorization and Sentence Transformer embeddings. The methodology was assessed against manual groupings provided by domain experts using metrics such as Adjusted Rand Index (ARI), Normalized Mutual Information (NMI), precision, recall, and F1 score. Different similarity thresholds (0.7, 0.8, 0.9) were applied to evaluate their impact on table merging performance.
+                
+                
+                  Results
+                  The integration of clustering with semantic similarity evaluations enhanced the F1 score from 0.51 (clustering alone) to 1.00, utilizing fewer than 1,425 API similarity evaluations. Consequently, the number of tables was compressed from 113 to 13–16 table groups, a reduction of 86% to 89%. In addition, the application of clustering algorithms decreased the number of table pair comparisons by 77% to 83%. Sentence Transformer embeddings outperformed TF-IDF vectorization in clustering performance, with F1 scores increasing from a range of approximately 0.51–0.87 to 0.51–0.95 in clustering-only scenarios. DeepSeek V2.5 demonstrated the potential to match and quantify subtle semantic differences across various similarity thresholds, maintaining high merging accuracy with F1 scores reaching up to 1.00.
+                
+                
+                  Conclusion
+                  The proposed automated dimensionality reduction methodology effectively enhances data quality and analysis efficiency within the MAUDE database. By reducing the number of tables to manageable groups, optimizing context lengths, and leveraging DeepSeek V2.5’s semantic matching capabilities, the framework streamlines data processing and ensures compatibility with advanced analytical tools such as Large Language Models (LLMs). This makes the methodology applicable across various industries, facilitating more efficient and accurate data analysis workflows
+                

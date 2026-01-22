@@ -1,0 +1,9 @@
+Title: UTRNet: High-Resolution Urdu Text Recognition In Printed Documents
+
+Source: arxiv
+Authors: Abdur Rahman, Arjun Ghosh, Chetan Arora
+Year: 2023
+URL: N/A
+
+Abstract:
+In this paper, we propose a novel approach to address the challenges of printed Urdu text recognition using high-resolution, multi-scale semantic feature extraction. Our proposed UTRNet architecture, a hybrid CNN-RNN model, demonstrates state-of-the-art performance on benchmark datasets. To address the limitations of previous works, which struggle to generalize to the intricacies of the Urdu script and the lack of sufficient annotated real-world data, we have introduced the UTRSet-Real, a large-scale annotated real-world dataset comprising over 11,000 lines and UTRSet-Synth, a synthetic dataset with 20,000 lines closely resembling real-world and made corrections to the ground truth of the existing IIITH dataset, making it a more reliable resource for future research. We also provide UrduDoc, a benchmark dataset for Urdu text line detection in scanned documents. Additionally, we have developed an online tool for end-to-end Urdu OCR from printed documents by integrating UTRNet with a text detection model. Our work not only addresses the current limitations of Urdu OCR but also paves the way for future research in this area and facilitates the continued advancement of Urdu OCR technology. The project page with source code, datasets, annotations, trained models, and online tool is available at abdur75648.github.io/UTRNet.

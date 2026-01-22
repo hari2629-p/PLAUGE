@@ -1,0 +1,9 @@
+Title: On the similarity analysis of the growth of microalgae
+
+Source: arxiv
+Authors: C. Y. Ma
+Year: 2022
+URL: N/A
+
+Abstract:
+Similarity analysis of microalgae growth is crucial for understanding microalgae cultivation, such analysis has not been considered before in previous studies. This letter considers the natural features of the microalgae growth phenomenon that are different from the inanimate process. Accordingly, the similarity of light transfer within microalgae suspensions was comprehensively studied. The characteristic number of microalgae growth and the temporal scaling function were considered to represent the growth relate characteristics. Subsequently, a group of dimensionless numbers were derived to characterize the time-dependent similarity of light within microalgae suspensions. For growth similarity, the newly introduced characteristic number of microalgae growth and the temporal scaling function of extinction, absorption and scattering were considered identical. The similarity relations of the time-dependent optical constants of microalgae were also provided for similar growth. The similarity analysis of the microalgae growth will be useful in designing and guiding experiments on microalgae cultivation.

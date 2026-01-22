@@ -1,0 +1,9 @@
+Title: A survey of current work in biomedical text mining
+
+Source: openalex
+Authors: Aaron Cohen
+Year: 2005
+URL: https://doi.org/10.1093/bib/6.1.57
+
+Abstract:
+The volume of published biomedical research, and therefore the underlying biomedical knowledge base, is expanding at an increasing rate. Among the tools that can aid researchers in coping with this information overload are text mining and knowledge extraction. Significant progress has been made in applying text mining to named entity recognition, text classification, terminology extraction, relationship extraction and hypothesis generation. Several research groups are constructing integrated flexible text-mining systems intended for multiple uses. The major challenge of biomedical text mining over the next 5-10 years is to make these systems useful to biomedical researchers. This will require enhanced access to full text, better understanding of the feature space of biomedical literature, better methods for measuring the usefulness of systems to users, and continued cooperation with the biomedical research community to ensure that their needs are addressed.

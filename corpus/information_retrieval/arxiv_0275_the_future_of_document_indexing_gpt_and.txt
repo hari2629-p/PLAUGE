@@ -1,0 +1,9 @@
+Title: The future of document indexing: GPT and Donut revolutionize table of content processing
+
+Source: arxiv
+Authors: Degaga Wolde Feyisa, Haylemicheal Berihun, Amanuel Zewdu, Mahsa Najimoghadam, Marzieh Zare
+Year: 2024
+URL: N/A
+
+Abstract:
+Industrial projects rely heavily on lengthy, complex specification documents, making tedious manual extraction of structured information a major bottleneck. This paper introduces an innovative approach to automate this process, leveraging the capabilities of two cutting-edge AI models: Donut, a model that extracts information directly from scanned documents without OCR, and OpenAI GPT-3.5 Turbo, a robust large language model. The proposed methodology is initiated by acquiring the table of contents (ToCs) from construction specification documents and subsequently structuring the ToCs text into JSON data. Remarkable accuracy is achieved, with Donut reaching 85% and GPT-3.5 Turbo reaching 89% in effectively organizing the ToCs. This landmark achievement represents a significant leap forward in document indexing, demonstrating the immense potential of AI to automate information extraction tasks across diverse document types, boosting efficiency and liberating critical resources in various industries.

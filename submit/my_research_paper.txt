@@ -1,0 +1,13 @@
+Machine Learning Applications in Medical Diagnosis: A Review
+
+Abstract: Machine learning has become a transformative technology in healthcare systems, 
+enabling improved diagnostics, personalized treatment plans, and efficient resource allocation. 
+This paper reviews the current state of machine learning applications in medical imaging, 
+drug discovery, and patient outcome prediction. Deep learning algorithms, especially 
+convolutional neural networks, have demonstrated remarkable accuracy in detecting diseases 
+from medical images including X-rays, MRIs, and CT scans. Natural language processing 
+is being used on electronic health records to extract valuable insights. The combination 
+of machine learning with wearable technology enables continuous health monitoring. However, 
+issues remain in data privacy, model interpretability, and regulatory approval. Future 
+work should focus on creating explainable AI models that medical professionals 
+can trust and understand.

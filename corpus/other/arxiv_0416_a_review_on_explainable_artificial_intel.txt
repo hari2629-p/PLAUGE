@@ -1,0 +1,9 @@
+Title: A Review on Explainable Artificial Intelligence for Healthcare: Why, How, and When?
+
+Source: arxiv
+Authors: Subrato Bharati, M. Rubaiyat Hossain Mondal, Prajoy Podder
+Year: 2023
+URL: N/A
+
+Abstract:
+Artificial intelligence (AI) models are increasingly finding applications in the field of medicine. Concerns have been raised about the explainability of the decisions that are made by these AI models. In this article, we give a systematic analysis of explainable artificial intelligence (XAI), with a primary focus on models that are currently being used in the field of healthcare. The literature search is conducted following the preferred reporting items for systematic reviews and meta-analyses (PRISMA) standards for relevant work published from 1 January 2012 to 02 February 2022. The review analyzes the prevailing trends in XAI and lays out the major directions in which research is headed. We investigate the why, how, and when of the uses of these XAI models and their implications. We present a comprehensive examination of XAI methodologies as well as an explanation of how a trustworthy AI can be derived from describing AI models for healthcare fields. The discussion of this work will contribute to the formalization of the XAI field.

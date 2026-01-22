@@ -1,0 +1,9 @@
+Title: Semantic Jira - Semantic Expert Finder in the Bug Tracking Tool Jira
+
+Source: arxiv
+Authors: Velten Heyn, Adrian Paschke
+Year: 2013
+URL: N/A
+
+Abstract:
+The semantic expert recommender extension for the Jira bug tracking system semantically searches for similar tickets in Jira and recommends experts and links to existing organizational (Wiki) knowledge for each ticket. This helps to avoid redundant work and supports the search and collaboration with experts in the project management and maintenance phase based on semantically enriched tickets in Jira.

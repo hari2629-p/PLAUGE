@@ -1,0 +1,9 @@
+Title: Adjoint computations by algorithmic differentiation of a parallel solver for time-dependent PDEs
+
+Source: arxiv
+Authors: J. I. Cardesa, L. Hascoët, C. Airiau
+Year: 2019
+URL: N/A
+
+Abstract:
+A computational fluid dynamics code is differentiated using algorithmic differentiation (AD) in both tangent and adjoint modes. The two novelties of the present approach are 1) the adjoint code is obtained by letting the AD tool Tapenade invert the complete layer of message passing interface (MPI) communications, and 2) the adjoint code integrates time-dependent, non-linear and dissipative (hence physically irreversible) PDEs with an explicit time integration loop running for ca. $10^{6}$ time steps. The approach relies on using the Adjoinable MPI library to reverse the non-blocking communication patterns in the original code, and by controlling the memory overhead induced by the time-stepping loop with binomial checkpointing. A description of the necessary code modifications is provided along with the validation of the computed derivatives and a performance comparison of the tangent and adjoint codes.

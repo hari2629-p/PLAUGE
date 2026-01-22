@@ -1,0 +1,9 @@
+Title: APLIKASI AGEN CERDAS UNTUK PEMBELAJARAN  PEMPROGRAMAN BERORIENTASI OBJEK BERBASIS NATURAL LANGUAGE PROCESSING (NLP)
+
+Source: crossref
+Authors: Khairil Anam, SEHMAN
+Year: 2018
+URL: https://doi.org/10.31227/osf.io/3jth2
+
+Abstract:
+The existence of a touch of technology on laboratory learning becomes another alternative as a supporter of laboratory learning. Different practitioner's wishes and intensity of relatively short laboratory practice which resulted in dissatisfaction in the implementation of a practicum. Thus, an intelligent learning alternative is needed. This intelligent learning aims to provide high-quality and high-performance training skills that can assist the practitioner in solving problems related to practicum materials. The intelligent learning system is a learning system that handles some student instruction without any intervention from a teacher.Alternative learning system that can support the creation of Intelligent Learning System is by Natural Language Processing (NLP) method. This final project provides an explanation of the creation and implementation of intelligent learning systems in the Object Oriented Programming Computer Laboratory. This system consists of several stages: parsing, similarity, stemming, Knowledge Base which is designed in an interactive form between praktikan and agent based dialoge based application. The success rate of this system in answering questions from praktikan session II is 88.75%.

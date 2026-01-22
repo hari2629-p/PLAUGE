@@ -1,0 +1,9 @@
+Title: Explainable Information Retrieval in the Audit Domain
+
+Source: arxiv
+Authors: Alexander Frummet, Emanuel Slany, Jonas Amling, Moritz Lang, Stephan Scheele
+Year: 2025
+URL: N/A
+
+Abstract:
+Conversational agents such as Microsoft Copilot and Google Gemini assist users with complex search tasks but often generate misleading or fabricated references. This undermines trust, particularly in high-stakes domains such as medicine and finance. Explainable information retrieval (XIR) aims to address this by making search results more transparent and interpretable. While most XIR research is domain-agnostic, this paper focuses on auditing -- a critical yet underexplored area. We argue that XIR systems can support auditors in completing their complex task. We outline key challenges and future research directions to advance XIR in this domain.

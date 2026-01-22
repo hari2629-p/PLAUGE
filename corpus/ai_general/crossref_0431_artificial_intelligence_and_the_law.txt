@@ -1,0 +1,10 @@
+Title: Artificial Intelligence and the Law
+
+Source: crossref
+Authors: Jerry Kaplan
+Year: 2016
+URL: https://doi.org/10.1093/wentk/9780190602383.003.0005
+
+Abstract:
+How will AI affect the law?
+               AI will significantly impact a wide variety of human activities and have a dramatic influence on many fields, professions, and markets. Any attempt to catalog these would necessarily be incomplete and go quickly out of date, so I...

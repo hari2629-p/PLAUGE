@@ -1,0 +1,9 @@
+Title: FASTUS: A Cascaded Finite-State Transducer for Extracting Information from Natural-Language Text
+
+Source: arxiv
+Authors: Jerry R. Hobbs, Douglas Appelt, John Bear, David Israel, Megumi Kameyama
+Year: 1997
+URL: N/A
+
+Abstract:
+FASTUS is a system for extracting information from natural language text for entry into a database and for other applications. It works essentially as a cascaded, nondeterministic finite-state automaton. There are five stages in the operation of FASTUS. In Stage 1, names and other fixed form expressions are recognized. In Stage 2, basic noun groups, verb groups, and prepositions and some other particles are recognized. In Stage 3, certain complex noun groups and verb groups are constructed. Patterns for events of interest are identified in Stage 4 and corresponding ``event structures'' are built. In Stage 5, distinct event structures that describe the same event are identified and merged, and these are used in generating database entries. This decomposition of language processing enables the system to do exactly the right amount of domain-independent syntax, so that domain-dependent semantic and pragmatic processing can be applied to the right larger-scale structures. FASTUS is very efficient and effective, and has been used successfully in a number of applications.

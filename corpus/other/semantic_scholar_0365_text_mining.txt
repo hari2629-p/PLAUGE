@@ -1,0 +1,9 @@
+Title: Text Mining
+
+Source: semantic_scholar
+Authors: Julián Esteban Zamarra Londoño, Daniela Pérez Noreña, Carlos Andrés Barrera Montoya
+Year: 2023
+URL: https://www.semanticscholar.org/paper/dcfcac35bc298d3508af9e9c256aa3f3084dce4d
+
+Abstract:
+El presente artículo evalúa el contenido del informe de auditoría —para caso de Colombia, informe del revisor fiscal— en las empresas cotizadas en la bolsa de valores de Colombia en el periodo 2010-2021, por medio de la metodología Text Mining, que posibilitó el análisis del texto incluido en 647 informes de revisor fiscal, identificando los términos más recurrentes y su importancia dentro del informe, a través del estadístico de frecuencia de términos y nubes de palabras. Con lo anterior, se encontró que los informes del revisor fiscal siguen un formato estándar que, sin embargo, incluyen temas relativos al proceso de auditoría e información adicional a través de los párrafos de énfasis y otros asuntos, mostrando que las palabras o términos que más se usan dentro de los informes son “financiero”, “auditoría” y “opinión”, pero en los párrafos de revelaciones adicionales como párrafos de énfasis y cuestiones clave se incorporan otros temas como procedimientos, deterioro, cartera, evolución y activos para hacer referencia a la información adicional de evaluación de los auditores diferente a solo emitir una opinión de auditoría.

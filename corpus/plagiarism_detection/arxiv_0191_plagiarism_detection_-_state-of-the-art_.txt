@@ -1,0 +1,9 @@
+Title: Plagiarism Detection - State-of-the-art systems (2016) and evaluation methods
+
+Source: arxiv
+Authors: Christina Kraus
+Year: 2016
+URL: N/A
+
+Abstract:
+Plagiarism detection systems comprise various approaches that aim to create a fair environment for academic publications and appropriately acknowledge the authors' works. While the need for a reliable and performant plagiarism detection system increases with an increasing amount of publications, current systems still have shortcomings. Particularly intelligent research plagiarism detection still leaves room for improvement. An important factor for progress in research is a suitable evaluation framework. In this paper, we give an overview on the evaluation of plagiarism detection. We then use a taxonomy provided in former research, to classify recent approaches of plagiarism detection. Based on this, we asses the current research situation in the field of plagiarism detection and derive further research questions and approaches to be tackled in the future.

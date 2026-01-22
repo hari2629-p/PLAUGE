@@ -1,0 +1,9 @@
+Title: Learning Text Similarity with Siamese Recurrent Networks
+
+Source: openalex
+Authors: Paul Neculoiu, Maarten Versteegh, Mihai Rotaru
+Year: 2016
+URL: https://doi.org/10.18653/v1/w16-1617
+
+Abstract:
+This paper presents a deep architecture for learning a similarity metric on variablelength character sequences.The model combines a stack of character-level bidirectional LSTM's with a Siamese architecture.It learns to project variablelength strings into a fixed-dimensional embedding space by using only information about the similarity between pairs of strings.This model is applied to the task of job title normalization based on a manually annotated taxonomy.A small data set is incrementally expanded and augmented with new sources of variance.The model learns a representation that is selective to differences in the input that reflect semantic differences (e.g., "Java developer" vs. "HR manager") but also invariant to nonsemantic string differences (e.g., "Java developer" vs. "Java programmer").

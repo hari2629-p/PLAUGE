@@ -1,0 +1,9 @@
+Title: EMBI
+
+Source: openalex
+Authors: Jacob Devlin, Ming‐Wei Chang
+Year: 2024
+URL: https://doi.org/10.5281/zenodo.12561108
+
+Abstract:
+This work presents an applied, quantitative, and experimental study on the automation of ISO 9001:2015 audit analysis using Natural Language Processing (NLP) and supervised Machine Learning. A corpus of 504 textual audit responses—authored by twelve ISO 9001:2015-qualified professionals—was labeled into compliant, non-compliant, and inconclusive classes. Texts were pre-processed and vectorized with TF-IDF, and a Random Forest classifier was trained and evaluated via stratified splits, 5-fold cross-validation, learning-curve analysis, and 95% confidence intervals.Results show average accuracy 0.887, macro-precision 0.891, macro-recall 0.887, and macro F1-score 0.885 (AUC ≈ 0.91), with a ~9 pp train–test gap indicating mild overfitting typical of tree ensembles. Feature-importance, PDP/ICE, and SHAP-style analyses confirm that negation and uncertainty terms strongly drive class separation.The study demonstrates that a TF-IDF + Random Forest pipeline is interpretable, statistically robust, and computationally lightweight—suitable for organizations seeking faster, more consistent, and auditable decision support in Quality Management. The article includes methodology, metrics with CIs, and guidance for practical adoption under ISO 9001:2015. Keywords: ISO 9001; audit; NLP; machine learning; TF-IDF; Random Forest; compliance.

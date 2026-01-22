@@ -1,0 +1,9 @@
+Title: Deep Learning to Discover Coordinates for Dynamics: Autoencoders &amp; Physics Informed Machine Learning
+
+Source: crossref
+Authors: Steven L. Brunton
+Year: 2023
+URL: https://doi.org/10.52843/cassyni.4zpjhl
+
+Abstract:
+In this video, we discuss how deep learning is being used to discover effective coordinate systems where simple dynamical systems models may be discovered.

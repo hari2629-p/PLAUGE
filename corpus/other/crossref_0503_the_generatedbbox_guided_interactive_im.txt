@@ -1,0 +1,10 @@
+Title: The Generated‐bbox Guided Interactive Image Segmentation With Vision Transformers
+
+Source: crossref
+Authors: Shiyin Zhang, Yafei Dong, Shuang Qiu
+Year: 2025
+URL: https://doi.org/10.1049/cvi2.70019
+
+Abstract:
+ABSTRACT
+                  Existing click‐based interactive image segmentation methods typically initiate object extraction with the first click and iteratively refine the coarse segmentation through subsequent interactions. Unlike box‐based methods, click‐based approaches mitigate ambiguity when multiple targets are present within a single bounding box, but suffer from a lack of precise location and outline information. Inspired by instance segmentation, the authors propose a Generated‐bbox Guided method that provides location and outline information using an automatically generated bounding box, rather than a manually labelled one, minimising the need for extensive user interaction. Building on the success of vision transformers, the authors adopt them as the network architecture to enhance model's performance. A click‐based interactive image segmentation network named the Generated‐bbox Guided Coarse‐to‐Fine Network (GCFN) was proposed. GCFN is a two‐stage cascade network comprising two sub‐networks: Coarsenet and Finenet. A transformer‐based Box Detector was introduced to generate an initial bounding box from a inside click, that can provide location and outline information. Additionally, two feature enhancement modules guided by foreground and background information: the Foreground‐Background Feature Enhancement Module (FFEM) and the Pixel Enhancement Module (PEM) were designed. The authors evaluate the GCFN method on five popular benchmark datasets and demonstrate the generalisation capability on three medical image datasets.

@@ -1,0 +1,9 @@
+Title: Information Retrieval: Data Structures and Algorithms
+
+Source: openalex
+Authors: William B. Frakes, Ricardo Baeza‐Yates
+Year: 1992
+URL: N/A
+
+Abstract:
+An edited volume containing data structures and algorithms for information retrieved including a disk with examples written in C. For programmers and students interested in parsing text, automated indexing, its the first collection in book form of the basic data structures and algorithms that are critical to the storage and retrieval of documents.

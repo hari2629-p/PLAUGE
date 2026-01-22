@@ -1,0 +1,9 @@
+Title: Overview of Deep Reinforcement Learning Methods
+
+Source: crossref
+Authors: Steven L. Brunton
+Year: 2023
+URL: https://doi.org/10.52843/cassyni.kfnzpy
+
+Abstract:
+This video gives an overview of methods for deep reinforcement learning, including deep Q-learning, actor-critic methods, deep policy networks, and policy gradient optimization algorithms.

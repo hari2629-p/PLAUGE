@@ -1,0 +1,9 @@
+Title: NOVEL HUMAN-COMPUTER INTERACTION THROUGH A PRISMOF COMPUTER VISION
+
+Source: crossref
+Authors: S. Kalenova, Zh. Duisebekov
+Year: 2025
+URL: https://doi.org/10.47344/sdubnts.v54i1.537
+
+Abstract:
+For the past two decades, the innovative developments inComputer Science have made the crucial beneficial influence on Human –Computer Interaction (HCI) applications. Recent advanced HCI techniques areessential elements to enhance current computer interfaces and facilitate thefundamental user-friendly interaction. It is now becoming possible tocommunicate with computers by using hand gesture, pose recognition, eyetracking, emotion recognition and several other developed progressivetechnologies. This paper investigates the direct contribution of Computer Vision(CV) applications to improving various modes of human-interaction, specializedin different prominent industries, where cumulative list of use cases includessport, healthcare, agriculture, transportation, retail and manufacturing fields. Thecurrent work also explores the future forecast of CV applications for the nextdecade and identifies possible scenarios of research directions.

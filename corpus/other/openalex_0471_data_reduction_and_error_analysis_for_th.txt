@@ -1,0 +1,9 @@
+Title: Data Reduction and Error Analysis for the Physical Sciences
+
+Source: openalex
+Authors: P. R. Bevington, D. Keith Robinson, J. Morris Blair, A. John Mallinckrodt, Susan McKay
+Year: 1993
+URL: https://doi.org/10.1063/1.4823194
+
+Abstract:
+Uncertainties in measurements probability distributions error analysis estimates of means and errors Monte Carlo techniques dependent and independent variables least-squares fit to a polynomial least-squares fit to an arbitrary function fitting composite peaks direct application of the maximum likelihood. Appendices: numerical methods matrices graphs and tables histograms and graphs computer routines in Pascal.

@@ -1,0 +1,9 @@
+Title: Classification using deep learning neural networks for brain tumors
+
+Source: openalex
+Authors: Heba Mohsen, El‐Sayed A. El‐Dahshan, El-Sayed M. El-Horbaty, Abdel-Badeeh M. Salem
+Year: 2017
+URL: https://doi.org/10.1016/j.fcij.2017.12.001
+
+Abstract:
+Deep Learning is a new machine learning field that gained a lot of interest over the past few years. It was widely applied to several applications and proven to be a powerful machine learning tool for many of the complex problems. In this paper we used Deep Neural Network classifier which is one of the DL architectures for classifying a dataset of 66 brain MRIs into 4 classes e.g. normal, glioblastoma, sarcoma and metastatic bronchogenic carcinoma tumors. The classifier was combined with the discrete wavelet transform (DWT) the powerful feature extraction tool and principal components analysis (PCA) and the evaluation of the performance was quite good over all the performance measures.

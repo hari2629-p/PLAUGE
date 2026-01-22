@@ -1,0 +1,9 @@
+Title: MatSciBERT: A materials domain language model for text mining and information extraction
+
+Source: semantic_scholar
+Authors: Tanishq Gupta, Mohd Zaki, N. Krishnan, Mausam
+Year: 2021
+URL: https://www.semanticscholar.org/paper/b146be9e80c66a6e062a1525693311fac65ae19e
+
+Abstract:
+A large amount of materials science knowledge is generated and stored as text published in peer-reviewed scientific literature. While recent developments in natural language processing, such as Bidirectional Encoder Representations from Transformers (BERT) models, provide promising information extraction tools, these models may yield suboptimal results when applied on materials domain since they are not trained in materials science specific notations and jargons. Here, we present a materials-aware language model, namely, MatSciBERT, trained on a large corpus of peer-reviewed materials science publications. We show that MatSciBERT outperforms SciBERT, a language model trained on science corpus, and establish state-of-the-art results on three downstream tasks, named entity recognition, relation classification, and abstract classification. We make the pre-trained weights of MatSciBERT publicly accessible for accelerated materials discovery and information extraction from materials science texts.

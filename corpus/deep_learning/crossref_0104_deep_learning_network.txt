@@ -1,0 +1,9 @@
+Title: Deep Learning Network
+
+Source: crossref
+Authors: Bhanu Chander
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-1159-6.ch001
+
+Abstract:
+Artificial intelligence (AI) is defined as a machine that can do everything a human being can do and produce better results. Means AI enlightening that data can produce a solution for its own results. Inside the AI ellipsoidal, Machine learning (ML) has a wide variety of algorithms produce more accurate results. As a result of technology, improvement increasing amounts of data are available. But with ML and AI, it is very difficult to extract such high-level, abstract features from raw data, moreover hard to know what feature should be extracted. Finally, we now have deep learning; these algorithms are modeled based on how human brains process the data. Deep learning is a particular kind of machine learning that provides flexibility and great power, with its attempts to learn in multiple levels of representation with the operations of multiple layers. Deep learning brief overview, platforms, Models, Autoencoders, CNN, RNN, and Appliances are described appropriately. Deep learning will have many more successes in the near future because it requires very little engineering by hand. 

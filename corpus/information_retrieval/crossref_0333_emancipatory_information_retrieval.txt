@@ -1,0 +1,9 @@
+Title: Emancipatory Information Retrieval
+
+Source: crossref
+Authors: Bhaskar Mitra
+Year: 2025
+URL: https://doi.org/10.54195/irrj.24531
+
+Abstract:
+Our world today is facing a confluence of several mutually reinforcing crises each of which intersects with concerns of social justice and emancipation. This paper is a provocation for the role of computer-mediated information access in our emancipatory struggles. We define emancipatory information retrieval as the study and development of information access methods that challenge various forms of human oppression, and situates its activities within broader collective emancipatory praxis. The term "emancipatory" here signifies the moral concerns of universal humanization of all peoples and the elimination of oppression to create the conditions under which we can collectively flourish. To develop an emancipatory research agenda for information retrieval (IR), in this paper we speculate about the practices that the community can adopt, enumerate some of the projects that the field should undertake, and discuss provocations to spark new ideas and directions for research. We challenge the field of IR research to embrace humanistic values and commit to universal emancipation and social justice. We also invite scholars from fields such as human-computer interaction, information sciences, media studies, design, science and technology studies, social and political sciences, philosophy, law, environmental sciences, public health, educational sciences, as well as legal and policy experts, civil rights advocates, social justice activists and movement organizers, and artists to join us in realizing this transformation. In this process, we must both imagine post-oppressive worlds, and reimagine the role of IR in that world and in the journey that leads us there.

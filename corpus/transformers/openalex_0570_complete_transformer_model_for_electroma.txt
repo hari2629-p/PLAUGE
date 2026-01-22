@@ -1,0 +1,9 @@
+Title: Complete transformer model for electromagnetic transients
+
+Source: openalex
+Authors: Francisco de León, A. Semlyen
+Year: 1994
+URL: https://doi.org/10.1109/61.277694
+
+Abstract:
+A complete, three phase transformer model for the calculation of electromagnetic transients is presented. The model consists of a set of state equations solved with the trapezoidal rule of integration in order to obtain an equivalent Norton circuit at the transformer terminals. Thus the transformer model can be easily interfaced with an electromagnetic transients program. Its main features are: (a) the basic elements for the winding model are the turns; (b) the complete model includes the losses due to eddy currents in the windings and in the iron core; and (c) the solution of the state equations is obtained in decoupled iterations. For validation, the frequency response of the model is compared with tests on several transformers. Applications to the calculation of transients are given for illustration.< <ETX xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">&gt;</ETX>

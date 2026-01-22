@@ -1,0 +1,9 @@
+Title: Text mining requires text access and more
+
+Source: crossref
+Authors: Peter Suber
+Year: 2025
+URL: https://doi.org/10.63485/kgngn-4h549
+
+Abstract:
+Dietrich Rebholz-Schuhmann, Harald Kirsch, Francisco Couto, Facts from Text --Is Text Mining Ready to Deliver? PLoS Biology, February 15, 2005. Excerpt:  &amp;#39;Could we automatically analyse new scientific publications routinely to extract facts, which could then be inserted into scientific databases? Could we tag gene and protein names, as well as other terms in the document, so that they are easier to recognise?

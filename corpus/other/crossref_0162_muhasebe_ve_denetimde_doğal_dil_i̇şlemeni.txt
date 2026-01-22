@@ -1,0 +1,9 @@
+Title: Muhasebe ve Denetimde Doğal Dil İşlemenin (NLP) Yeri (The Role of Natural Language Processing (NLP) in Accounting and Auditing)
+
+Source: crossref
+Authors: Mehmet Çelik, Burcu Aslantaş Ateş
+Year: 2022
+URL: https://doi.org/10.26677/tr1010.2022.1165
+
+Abstract:
+Bu çalışma, yapay zekâteknolojisi tekniklerinden biri olan doğal dil işlemeninmuhasebe  ve denetimde kullanımının mümkün olup-olamayacağı noktasından hareketle ortaya çıkmıştır. Bu doğrultuda çalışmada doğal dil işleme süreci ayrıntılarıyla açıklanmıştır. Doğal dil işlemenin kullanılmış olduğu uygulama örnekleri ve konuyla ilgili literatür kapsamlı bir şekilde incelenmiş ve sunulmuştur. Araştırma sonuçlarından ve doğal dil işlemenin uygulanabilme kapasitesinden yola çıkarak muhasebe ve denetim alanına yönelik öneriler sunulmuştur. Çalışma, yazılımcılar için yeni bir sektör alternatifi olmasının yanında muhasebe uygulayıcılarına, denetim firmalarınave işletmelere de farklı bir bakış açısı sunmaktadır.

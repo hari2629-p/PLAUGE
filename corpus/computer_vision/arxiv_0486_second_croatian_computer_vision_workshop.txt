@@ -1,0 +1,9 @@
+Title: Second Croatian Computer Vision Workshop (CCVW 2013)
+
+Source: arxiv
+Authors: Sven Lončarić, Siniša Šegvić
+Year: 2013
+URL: N/A
+
+Abstract:
+Proceedings of the Second Croatian Computer Vision Workshop (CCVW 2013, http://www.fer.unizg.hr/crv/ccvw2013) held September 19, 2013, in Zagreb, Croatia. Workshop was organized by the Center of Excellence for Computer Vision of the University of Zagreb.

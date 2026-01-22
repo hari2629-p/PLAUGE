@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Economic Theories
+
+Source: arxiv
+Authors: Tshilidzi Marwala, Evan Hurwitz
+Year: 2017
+URL: N/A
+
+Abstract:
+The advent of artificial intelligence has changed many disciplines such as engineering, social science and economics. Artificial intelligence is a computational technique which is inspired by natural intelligence such as the swarming of birds, the working of the brain and the pathfinding of the ants. These techniques have impact on economic theories. This book studies the impact of artificial intelligence on economic theories, a subject that has not been extensively studied. The theories that are considered are: demand and supply, asymmetrical information, pricing, rational choice, rational expectation, game theory, efficient market hypotheses, mechanism design, prospect, bounded rationality, portfolio theory, rational counterfactual and causality. The benefit of this book is that it evaluates existing theories of economics and update them based on the developments in artificial intelligence field.

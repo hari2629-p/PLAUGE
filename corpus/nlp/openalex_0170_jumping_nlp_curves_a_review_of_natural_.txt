@@ -1,0 +1,9 @@
+Title: Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article]
+
+Source: openalex
+Authors: Erik Cambria, Bebo White
+Year: 2014
+URL: https://doi.org/10.1109/mci.2014.2307227
+
+Abstract:
+Natural language processing (NLP) is a theory-motivated range of computational techniques for the automatic analysis and representation of human language. NLP research has evolved from the era of punch cards and batch processing (in which the analysis of a sentence could take up to 7 minutes) to the era of Google and the likes of it (in which millions of webpages can be processed in less than a second). This review paper draws on recent developments in NLP research to look at the past, present, and future of NLP technology in a new light. Borrowing the paradigm of `jumping curves' from the field of business management and marketing prediction, this survey article reinterprets the evolution of NLP research as the intersection of three overlapping curves-namely Syntactics, Semantics, and Pragmatics Curveswhich will eventually lead NLP research to evolve into natural language understanding.

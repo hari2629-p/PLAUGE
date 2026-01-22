@@ -1,0 +1,9 @@
+Title: A comparison of classifiers and document representations for the routing problem
+
+Source: openalex
+Authors: Hinrich Schütze, David A. Hull, Jan Pedersen
+Year: 1995
+URL: https://doi.org/10.1145/215206.215365
+
+Abstract:
+Article Free Access Share on A comparison of classifiers and document representations for the routing problem Authors: Hinrich Schütze Xerox Palo Alto Research Center, 3333 Coyote Hill Road, Palo Alto, CA Xerox Palo Alto Research Center, 3333 Coyote Hill Road, Palo Alto, CAView Profile , David A. Hull Rank Xerox Research Center, 6 Chemin de Maupertuis, 38240 Meylan, France Rank Xerox Research Center, 6 Chemin de Maupertuis, 38240 Meylan, FranceView Profile , Jan O. Pedersen Xerox Palo Alto Research Center, 3333 Coyote Hill Road, Palo Alto, CA Xerox Palo Alto Research Center, 3333 Coyote Hill Road, Palo Alto, CAView Profile Authors Info & Claims SIGIR '95: Proceedings of the 18th annual international ACM SIGIR conference on Research and development in information retrievalJuly 1995 Pages 229–237https://doi.org/10.1145/215206.215365Online:01 July 1995Publication History 236citation1,274DownloadsMetricsTotal Citations236Total Downloads1,274Last 12 Months50Last 6 weeks5 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteeReaderPDF

@@ -1,0 +1,9 @@
+Title: Three-Dimensional Information Retrieval (3DIR)
+
+Source: crossref
+Authors: Peter Demian, Kirti Ruikar, Tarun Sahu, Anne Morris
+Year: 2018
+URL: https://doi.org/10.4018/978-1-5225-5191-1.ch043
+
+Abstract:
+An increasing amount of information is packed into BIMs, with the 3D geometry serving as a central index leading to other information. The 3DIR project investigates information retrieval from such environments. Here, the 3D visualization can be exploited when formulating queries, computing the relevance of information items, or visualizing search results. The need for such a system was specified using workshops with end users. A prototype was built on a commercial BIM platform. Following an evaluation, the system was enhanced to exploit model topology. Relationships between 3D objects are used to widen the search, whereby relevant information items linked to a related 3D object (rather than linked directly to objects selected by the user) are still retrieved but ranked lower. An evaluation of the enhanced prototype demonstrates its effectiveness but highlights its added complexity. Care needs to be taken when exploiting topological relationships, but that a tight coupling between text-based retrieval and the 3D model is generally effective in information retrieval from BIMs. 

@@ -1,0 +1,9 @@
+Title: Preparing Legal Documents for NLP Analysis: Improving the Classification of Text Elements by Using Page Features
+
+Source: crossref
+Authors: Frieda Josi, Christian Wartena, Ulrich Heid
+Year: 2022
+URL: https://doi.org/10.5121/csit.2022.120102
+
+Abstract:
+Legal documents often have a complex layout with many different headings, headers and footers, side notes, etc. For the further processing, it is important to extract these individual components correctly from a legally binding document, for example a signed PDF. A common approach to do so is to classify each (text) region of a page using its geometric and textual features. This approach works well, when the training and test data have a similar structure and when the documents of a collection to be analyzed have a rather uniform layout. We show that the use of global page properties can improve the accuracy of text element classification: we first classify each page into one of three layout types. After that, we can train a classifier for each of the three page types and thereby improve the accuracy on a manually annotated collection of 70 legal documents consisting of 20,938 text elements. When we split by page type, we achieve an improvement from 0.95 to 0.98 for single-column pages with left marginalia and from 0.95 to 0.96 for double-column pages. We developed our own feature-based method for page layout detection, which we benchmark against a standard implementation of a CNN image classifier.

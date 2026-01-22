@@ -1,0 +1,9 @@
+Title: Handwritten Arabic numeral recognition using deep learning neural networks
+
+Source: semantic_scholar
+Authors: Akm Ashiquzzaman, A. Tushar
+Year: 2017
+URL: https://www.semanticscholar.org/paper/5e352e3874bc968db36820172f6585fe7fc1180b
+
+Abstract:
+Handwritten character recognition is an active area of research with applications in numerous fields. Past and recent works in this field have concentrated on various languages. Arabic is one language where the scope of research is still widespread, with it being one of the most popular languages in the world and being syntactically different from other major languages. Das et al. [1] has pioneered the research for handwritten digit recognition in Arabic. In this paper, we propose a novel algorithm based on deep learning neural networks using appropriate activation function and regularization layer, which shows significantly improved accuracy compared to the existing Arabic numeral recognition methods. The proposed model gives 97.4 percent accuracy, which is the recorded highest accuracy of the dataset used in the experiment. We also propose a modification of the method described in [1], where our method scores identical accuracy as that of [1], with the value of 93.8 percent.

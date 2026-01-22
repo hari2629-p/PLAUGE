@@ -1,0 +1,10 @@
+Title: Outlier Detection in Text Data: An Unsupervised Method Based On Text Similarity and Density Peak
+
+Source: crossref
+Authors: Mahnaz Taleb Sereshki, Morteza Mohammadi Zanjireh
+Year: 2020
+URL: https://doi.org/10.21203/rs.2.24181/v1
+
+Abstract:
+Abstract
+        Outlier detection is problematic in the text data processing. In this paper, a novel method for detecting outliers in text data is proposed. To recognize the outliers, we concentrate on the similarity between every two documents and the density of similar documents. Afterward, an algorithm, which is based on these two elements, is written. We conducted a series of experiments on real datasets with different volumes to evaluate the performance of our proposed method. Experimental results obviously show that our method outperforms than a few previous methods especially when the volume of a dataset is medium. Furthermore, they represent that, we have no performance in one of the powerful outlier detection algorithms due to small datasets.

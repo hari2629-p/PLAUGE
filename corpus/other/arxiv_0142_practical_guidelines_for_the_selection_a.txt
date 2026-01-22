@@ -1,0 +1,9 @@
+Title: Practical Guidelines for the Selection and Evaluation of Natural Language Processing Techniques in Requirements Engineering
+
+Source: arxiv
+Authors: Mehrdad Sabetzadeh, Chetan Arora
+Year: 2024
+URL: N/A
+
+Abstract:
+Natural Language Processing (NLP) is now a cornerstone of requirements automation. One compelling factor behind the growing adoption of NLP in Requirements Engineering (RE) is the prevalent use of natural language (NL) for specifying requirements in industry. NLP techniques are commonly used for automatically classifying requirements, extracting important information, e.g., domain models and glossary terms, and performing quality assurance tasks, such as ambiguity handling and completeness checking. With so many different NLP solution strategies available and the possibility of applying machine learning alongside, it can be challenging to choose the right strategy for a specific RE task and to evaluate the resulting solution in an empirically rigorous manner. In this chapter, we present guidelines for the selection of NLP techniques as well as for their evaluation in the context of RE. In particular, we discuss how to choose among different strategies such as traditional NLP, feature-based machine learning, and language-model-based methods. Our ultimate hope for this chapter is to serve as a stepping stone, assisting newcomers to NLP4RE in quickly initiating themselves into the NLP technologies most pertinent to the RE field.

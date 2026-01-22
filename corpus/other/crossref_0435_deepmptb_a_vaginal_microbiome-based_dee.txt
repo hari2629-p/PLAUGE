@@ -1,0 +1,9 @@
+Title: DeepMPTB: a vaginal microbiome-based deep neural network as artificial intelligence strategy for efficient preterm birth prediction
+
+Source: crossref
+Authors: Oshma Chakoory, Vincent Barra, Emmanuelle Rochette, Loïc Blanchon, Vincent Sapin
+Year: 2024
+URL: https://doi.org/10.1186/s40364-024-00557-1
+
+Abstract:
+AbstractIn recent decades, preterm birth (PTB) has become a significant research focus in the healthcare field, as it is a leading cause of neonatal mortality worldwide. Using five independent study cohorts including 1290 vaginal samples from 561 pregnant women who delivered at term (n = 1029) or prematurely (n = 261), we analysed vaginal metagenomics data for precise microbiome structure characterization. Then, a deep neural network (DNN) was trained to predict term birth (TB) and PTB with an accuracy of 84.10% and an area under the receiver operating characteristic curve (AUROC) of 0.875 ± 0.11. During a benchmarking process, we demonstrated that our DL model outperformed seven currently used machine learning algorithms. Finally, our results indicate that overall diversity of the vaginal microbiota should be taken in account to predict PTB and not specific species. This artificial-intelligence based strategy should be highly helpful for clinicians in predicting preterm birth risk, allowing personalized assistance to address various health issues. DeepMPTB is open source and free for academic use. It is licensed under a GNU Affero General Public License 3.0 and is available at https://deepmptb.streamlit.app/. Source code is available at https://github.com/oschakoory/DeepMPTB and can be easily installed using Docker (https://www.docker.com/).

@@ -1,0 +1,9 @@
+Title: SURVEY ON EVOLVING DEEP LEARNING NEURAL NETWORK ARCHITECTURES
+
+Source: openalex
+Authors: MA Bashar
+Year: 2019
+URL: https://doi.org/10.36548/jaicn.2019.2.003
+
+Abstract:
+The deep learning being a subcategory of the machine learning follows the human instincts of learning by example to produce accurate results. The deep learning performs training to the computer frame work to directly classify the tasks from the documents available either in the form of the text, image, or the sound. Most often the deep learning utilizes the neural network to perform the accurate classification and is referred as the deep neural networks; one of the most common deep neural networks used in a broader range of applications is the convolution neural network that provides an automated way of feature extraction by learning the features directly from the images or the text unlike the machine learning that extracts the features manually. This enables the deep learning neural networks to have a state of art accuracy that mostly expels even the human performance. So the paper is to present the survey on the deep learning neural network architectures utilized in various applications for having an accurate classification with an automated feature extraction.

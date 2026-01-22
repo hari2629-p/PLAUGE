@@ -1,0 +1,9 @@
+Title: Online Proficiency Testing for Signature Comparison by Forensic Document Examiners and Non-Examiners
+
+Source: crossref
+Authors: Lindsay Holmes, Brent Ostrum, Andrew Barton
+Year: 2025
+URL: https://doi.org/10.69525/jasqde.175
+
+Abstract:
+The present study was conducted to develop and test a new online method of proficiency testing for the completion of a signature comparison trail. The web-based test consisted of 14 specimen signatures and 50 questioned signatures with the latter consisting of 8 ‘genuine’ signatures and 42 ‘simulated’ signatures. Opinions regarding the authorship of each questioned signature were submitted by a group of 32 Forensic Document Examiners (FDEs) as well as a group of 32 non-examiners. Results from the online test for FDE participants were compared with the results from a paper-based signature comparison trial conducted by La Trobe University Forensic Expertise Profiling Laboratory that had used signatures from the same specimen writer and simulators. This comparison revealed that there was no significant difference between the FDEs who participated in the online study and the FDEs from the La Trobe study. In addition, FDE participants performed better than the non-examiner group, providing more correct opinions and fewer misleading opinions. The results of the study provide further validation of the existence of an expertise in the area of signature identification. Support is also provided for the use of online proficiency testing as an alternative to the traditional paper method.

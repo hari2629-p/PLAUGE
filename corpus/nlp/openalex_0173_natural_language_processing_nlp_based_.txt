@@ -1,0 +1,9 @@
+Title: Natural Language Processing (NLP) based Text Summarization - A Survey
+
+Source: openalex
+Authors: Ishitva Awasthi, Kuntal Gupta, Prabjot Singh Bhogal, Sahejpreet Singh Anand, Piyush Soni
+Year: 2021
+URL: https://doi.org/10.1109/icict50816.2021.9358703
+
+Abstract:
+The size of data on the Internet has risen in an exponential manner over the past decade. Thus, the need for a solution emerges, that transforms this vast raw information into useful information which a human brain can understand. One such common technique in research that helps in dealing with enormous data is text summarization. Automatic summarization is a renowned approach which is used to reduce a document to its main ideas. It operates by preserving substantial information by creating a shortened version of the text. Text Summarization is categorized into Extractive and Abstractive methods. Extractive methods of summarization minimize the burden of summarization by choosing from the actual text a subset of sentences that are relevant. Although there are a ton of methods, researchers specializing in Natural Language Processing (NLP) are particularly drawn to extractive methods. Based on linguistic and statistical characteristics, the implications of sentences are calculated. A study of extractive and abstract methods for summarizing texts has been made in this paper. This paper also analyses above mentioned methods which yields a less repetitive and a more concentrated summary.

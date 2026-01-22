@@ -1,0 +1,9 @@
+Title: NLP for Search
+
+Source: crossref
+Authors: Christian F. Hempelmann
+Year: 2012
+URL: https://doi.org/10.4018/978-1-60960-741-8.ch004
+
+Abstract:
+This chapter presents an account of key NLP issues in search, sketches current solutions, and then outlines in detail an approach for deep-meaning representation, ontological semantic technology (OST), for a specific, complex NLP application: a meaning-based search engine. The aim is to provide a general overview on NLP and search, ignoring non-NLP issues and solutions, and to show how OST, as an example of a semantic approach, is implemented for search. OST parses natural language text and transposes it into a representation of its meaning, structured around events and their participants as mentioned in the text and as known from the OST resources. Queries can then be matched to this meaning representation in anticipation of any of the permutations in which they can surface in text. These permutations centrally include overspecification (e.g., not listing all synonyms, which non-semantic search engines require their users to do) and, more importantly, underspecification (as language does in principle). For the latter case, ambiguity can only be reduced by giving the search engine what humans use for disambiguation, namely knowledge of the world as represented in an ontology.

@@ -1,0 +1,9 @@
+Title: Learning Neural Network Architectures using Backpropagation
+
+Source: arxiv
+Authors: Suraj Srinivas, R. Venkatesh Babu
+Year: 2015
+URL: N/A
+
+Abstract:
+Deep neural networks with millions of parameters are at the heart of many state of the art machine learning models today. However, recent works have shown that models with much smaller number of parameters can also perform just as well. In this work, we introduce the problem of architecture-learning, i.e; learning the architecture of a neural network along with weights. We introduce a new trainable parameter called tri-state ReLU, which helps in eliminating unnecessary neurons. We also propose a smooth regularizer which encourages the total number of neurons after elimination to be small. The resulting objective is differentiable and simple to optimize. We experimentally validate our method on both small and large networks, and show that it can learn models with a considerably small number of parameters without affecting prediction accuracy.

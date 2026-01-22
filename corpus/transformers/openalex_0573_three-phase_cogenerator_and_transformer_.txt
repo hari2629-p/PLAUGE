@@ -1,0 +1,9 @@
+Title: Three-phase cogenerator and transformer models for distribution system analysis
+
+Source: openalex
+Authors: T.-H. Chen, M.-S. Chen, Tomoyasu Inoue, P. Kotas, E.A. Chebli
+Year: 1991
+URL: https://doi.org/10.1109/61.97706
+
+Abstract:
+The authors present detailed three-phase cogenerator and transformer models for analyzing a large scale distribution system. The cogenerator model presented can represent the inherent generator phase imbalance due to distribution system imbalance. The cogenerators can be synchronous or induction and can be on either primary or secondary systems. The transformer models consider the copper and core losses, the winding connection, the phase-shifting between primary and secondary windings, and the off-nominal tapping. An individual phase, as opposed to a balanced three-phase, representation is employed. This approach is oriented toward applications in distribution system operational analysis rather than planning analysis.< <ETX xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">&gt;</ETX>

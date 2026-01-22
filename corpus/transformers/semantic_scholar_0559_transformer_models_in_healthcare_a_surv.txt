@@ -1,0 +1,9 @@
+Title: Transformer Models in Healthcare: A Survey and Thematic Analysis of Potentials, Shortcomings and Risks
+
+Source: semantic_scholar
+Authors: Kerstin Denecke, R. May, Octavio Rivera
+Year: 2024
+URL: https://www.semanticscholar.org/paper/815bf0a659f3363fbf8f51632b58f29bcb699491
+
+Abstract:
+Large Language Models (LLMs) such as General Pretrained Transformer (GPT) and Bidirectional Encoder Representations from Transformers (BERT), which use transformer model architectures, have significantly advanced artificial intelligence and natural language processing. Recognized for their ability to capture associative relationships between words based on shared context, these models are poised to transform healthcare by improving diagnostic accuracy, tailoring treatment plans, and predicting patient outcomes. However, there are multiple risks and potentially unintended consequences associated with their use in healthcare applications. This study, conducted with 28 participants using a qualitative approach, explores the benefits, shortcomings, and risks of using transformer models in healthcare. It analyses responses to seven open-ended questions using a simplified thematic analysis. Our research reveals seven benefits, including improved operational efficiency, optimized processes and refined clinical documentation. Despite these benefits, there are significant concerns about the introduction of bias, auditability issues and privacy risks. Challenges include the need for specialized expertise, the emergence of ethical dilemmas and the potential reduction in the human element of patient care. For the medical profession, risks include the impact on employment, changes in the patient-doctor dynamic, and the need for extensive training in both system operation and data interpretation.

@@ -1,0 +1,9 @@
+Title: On the approximation of rough functions with deep neural networks
+
+Source: arxiv
+Authors: Tim De Ryck, Siddhartha Mishra, Deep Ray
+Year: 2019
+URL: N/A
+
+Abstract:
+Deep neural networks and the ENO procedure are both efficient frameworks for approximating rough functions. We prove that at any order, the ENO interpolation procedure can be cast as a deep ReLU neural network. This surprising fact enables the transfer of several desirable properties of the ENO procedure to deep neural networks, including its high-order accuracy at approximating Lipschitz functions. Numerical tests for the resulting neural networks show excellent performance for approximating solutions of nonlinear conservation laws and at data compression.

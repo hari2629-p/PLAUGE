@@ -1,0 +1,9 @@
+Title: Developing Machine Learning Skills With No-Code Machine Learning Tools
+
+Source: crossref
+Authors: Emmanuel Djaba, Joseph Budu
+Year: 2023
+URL: https://doi.org/10.4018/978-1-7998-9220-5.ch097
+
+Abstract:
+No-code machine learning (ML) tools provide an avenue for individuals who lack advanced ML skills to develop ML applications. Extant literature indicates that by using such tools, individuals can acquire relevant ML skills. However, no explanation has been provided of how the use of no-code ML tools leads to the generation of these skills. Using the theory of technology affordances and constraints, this article undertakes a qualitative evaluation of publicly available no-code ML tools to explain how their usage can lead to the formation of relevant ML skills. Subsequently, the authors show that no-code ML tools generate familiarization affordances, utilization affordances, and administration affordances. Subsequently, they provide a conceptual framework and process model that depicts how these affordances lead to the generating of ML skills.

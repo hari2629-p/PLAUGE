@@ -1,0 +1,9 @@
+Title: Probability Judgement in Artificial Intelligence
+
+Source: arxiv
+Authors: Glenn Shafer
+Year: 2013
+URL: N/A
+
+Abstract:
+This paper is concerned with two theories of probability judgment: the Bayesian theory and the theory of belief functions. It illustrates these theories with some simple examples and discusses some of the issues that arise when we try to implement them in expert systems. The Bayesian theory is well known; its main ideas go back to the work of Thomas Bayes (1702-1761). The theory of belief functions, often called the Dempster-Shafer theory in the artificial intelligence community, is less well known, but it has even older antecedents; belief-function arguments appear in the work of George Hooper (16401723) and James Bernoulli (1654-1705). For elementary expositions of the theory of belief functions, see Shafer (1976, 1985).

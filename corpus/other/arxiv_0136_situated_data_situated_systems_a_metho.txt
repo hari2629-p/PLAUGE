@@ -1,0 +1,9 @@
+Title: Situated Data, Situated Systems: A Methodology to Engage with Power Relations in Natural Language Processing Research
+
+Source: arxiv
+Authors: Lucy Havens, Melissa Terras, Benjamin Bach, Beatrice Alex
+Year: 2020
+URL: N/A
+
+Abstract:
+We propose a bias-aware methodology to engage with power relations in natural language processing (NLP) research. NLP research rarely engages with bias in social contexts, limiting its ability to mitigate bias. While researchers have recommended actions, technical methods, and documentation practices, no methodology exists to integrate critical reflections on bias with technical NLP methods. In this paper, after an extensive and interdisciplinary literature review, we contribute a bias-aware methodology for NLP research. We also contribute a definition of biased text, a discussion of the implications of biased NLP systems, and a case study demonstrating how we are executing the bias-aware methodology in research on archival metadata descriptions.

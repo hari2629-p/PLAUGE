@@ -1,0 +1,9 @@
+Title: Reinforcement Learning and Causal Models
+
+Source: crossref
+Authors: Samuel J. Gershman
+Year: 2017
+URL: https://doi.org/10.1093/oxfordhb/9780199399550.013.20
+
+Abstract:
+This chapter reviews the diverse roles that causal knowledge plays in reinforcement learning. The first half of the chapter contrasts a “model-free” system that learns to repeat actions that lead to reward with a “model-based” system that learns a probabilistic causal model of the environment, which it then uses to plan action sequences. Evidence suggests that these two systems coexist in the brain, both competing and cooperating with each other. The interplay of two systems allows the brain to negotiate a balance between cognitively cheap but inaccurate model-free algorithms and accurate but expensive model-based algorithms. The second half of the chapter reviews research on hidden state inference in reinforcement learning. The problem of inferring hidden states can be construed in terms of inferring the latent causes that give rise to sensory data and rewards. Because hidden state inference affects both model-based and model-free reinforcement learning, causal knowledge impinges upon both systems.

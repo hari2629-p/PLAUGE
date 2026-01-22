@@ -1,0 +1,9 @@
+Title: A review of clustering models in educational data science towards fairness-aware learning
+
+Source: arxiv
+Authors: Tai Le Quy, Gunnar Friege, Eirini Ntoutsi
+Year: 2023
+URL: N/A
+
+Abstract:
+Ensuring fairness is essential for every education system. Machine learning is increasingly supporting the education system and educational data science (EDS) domain, from decision support to educational activities and learning analytics. However, the machine learning-based decisions can be biased because the algorithms may generate the results based on students' protected attributes such as race or gender. Clustering is an important machine learning technique to explore student data in order to support the decision-maker, as well as support educational activities, such as group assignments. Therefore, ensuring high-quality clustering models along with satisfying fairness constraints are important requirements. This chapter comprehensively surveys clustering models and their fairness in EDS. We especially focus on investigating the fair clustering models applied in educational activities. These models are believed to be practical tools for analyzing students' data and ensuring fairness in EDS.

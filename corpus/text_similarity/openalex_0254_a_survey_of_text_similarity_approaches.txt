@@ -1,0 +1,9 @@
+Title: A Survey of Text Similarity Approaches
+
+Source: openalex
+Authors: Wael H. Gomaa, Aly A. Fahmy
+Year: 2013
+URL: https://doi.org/10.5120/11638-7118
+
+Abstract:
+Measuring the similarity between words, sentences, paragraphs and documents is an important component in various tasks such as information retrieval, document clustering, word-sense disambiguation, automatic essay scoring, short answer grading, machine translation and text summarization. This survey discusses the existing works on text similarity through partitioning them into three approaches; String-based, Corpus-based and Knowledgebased similarities. Furthermore, samples of combination between these similarities are presented.

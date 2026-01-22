@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Human Society (Artificial Intelligence and Education)
+
+Source: crossref
+Authors: Unknown
+Year: 2023
+URL: https://doi.org/10.33140/eoa.01.03.10
+
+Abstract:
+The impact of AI technologies on different sectors has been profound, and one area where significant changes have occurred is education. In this abstract the integration of artificial intelligence technologies in education is explored, highlighting their potential advantages, challenges and ethical considerations. There are a wide range of tools and techniques in use for the application of AI to ducation, e.g. Intelligent Coaching Systems, Personalized Learning Platforms, Automated Scoreboards or Virtual Classrooms.

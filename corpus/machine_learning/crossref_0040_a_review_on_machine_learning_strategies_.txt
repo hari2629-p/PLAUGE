@@ -1,0 +1,9 @@
+Title: A Review on Machine Learning Strategies for Real-World Engineering Applications
+
+Source: crossref
+Authors: Abdulazeez Alsajri
+Year: 2024
+URL: https://doi.org/10.58496/bjml/2023/001
+
+Abstract:
+As we enter the Industry 5.0 era, enormous volumes of data are being created across digital systems. Machine learning techniques have recently achieved immense success in areas such as intelligent control, decision-making, speech recognition, natural language processing, computer graphics, and computer vision. This despite the significant challenge of analyzing and interpreting massive datasets. Owing to their strong performance, deep learning and machine learning algorithms have become widely deployed across various real-time engineering applications. Developing working knowledge of machine learning is now critical for building automated, smart systems that can process data in domains like healthcare, cybersecurity, and intelligent transportation. There exist multiple strategies in machine learning, including reinforcement learning, semi-supervised learning, unsupervised learning, and supervised learning algorithms. This research provides a comprehensive examination of leveraging machine learning for managing real-time engineering systems, with the goal of augmenting their capabilities and intelligence. It contributes to the understanding of how different machine learning approaches can be applied in real-world use cases like cybersecurity, healthcare, and intelligent transportation. Additionally, it highlights ongoing research objectives and difficulties that machine learning techniques encounter while tackling real-world systems. This research serves both industry professionals and academics as a reference, while technically benchmarking decision-making across different application areas and real-world scenarios.

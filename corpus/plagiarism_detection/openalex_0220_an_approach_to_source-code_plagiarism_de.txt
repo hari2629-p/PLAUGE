@@ -1,0 +1,9 @@
+Title: An Approach to Source-Code Plagiarism Detection and Investigation Using Latent Semantic Analysis
+
+Source: openalex
+Authors: Georgina Cosma, Mike Joy
+Year: 2011
+URL: https://doi.org/10.1109/tc.2011.223
+
+Abstract:
+Plagiarism is a growing problem in academia. Academics often use plagiarism detection tools to detect similar source-code files. Once similar files are detected, the academic proceeds with the investigation process which involves identifying the similar source-code fragments within them that could be used as evidence for proving plagiarism. This paper describes PlaGate, a novel tool that can be integrated with existing plagiarism detection tools to improve plagiarism detection performance. The tool also implements a new approach for investigating the similarity between source-code files with a view to gathering evidence for proving plagiarism. Graphical evidence is presented that allows for the investigation of source-code fragments with regards to their contribution toward evidence for proving plagiarism. The graphical evidence indicates the relative importance of the given source-code fragments across files in a corpus. This is done by using the Latent Semantic Analysis information retrieval technique to detect how important they are within the specific files under investigation in relation to other files in the corpus.

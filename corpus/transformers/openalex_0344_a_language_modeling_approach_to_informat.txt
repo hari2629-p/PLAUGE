@@ -1,0 +1,9 @@
+Title: A Language Modeling Approach to Information Retrieval
+
+Source: openalex
+Authors: Jay Ponte, W. Bruce Croft
+Year: 2017
+URL: https://doi.org/10.1145/3130348.3130368
+
+Abstract:
+column Share on A Language Modeling Approach to Information Retrieval Authors: Jay M. Ponte University of Massachesetts, Amherst University of Massachesetts, AmherstView Profile , W. Bruce Croft University of Massachesetts, Amherst University of Massachesetts, AmherstView Profile Authors Info & Claims ACM SIGIR ForumVolume 51Issue 2July 2017 pp 202–208https://doi.org/10.1145/3130348.3130368Published:02 August 2017Publication History 19citation438DownloadsMetricsTotal Citations19Total Downloads438Last 12 Months248Last 6 weeks34 Get Citation AlertsNew Citation Alert added!This alert has been successfully added and will be sent to:You will be notified whenever a record that you have chosen has been cited.To manage your alert preferences, click on the button below.Manage my AlertsNew Citation Alert!Please log in to your account Save to BinderSave to BinderCreate a New BinderNameCancelCreateExport CitationPublisher SiteGet Access

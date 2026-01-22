@@ -1,0 +1,9 @@
+Title: Shortcomings of the Fundamental Matrix Equation to Reconstruct 3D Scenes
+
+Source: crossref
+Authors: Tayeb Basta
+Year: 2022
+URL: https://doi.org/10.5121/csit.2022.120106
+
+Abstract:
+In stereo vision, the epipolar geometry is the intrinsic projective geometry between the two views. The essential and fundamental matrices relate corresponding points in stereo images. The essential matrix describes the geometry when the used cameras are calibrated, and the fundamental matrix expresses the geometry when the cameras are uncalibrated. Since the nineties, researchers devoted a lot of effort to estimating the fundamental matrix. Although it is a landmark of computer vision, in the current work, three derivations of the essential and fundamental matrices have been revised. The Longuet-Higgins' derivation of the essential matrix where the author draws a mapping between the position vectors of a 3D point; however, the one-to-one feature of that mapping is lost when he changed it to a relation between the image points. In the two other derivations, we demonstrate that the authors established a mapping between the image points through the misuse of mathematics.

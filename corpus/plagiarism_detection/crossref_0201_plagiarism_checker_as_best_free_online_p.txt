@@ -1,0 +1,9 @@
+Title: Plagiarism Checker as Best Free Online Plagiarism Detection Software
+
+Source: crossref
+Authors: Michael Gamba, Magdalena Ocbian, Maryjean Gamba
+Year: 2015
+URL: https://doi.org/10.7719/jpair.v18i1.292
+
+Abstract:
+The advancement of online information system allows every internet user to have ample amount of data that they can gather without acknowledging the authors. Thus, the awareness of anti-plagiarism tools whether it is free-online services or commercial software can help both students and faculty to properly acknowledge and identify the source of the data. This study intended to compare and contrast the efficiency and other cited criteria for the available free-online plagiarism detection system. The seven free-of-cost online services on plagiarism detection software that were identified during the time of testing were Plagiarism Checker, Plagiarism Detection, Check for Plagiarism, PlagTracker, PlagScan, DupliChecker and PaperRater. The seven tools had been tested with the textual data that had been derived from numerous websites which includes educational institutions and open access journals. The strong and weak points of each tool were validated by allowing the respondents to use each tool and rate it according to the cited criteria. Among the tools tested, the Plagiarism Checker turned out to be easiest tool to use with the highest rate of learnability due to simplicity of its user interface. The ability of its online services to cross-check other internet sites regardless of the file format where the tested textual data that had been copied gives a more reliable output than the others.

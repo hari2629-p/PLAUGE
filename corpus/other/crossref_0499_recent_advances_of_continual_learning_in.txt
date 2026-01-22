@@ -1,0 +1,10 @@
+Title: Recent Advances of Continual Learning in Computer Vision: An Overview
+
+Source: crossref
+Authors: Haoxuan Qu, Hossein Rahmani, Li Xu, Bryan Williams, Jun Liu
+Year: 2025
+URL: https://doi.org/10.1049/cvi2.70013
+
+Abstract:
+ABSTRACT
+                  In contrast to batch learning where all training data is available at once, continual learning represents a family of methods that accumulate knowledge and learn continuously with data available in sequential order. Similar to the human learning process with the ability of learning, fusing and accumulating new knowledge acquired at different time steps, continual learning is considered to have high practical significance. Hence, continual learning has been studied in various artificial intelligence tasks. In this paper, we present a comprehensive review of the recent progress of continual learning in computer vision. In particular, the works are grouped by their representative techniques, including regularisation, knowledge distillation, memory, generative replay, parameter isolation and a combination of the above techniques. For each category of these techniques, both its characteristics and applications in computer vision are presented. At the end of this overview, several subareas, where continuous knowledge accumulation is potentially helpful while continual learning has not been well studied, are discussed.

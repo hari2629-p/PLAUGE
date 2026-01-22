@@ -1,0 +1,9 @@
+Title: SChuBERT: Scholarly Document Chunks with BERT-encoding boost Citation Count Prediction
+
+Source: arxiv
+Authors: Thomas van Dongen, Gideon Maillette de Buy Wenniger, Lambert Schomaker
+Year: 2020
+URL: N/A
+
+Abstract:
+Predicting the number of citations of scholarly documents is an upcoming task in scholarly document processing. Besides the intrinsic merit of this information, it also has a wider use as an imperfect proxy for quality which has the advantage of being cheaply available for large volumes of scholarly documents. Previous work has dealt with number of citations prediction with relatively small training data sets, or larger datasets but with short, incomplete input text. In this work we leverage the open access ACL Anthology collection in combination with the Semantic Scholar bibliometric database to create a large corpus of scholarly documents with associated citation information and we propose a new citation prediction model called SChuBERT. In our experiments we compare SChuBERT with several state-of-the-art citation prediction models and show that it outperforms previous methods by a large margin. We also show the merit of using more training data and longer input for number of citations prediction.

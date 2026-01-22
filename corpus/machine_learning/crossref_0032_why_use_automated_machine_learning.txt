@@ -1,0 +1,10 @@
+Title: Why Use Automated Machine Learning?
+
+Source: crossref
+Authors: Kai R. Larsen, Daniel S. Becker
+Year: 2021
+URL: https://doi.org/10.1093/oso/9780190941659.003.0001
+
+Abstract:
+Machine learning is involved in search, translation, detecting depression, likelihood of college dropout, finding lost children, and to sell all kinds of products. While barely beyond its inception, the current machine learning revolution will affect people and organizations no less than the Industrial Revolution’s effect on weavers and many other skilled laborers. Machine learning will automate hundreds of millions of jobs that were considered too complex for machines ever to take over even a decade ago, including driving, flying, painting, programming, and customer service, as well as many of the jobs previously reserved for humans in the fields of finance, marketing, operations, accounting, and human resources. This section explains how automated machine learning addresses exploratory data analysis, feature engineering, algorithm selection, hyperparameter tuning, and model diagnostics. The section covers the eight criteria considered essential for AutoML to have significant impact: accuracy, productivity, ease of use, understanding and learning, resource availability, process transparency, generalization, and recommended actions.
+               

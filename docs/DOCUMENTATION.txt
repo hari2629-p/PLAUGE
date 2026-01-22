@@ -1,0 +1,324 @@
+================================================================================
+                    PLAGIARISM DETECTOR - DOCUMENTATION
+================================================================================
+
+This file contains detailed documentation for plagiarism_detector.py
+
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This module provides an NLP-based document similarity model for plagiarism 
+detection using TF-IDF vectorization and cosine similarity.
+
+Dependencies: nltk, scikit-learn, numpy
+
+
+================================================================================
+FUNCTION: download_nltk_resources()
+================================================================================
+
+Purpose: Download required NLTK resources for text preprocessing.
+         Should be run once before using the plagiarism detector.
+
+Resources downloaded:
+  - punkt: Tokenizer models
+  - stopwords: English stopwords list
+  - wordnet: WordNet lemmatizer data
+  - punkt_tab: Additional tokenizer data
+
+
+================================================================================
+CLASS: TextPreprocessor
+================================================================================
+
+Purpose: Handles all text preprocessing operations for plagiarism detection.
+
+METHODS:
+
+__init__()
+    - Initializes the WordNet lemmatizer
+    - Loads English stopwords set
+
+to_lowercase(text)
+    - Input: text string
+    - Output: lowercase version of text
+
+remove_punctuation(text)
+    - Removes all punctuation using string.punctuation
+    - Removes special characters (keeps only alphanumeric and spaces)
+    - Removes extra whitespace
+    - Input: text string
+    - Output: cleaned text string
+
+tokenize(text)
+    - Splits text into individual words using NLTK word_tokenize
+    - Input: text string
+    - Output: list of tokens (words)
+
+remove_stopwords(tokens)
+    - Removes common English words (the, is, at, which, etc.)
+    - Input: list of tokens
+    - Output: filtered list of tokens
+
+lemmatize(tokens)
+    - Reduces words to their base form (running -> run, cats -> cat)
+    - Uses WordNet lemmatizer
+    - Input: list of tokens
+    - Output: list of lemmatized tokens
+
+preprocess(text)
+    - Applies the FULL preprocessing pipeline:
+      1. Convert to lowercase
+      2. Remove punctuation and special characters
+      3. Tokenize into words
+      4. Remove stopwords
+      5. Lemmatize tokens
+      6. Join back into string
+    - Input: raw text string
+    - Output: fully preprocessed text string
+
+
+================================================================================
+CLASS: TfidfFeatureExtractor
+================================================================================
+
+Purpose: Handles TF-IDF (Term Frequency-Inverse Document Frequency) vectorization.
+
+WHAT IS TF-IDF?
+  - TF (Term Frequency): How often a word appears in a document
+  - IDF (Inverse Document Frequency): How rare a word is across all documents
+  - TF-IDF = TF × IDF (important words get higher scores)
+
+METHODS:
+
+__init__(max_features=5000, ngram_range=(1, 2))
+    Parameters:
+      - max_features: Maximum number of vocabulary terms (default: 5000)
+                     Limits features to prevent overfitting
+      - ngram_range: (1, 2) means use unigrams AND bigrams
+                     Unigram: single word ("machine")
+                     Bigram: two consecutive words ("machine learning")
+
+fit_transform(documents)
+    - Learns vocabulary from documents and transforms to TF-IDF vectors
+    - Input: list of preprocessed document strings
+    - Output: TF-IDF matrix (sparse matrix)
+
+get_feature_names()
+    - Returns the vocabulary (all terms) learned by the vectorizer
+    - Output: list of feature names (words/phrases)
+
+
+================================================================================
+CLASS: SimilarityCalculator
+================================================================================
+
+Purpose: Computes cosine similarity between document vectors.
+
+WHAT IS COSINE SIMILARITY?
+  - Measures the cosine of the angle between two vectors
+  - Value ranges from 0 to 1:
+    - 0 = completely different (90° angle)
+    - 1 = identical (0° angle)
+  - Ignores magnitude, focuses on direction/orientation
+
+METHODS:
+
+compute_cosine_similarity(tfidf_matrix) [static method]
+    - Computes pairwise similarity between ALL documents
+    - Input: TF-IDF matrix from vectorization
+    - Output: n×n similarity matrix
+             Entry [i,j] = similarity between document i and document j
+
+similarity_to_percentage(similarity) [static method]
+    - Converts decimal similarity to percentage
+    - Input: similarity score (0.0 to 1.0)
+    - Output: percentage (0 to 100), rounded to 2 decimal places
+
+
+================================================================================
+CLASS: PlagiarismDecision
+================================================================================
+
+Purpose: Determines plagiarism level based on similarity thresholds.
+
+CONSTANTS:
+  - HIGH_THRESHOLD = 0.8 (80%)
+  - MEDIUM_THRESHOLD = 0.5 (50%)
+
+CLASSIFICATION RULES:
+  - similarity >= 0.8  → "High plagiarism" (RED)
+  - 0.5 <= similarity < 0.8 → "Medium plagiarism" (YELLOW)
+  - similarity < 0.5  → "Low plagiarism" (GREEN)
+
+METHODS:
+
+get_plagiarism_level(similarity) [class method]
+    - Input: cosine similarity score (0 to 1)
+    - Output: string - "High plagiarism", "Medium plagiarism", or "Low plagiarism"
+
+get_color_code(similarity) [class method]
+    - Returns ANSI color codes for terminal output
+    - Input: cosine similarity score
+    - Output: ANSI escape code string
+      - Red (\033[91m) for high
+      - Yellow (\033[93m) for medium
+      - Green (\033[92m) for low
+
+
+================================================================================
+CLASS: PlagiarismDetector
+================================================================================
+
+Purpose: Main orchestrator class that combines all components into a complete
+         plagiarism detection pipeline.
+
+ATTRIBUTES:
+  - preprocessor: TextPreprocessor instance
+  - feature_extractor: TfidfFeatureExtractor instance
+  - similarity_calculator: SimilarityCalculator instance
+  - documents: list of original documents
+  - preprocessed_docs: list of preprocessed documents
+  - similarity_matrix: computed similarity matrix
+
+METHODS:
+
+__init__(max_features=5000)
+    - Initializes all component classes
+    - Parameter: max_features for TF-IDF vectorization
+
+add_documents(documents)
+    - Adds documents and automatically preprocesses them
+    - Input: list of raw text documents (strings)
+
+analyze()
+    - Performs the complete plagiarism analysis:
+      1. Vectorizes documents using TF-IDF
+      2. Computes pairwise cosine similarity
+      3. Generates classification for each document pair
+    - Returns dictionary with:
+      - 'similarity_matrix': full n×n similarity matrix
+      - 'pairwise_results': list of dicts with:
+          - doc1_index: index of first document
+          - doc2_index: index of second document
+          - similarity_score: raw similarity (0-1)
+          - similarity_percentage: similarity as percentage
+          - plagiarism_level: classification string
+
+print_results(results)
+    - Prints formatted, color-coded results to console
+    - Input: results dictionary from analyze()
+
+
+================================================================================
+MAIN FUNCTION: main()
+================================================================================
+
+Purpose: Demonstration of the plagiarism detection system.
+
+STEPS:
+  1. Downloads NLTK resources
+  2. Defines 4 sample documents:
+     - Doc 1: Original text about machine learning
+     - Doc 2: Paraphrased version of Doc 1 (high similarity expected)
+     - Doc 3: Text about deep learning (medium similarity expected)
+     - Doc 4: Unrelated text about weather (low similarity expected)
+  3. Creates PlagiarismDetector instance
+  4. Adds and preprocesses documents
+  5. Runs analysis
+  6. Prints results and similarity matrix
+
+
+================================================================================
+USAGE EXAMPLES
+================================================================================
+
+EXAMPLE 1: Basic Usage
+----------------------
+    from plagiarism_detector import PlagiarismDetector
+    
+    detector = PlagiarismDetector()
+    detector.add_documents(["First document...", "Second document..."])
+    results = detector.analyze()
+    detector.print_results(results)
+
+EXAMPLE 2: Access Raw Similarity Scores
+---------------------------------------
+    results = detector.analyze()
+    
+    for pair in results['pairwise_results']:
+        print(f"Doc {pair['doc1_index']+1} vs Doc {pair['doc2_index']+1}")
+        print(f"  Similarity: {pair['similarity_percentage']}%")
+        print(f"  Level: {pair['plagiarism_level']}")
+
+EXAMPLE 3: Get Similarity Matrix
+--------------------------------
+    results = detector.analyze()
+    matrix = results['similarity_matrix']
+    
+    # Similarity between doc 0 and doc 1
+    sim = matrix[0, 1]
+    print(f"Similarity: {sim * 100:.2f}%")
+
+EXAMPLE 4: Custom Threshold Check
+---------------------------------
+    results = detector.analyze()
+    
+    for pair in results['pairwise_results']:
+        if pair['similarity_score'] >= 0.9:
+            print(f"ALERT: Very high similarity detected!")
+
+
+================================================================================
+ALGORITHM PIPELINE FLOW
+================================================================================
+
+    Raw Documents
+         │
+         ▼
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  PREPROCESSING (TextPreprocessor)                               │
+    │  lowercase → remove punctuation → tokenize → remove stopwords   │
+    │  → lemmatize → join                                             │
+    └─────────────────────────────────────────────────────────────────┘
+         │
+         ▼
+    Preprocessed Documents
+         │
+         ▼
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  TF-IDF VECTORIZATION (TfidfFeatureExtractor)                   │
+    │  Convert text to numerical vectors using term frequency and     │
+    │  inverse document frequency weighting                           │
+    └─────────────────────────────────────────────────────────────────┘
+         │
+         ▼
+    TF-IDF Vectors (Sparse Matrix)
+         │
+         ▼
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  COSINE SIMILARITY (SimilarityCalculator)                       │
+    │  Compute pairwise similarity scores between all document        │
+    │  vectors                                                        │
+    └─────────────────────────────────────────────────────────────────┘
+         │
+         ▼
+    Similarity Matrix
+         │
+         ▼
+    ┌─────────────────────────────────────────────────────────────────┐
+    │  CLASSIFICATION (PlagiarismDecision)                            │
+    │  >= 80%: High plagiarism                                        │
+    │  50-79%: Medium plagiarism                                      │
+    │  < 50%: Low plagiarism                                          │
+    └─────────────────────────────────────────────────────────────────┘
+         │
+         ▼
+    Final Results (with labels and percentages)
+
+
+================================================================================
+END OF DOCUMENTATION
+================================================================================

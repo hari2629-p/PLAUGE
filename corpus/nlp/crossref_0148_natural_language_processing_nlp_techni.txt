@@ -1,0 +1,9 @@
+Title: Natural Language Processing (NLP) Techniques for Afan Oromo Text Analysis
+
+Source: crossref
+Authors: Ruth Olagbende
+Year: 2025
+URL: https://doi.org/10.20944/preprints202503.0841.v1
+
+Abstract:
+Natural Language Processing (NLP) has emerged as a transformative tool for analyzing and understanding human languages, including low-resource languages like Afan Oromo. This paper explores the application of NLP techniques for Afan Oromo text analysis, focusing on challenges such as limited linguistic resources, morphological complexity, and the need for robust computational models. Key techniques discussed include tokenization, stemming, part-of-speech tagging, named entity recognition (NER), and sentiment analysis, tailored to the unique grammatical and syntactic structures of Afan Oromo. The study highlights the importance of developing annotated corpora, leveraging machine learning models, and integrating transfer learning to improve accuracy and efficiency. The findings underscore the potential of NLP to preserve and promote Afan Oromo in digital spaces, enabling applications in machine translation, information retrieval, and educational tools. Future research directions include expanding datasets, enhancing model performance, and addressing dialectal variations within the language.

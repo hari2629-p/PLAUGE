@@ -1,0 +1,9 @@
+Title: Computational Linguistics
+
+Source: openalex
+Authors: Fred Popowich
+Year: 1999
+URL: https://doi.org/10.1002/047134608x.w6910
+
+Abstract:
+Abstract The sections in this article are Natural Language Grammar Formalisms Processing

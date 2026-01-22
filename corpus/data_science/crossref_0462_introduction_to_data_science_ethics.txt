@@ -1,0 +1,9 @@
+Title: Introduction to Data Science Ethics
+
+Source: crossref
+Authors: David Martens
+Year: 2022
+URL: https://doi.org/10.1093/oso/9780192847263.003.0001
+
+Abstract:
+As the ethical aspects of data science become ever more important, business people and data scientists alike need to be aware of the concepts, techniques, and cautionary tales of data science ethics, as motivated by this introductory chapter. Data science ethics is about what is right and what is wrong when conducting data science. Such moral behaviour can be found on the ‘golden mean’ (dixit Aristotle) between using no data at all (deficiency) and using all available data for any possible application (excess). The chapter describes why you should care about data science ethics, what it actually is, and introduces the FAT Flow Framework which has three dimensions: stage in the data science process, evaluation criterion (fair, accountable, and transparent) and the role of the human.

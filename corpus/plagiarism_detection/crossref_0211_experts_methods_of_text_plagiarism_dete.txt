@@ -1,0 +1,9 @@
+Title: Expert’s Methods of Text Plagiarism Detection
+
+Source: crossref
+Authors: Elena Novozhilova
+Year: 2025
+URL: https://doi.org/10.14258/leglin(2024)3413
+
+Abstract:
+Text borrowing (plagiarism, copy-paste) often causes conflicts, and sometimes a conflict can unfold in a lawsuit. But until now, courts have not had a working tool that would confirm the borrowing with the same accuracy as, for example, identifying firearms with a gunshot residue test, identifying fingerprints, or establishing the cause of death. This article presents the first-developed standard methodology for the forensic detection of text borrowings. The methodology is based on the fundamental principles of forensic identification and the outcomes of revising certain theoretical concepts in forensic speech studies (in particular their object). It is the simplest, basic one; it has restricted application and is intended to examine copy-paste in interrogation and confrontation protocols. The article outlines the general criminalistic essence of borrowing, characterizes expert task and objects, describes the step-by-step sequence of expert actions (including quantitative mathematical evaluation of the results), and indicates the rules for formulating and substantiating the conclusion. Forensic linguists can use it directly in their practice (forensic authorship examination). Furthermore, the methodology can form the basis for future methodological advancements in detecting plagiarism and copy-paste in more complex manifestations: scientific, artistic, publishing plagiarism, borrowing of a mixed textual-non-textual nature, using artificial intelligence (AI), borrowing when creating derivative speech objects, etc.

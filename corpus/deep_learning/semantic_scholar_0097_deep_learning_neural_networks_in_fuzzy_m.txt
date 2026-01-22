@@ -1,0 +1,9 @@
+Title: Deep learning neural networks in fuzzy modeling
+
+Source: semantic_scholar
+Authors: D. Sotvoldiev, D. Muhamediyeva, Z. Juraev
+Year: 2020
+URL: https://www.semanticscholar.org/paper/893bbc79bdad6b9c37c7888dd5d1ddac7d7bad08
+
+Abstract:
+Deep learning neural networks have achieved remarkable success in various fields of application of artificial intelligence. This technology, which grew out of studies of artificial neural networks, has shown superior performance compared to other machine learning algorithms in areas such as image and voice recognition, natural language processing, and others. The use of deep learning neural networks in the construction of a fuzzy model is proposed.

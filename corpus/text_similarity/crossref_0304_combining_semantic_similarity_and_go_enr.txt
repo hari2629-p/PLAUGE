@@ -1,0 +1,18 @@
+Title: Combining Semantic Similarity and GO Enrichment for Computation of Functional Similarity
+
+Source: crossref
+Authors: Wenting Liu, Jianjun Liu, Jagath C. Rajapakse
+Year: 2017
+URL: https://doi.org/10.1101/155689
+
+Abstract:
+Abstract
+                Functional similarity between genes is widely used in many bioinformatics applications including detecting molecular pathways, finding co-expressed genes, predicting protein-protein interactions, and prioritization of candidate genes. Methods evaluating functional similarity of genes are mostly based on semantic similarity of gene ontology (GO) terms. Though there are hundreds of functional similarity measures available in the literature, none of them considers the enrichment of the GO terms by the querying gene pair. We propose a novel method to incorporate GO enrichment into the existing functional similarity measures. Our experiments show that the inclusion of gene enrichment significantly improves the performance of 44 widely used functional similarity measures, especially in the prediction of sequence homologies, gene expression correlations, and protein-protein interactions.
+                
+                  Software availability
+                  
+                    The software (python code) and all the benchmark datasets evaluation (R script) are available at
+                    https://gitlab.com/liuwt/EnrichFunSim
+                    .
+                  
+                

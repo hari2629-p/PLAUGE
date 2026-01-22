@@ -1,0 +1,9 @@
+Title: Global Adaptive Filtering Layer for Computer Vision
+
+Source: arxiv
+Authors: Viktor Shipitsin, Iaroslav Bespalov, Dmitry V. Dylov
+Year: 2020
+URL: N/A
+
+Abstract:
+We devise a universal adaptive neural layer to "learn" optimal frequency filter for each image together with the weights of the base neural network that performs some computer vision task. The proposed approach takes the source image in the spatial domain, automatically selects the best frequencies from the frequency domain, and transmits the inverse-transform image to the main neural network. Remarkably, such a simple add-on layer dramatically improves the performance of the main network regardless of its design. We observe that the light networks gain a noticeable boost in the performance metrics; whereas, the training of the heavy ones converges faster when our adaptive layer is allowed to "learn" alongside the main architecture. We validate the idea in four classical computer vision tasks: classification, segmentation, denoising, and erasing, considering popular natural and medical data benchmarks.

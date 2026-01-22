@@ -1,0 +1,9 @@
+Title: TRAINING A SINGLE MACHINE LEARNING AGENT USING REINFORCEMENT LEARNING AND IMITATION LEARNING METHODS IN UNITY ENVIRONMENT
+
+Source: crossref
+Authors: Marat Urmanov, Madina Alimanova
+Year: 2025
+URL: https://doi.org/10.47344/xp0v6x77
+
+Abstract:
+This paper provides a research of Unity plugin that helps to develop Machine Learning Agents within Unity engine environment. This work introduces training a single Machine Learning Agent using both Reinforcement Learning and Imitation Learning methods, comparing the results andeffectiveness

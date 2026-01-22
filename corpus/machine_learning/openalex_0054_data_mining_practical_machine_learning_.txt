@@ -1,0 +1,9 @@
+Title: Data Mining: Practical Machine Learning Tools and Techniques
+
+Source: openalex
+Authors: Ian H. Witten, Eibe Frank, Mark A. Hall
+Year: 2011
+URL: https://doi.org/10.1016/c2009-0-19715-5
+
+Abstract:
+Data Mining: Practical Machine Learning Tools and Techniques offers a thorough grounding in machine learning concepts as well as practical advice on applying machine learning tools and techniques in real-world data mining situations. This highly anticipated third edition of the most acclaimed work on data mining and machine learning will teach you everything you need to know about preparing inputs, interpreting outputs, evaluating results, and the algorithmic methods at the heart of successful data mining. Thorough updates reflect the technical changes and modernizations that have taken place in the field since the last edition, including new material on Data Transformations, Ensemble Learning, Massive Data Sets, Multi-instance Learning, plus a new version of the popular Weka machine learning software developed by the authors. Witten, Frank, and Hall include both tried-and-true techniques of today as well as methods at the leading edge of contemporary research.

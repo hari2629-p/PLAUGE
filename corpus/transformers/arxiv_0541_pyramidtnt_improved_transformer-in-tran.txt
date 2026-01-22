@@ -1,0 +1,9 @@
+Title: PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture
+
+Source: arxiv
+Authors: Kai Han, Jianyuan Guo, Yehui Tang, Yunhe Wang
+Year: 2022
+URL: N/A
+
+Abstract:
+Transformer networks have achieved great progress for computer vision tasks. Transformer-in-Transformer (TNT) architecture utilizes inner transformer and outer transformer to extract both local and global representations. In this work, we present new TNT baselines by introducing two advanced designs: 1) pyramid architecture, and 2) convolutional stem. The new "PyramidTNT" significantly improves the original TNT by establishing hierarchical representations. PyramidTNT achieves better performances than the previous state-of-the-art vision transformers such as Swin Transformer. We hope this new baseline will be helpful to the further research and application of vision transformer. Code will be available at https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch.

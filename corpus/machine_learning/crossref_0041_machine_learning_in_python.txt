@@ -1,0 +1,9 @@
+Title: Machine Learning in Python
+
+Source: crossref
+Authors: Astha Baranwal, Bhagyashree R. Bagwe, Vanitha M
+Year: 2022
+URL: https://doi.org/10.4018/978-1-6684-6291-1.ch046
+
+Abstract:
+Diabetes is a disease of the modern world. The modern lifestyle has led to unhealthy eating habits causing type 2 diabetes. Machine learning has gained a lot of popularity in the recent days. It has applications in various fields and has proven to be increasingly effective in the medical field. The purpose of this chapter is to predict the diabetes outcome of a person based on other factors or attributes. Various machine learning algorithms like logistic regression (LR), tuned and not tuned random forest (RF), and multilayer perceptron (MLP) have been used as classifiers for diabetes prediction. This chapter also presents a comparative study of these algorithms based on various performance metrics like accuracy, sensitivity, specificity, and F1 score. 

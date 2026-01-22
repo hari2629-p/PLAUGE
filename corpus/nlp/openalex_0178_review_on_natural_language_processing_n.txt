@@ -1,0 +1,9 @@
+Title: Review on Natural Language Processing (NLP) and Its Toolkits for Opinion Mining and Sentiment Analysis
+
+Source: openalex
+Authors: Yasir Ali Solangi, Zulfiqar Ali Solangi, Samreen Aarain, Amna Abro, Ghulam Ali Mallah
+Year: 2018
+URL: https://doi.org/10.1109/icetas.2018.8629198
+
+Abstract:
+As the majority of online networking on the Internet, opinion mining has turned into a fundamental way to deal with investigating such huge numbers of information. Different applications show up in an extensive variety of modern areas. In the interim, opinions have various pronunciations which bring along investigate challenges. The research challenges make opinion mining a dynamic research region recently. In this paper, Natural Language Processing (NLP) techniques for opinion mining and sentiment analysis are reviewed. Initially NLP is reviewed then briefed about its common and useful preprocessing steps also. In this paper opinion mining for various levels are analyzed and reviewed. At the end issues are identified and some recommendation are suggested for opinion mining and-sentiment-analysis.

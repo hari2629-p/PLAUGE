@@ -1,0 +1,9 @@
+Title: Modelos de Aprendizado Profundo para Detecção de Deepfakes: Uma Análise Comparativa entre Arquiteturas CNN, GAN e Transformer
+
+Source: crossref
+Authors: Matheus de Oliveira Pereira Paula
+Year: 2025
+URL: https://doi.org/10.51473/rcmos.v1i1.2022.1866
+
+Abstract:
+The rapid advancement of synthetic media manipulation technologies, commonly known as deepfakes, poses an increasing threat to information trustworthiness and digital security. These forged videos, primarily created by Generative Adversarial Networks (GANs), make the distinction between real and fake content increasingly difficult, necessitating sophisticated Deep Learning-based countermeasures. This paper presents a rigorous comparative analysis of three fundamental architectures in Computer Vision for deepfake detection: Convolutional Neural Networks (CNNs), Generative Adversarial Networks (in their role as detectors or in hybrid models that exploit their signatures), and Transformers (particularly Vision Transformers - ViTs). The evaluation focuses on metrics critical for real-world application scenarios, including classification accuracy, processing time (inference latency), and the essential generalization capability to unseen forgery techniques and datasets (cross-dataset evaluation). The results from the bibliographic and theoretical analysis indicate that while CNNs (such as XceptionNet) maintain relevance due to their efficiency and ability to capture local artifacts, Transformer-based architectures demonstrate a superior capability to model global dependencies and, consequently, exhibit better generalization against the constantly evolving deepfake methodologies.

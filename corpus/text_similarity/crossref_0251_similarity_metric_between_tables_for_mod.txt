@@ -1,0 +1,9 @@
+Title: Similarity Metric between Tables for Modifying AHC Algorithm in Text Clustering
+
+Source: crossref
+Authors: Taeho Jo
+Year: 2024
+URL: https://doi.org/10.31219/osf.io/hj5qa
+
+Abstract:
+This article proposes the modified AHC (Agglomerative HierarchicalClustering) algorithm which clusters tables, instead of numericalvectors, as the approach to the text clustering. The motivations ofthis research are the successful results from applying the tablebased algorithms to the text clustering tasks in previous works andthe expectation of synergy effect between the text clustering andthe word clustering. In this research, we define the similaritymetric between tables representing texts, and modify the AHCalgorithm by adopting the proposed similarity metric as the approachto the text clustering. The proposed AHC algorithm is empiricallyvalidated as the better approach in clustering texts in newsarticles and opinions. In using the table based AHC algorithm, it iseasier to trace results from clustering texts.

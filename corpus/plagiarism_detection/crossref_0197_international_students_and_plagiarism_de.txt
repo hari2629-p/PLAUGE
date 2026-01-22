@@ -1,0 +1,9 @@
+Title: International Students and Plagiarism Detection Systems
+
+Source: crossref
+Authors: Lucas D. Introna, Niall Hayes
+Year: 2011
+URL: https://doi.org/10.4018/978-1-59904-801-7.ch008
+
+Abstract:
+This paper explores the question of plagiarism by international students (non-native speakers). It argues that the inappropriate use of electronic plagiarism detection systems (such as Turnitin) could lead to the unfair and unjust construction of international students as plagiarists. We argue that the use of detection systems should take into account the writing practices used by those who write as novices in a non-native language as well as the way ‘plagiarism’ or plagiaristic forms of writing are valued in other cultures. It calls for a move away from a punitive legalistic approach to plagiarism that equates copying to plagiarism and move to a progressive and formative approach. If taken up such an approach will have very important implications for the way universities in the west deal with plagiarism in their learning and teaching practice as well as their disciplinary procedures.

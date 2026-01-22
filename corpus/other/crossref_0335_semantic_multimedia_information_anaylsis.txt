@@ -1,0 +1,9 @@
+Title: Semantic Multimedia Information Anaylsis for Retrieval Applications
+
+Source: crossref
+Authors: Joao Magalhaes, Stefan Ruger
+Year: 2011
+URL: https://doi.org/10.4018/978-1-59904-370-8.ch016
+
+Abstract:
+Most of the research in multimedia retrieval applications has focused on retrieval by content or retrieval by example. Since the classical review by Smeulders (2000) a new interest has grown immensely in the multimedia information retrieval community: retrieval by semantics. This exciting new research area arises as a combination of multimedia understanding, information extraction, information retrieval and digital libraries. This chapter presents a comprehensive review of analysis algorithms to extract semantic information from multimedia content. We discuss statistical approaches to analyse images and video content and conclude with a discussion regarding the described methods.

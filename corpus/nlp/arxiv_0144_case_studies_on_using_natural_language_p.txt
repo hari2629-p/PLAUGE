@@ -1,0 +1,9 @@
+Title: Case Studies on using Natural Language Processing Techniques in Customer Relationship Management Software
+
+Source: arxiv
+Authors: Şükrü Ozan
+Year: 2021
+URL: N/A
+
+Abstract:
+How can a text corpus stored in a customer relationship management (CRM) database be used for data mining and segmentation? In order to answer this question we inherited the state of the art methods commonly used in natural language processing (NLP) literature, such as word embeddings, and deep learning literature, such as recurrent neural networks (RNN). We used the text notes from a CRM system which are taken by customer representatives of an internet ads consultancy agency between years 2009 and 2020. We trained word embeddings by using the corresponding text corpus and showed that these word embeddings can not only be used directly for data mining but also be used in RNN architectures, which are deep learning frameworks built with long short term memory (LSTM) units, for more comprehensive segmentation objectives. The results prove that structured text data in a CRM can be used to mine out very valuable information and any CRM can be equipped with useful NLP features once the problem definitions are properly built and the solution methods are conveniently implemented.

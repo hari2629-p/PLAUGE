@@ -1,0 +1,9 @@
+Title: Classification of Mental Emotions by NLP
+
+Source: crossref
+Authors: Ravindra Changal, Arpit Jain, Renu Vij, Bramah Hazela
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3693-4203-9.ch002
+
+Abstract:
+Health, psychology, and human-computer interaction depend on understanding human emotions. Natural Language Processing (NLP) has increased interest in automating text-based mental mood categorization. This abstract describes a complete NLP-based mental emotion categorization system. A person's emotional state is something they can consciously regulate. Their emotional states are often recognised by them. Think about the consequences if a person can't recognise their feelings. It might be a condition associated with mental disease. Identification of symptoms at an early stage is the first objective. This study presents the strategy for predicting emotional and depressive levels. First, to forecast patient depression, the DAIC-WOZ dataset is analysed using several Deep Learning models that incorporate text, audio, and video information. This fusion approach controls how much each modality contributes. Even before a diagnosis is made, the individual may assess their mental health. This by training a system to evaluate depressive severity using data collected from both text and speech.

@@ -1,0 +1,9 @@
+Title: Semantic Models in Information Retrieval
+
+Source: crossref
+Authors: Edmond Lassalle, Emmanuel Lassalle
+Year: 2012
+URL: https://doi.org/10.4018/978-1-4666-0330-1.ch007
+
+Abstract:
+Robertson and Spärck Jones pioneered experimental probabilistic models (Binary Independence Model) with both a typology generalizing the Boolean model, a frequency counting to calculate elementary weightings, and their combination into a global probabilistic estimation. However, this model did not consider indexing terms dependencies. An extension to mixture models (e.g., using a 2-Poisson law) made it possible to take into account these dependencies from a macroscopic point of view (BM25), as well as a shallow linguistic processing of co-references. New approaches (language models, for example “bag of words” models, probabilistic dependencies between requests and documents, and consequently Bayesian inference using Dirichlet prior conjugate) furnished new solutions for documents structuring (categorization) and for index smoothing. Presently, in these probabilistic models the main issues have been addressed from a formal point of view only. Thus, linguistic properties are neglected in the indexing language. The authors examine how a linguistic and semantic modeling can be integrated in indexing languages and set up a hybrid model that makes it possible to deal with different information retrieval problems in a unified way.

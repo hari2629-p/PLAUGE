@@ -1,0 +1,9 @@
+Title: Pulsar Science with the SKA Observatory
+
+Source: arxiv
+Authors: Bhal Chandra Joshi, Aris Karastergiou, Marta Burgay, The SKA pulsar science working group
+Year: 2025
+URL: N/A
+
+Abstract:
+The large instantaneous sensitivity, a wide frequency coverage and flexible observation modes with large number of beams in the sky are the main features of the SKA observatory's two telescopes, the SKA-Low and the SKA-Mid, which are located on two different continents. Owing to these capabilities, the SKAO telescopes are going to be a game-changer for radio astronomy in general and pulsar astronomy in particular. The eleven articles in this special issue on pulsar science with the SKA Observatory describe its impact on different areas of pulsar science. In this lead article, a brief description of the two telescopes highlighting the relevant features for pulsar science is presented followed by an overview of each accompanying article, exploring the inter-relationship between different pulsar science use cases.

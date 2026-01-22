@@ -1,0 +1,9 @@
+Title: Multi-Objective Optimal Threshold Selection for Similarity Functions in Siamese Networks for Semantic Textual Similarity Tasks
+
+Source: crossref
+Authors: Boris Kriuk, Fedor Kriuk
+Year: 2024
+URL: https://doi.org/10.20944/preprints202407.0020.v1
+
+Abstract:
+This paper presents a comparative study of fundamental similarity functions for Siamese networks in semantic textual similarity (STS) tasks. We evaluate various similarity functions using the STS Benchmark dataset, analyzing their performance and stability. Additionally, we introduce a multi-objective approach for optimal threshold selection. Our findings provide insights into the effectiveness of different similarity functions and offer a straightforward method for threshold selection optimization, contributing to the advancement of Siamese network architectures in STS applications.   

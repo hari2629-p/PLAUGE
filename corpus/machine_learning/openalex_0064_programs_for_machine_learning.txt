@@ -1,0 +1,9 @@
+Title: Programs for Machine Learning
+
+Source: openalex
+Authors: Steven L. Salzberg, Alberto M. Segre
+Year: 1994
+URL: N/A
+
+Abstract:
+Algorithms for constructing decision trees are among the most well known and widely used of all machine learning methods. Among decision tree algorithms, J. Ross Quinlan's ID3 and its successor, C4.5, are probably the most popular in the machine learning community. These algorithms and variations on them have been the subject of numerous research papers since Quinlan introduced ID3. Until recently, most researchers looking for an introduction to decision trees turned to Quinlan's seminal 1986 Machine Learning journal article [Quinlan, 1986]. In his new book, C4.5: Programs for Machine Learning, Quinlan has put together a definitive, much needed description of his complete system, including the latest developments. As such, this book will be a welcome addition to the library of many researchers and students.

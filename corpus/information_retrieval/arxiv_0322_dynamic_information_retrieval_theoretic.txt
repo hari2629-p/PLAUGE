@@ -1,0 +1,9 @@
+Title: Dynamic Information Retrieval: Theoretical Framework and Application
+
+Source: arxiv
+Authors: Marc Sloan, Jun Wang
+Year: 2016
+URL: N/A
+
+Abstract:
+Theoretical frameworks like the Probability Ranking Principle and its more recent Interactive Information Retrieval variant have guided the development of ranking and retrieval algorithms for decades, yet they are not capable of helping us model problems in Dynamic Information Retrieval which exhibit the following three properties; an observable user signal, retrieval over multiple stages and an overall search intent. In this paper a new theoretical framework for retrieval in these scenarios is proposed. We derive a general dynamic utility function for optimizing over these types of tasks, that takes into account the utility of each stage and the probability of observing user feedback. We apply our framework to experiments over TREC data in the dynamic multi page search scenario as a practical demonstration of its effectiveness and to frame the discussion of its use, its limitations and to compare it against the existing frameworks.

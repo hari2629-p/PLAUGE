@@ -1,0 +1,9 @@
+Title: Text mining and visualization using VOSviewer
+
+Source: openalex
+Authors: Nees Jan van Eck, Ludo Waltman
+Year: 2011
+URL: https://doi.org/10.48550/arxiv.1109.2058
+
+Abstract:
+VOSviewer is a computer program for creating, visualizing, and exploring bibliometric maps of science. In this report, the new text mining functionality of VOSviewer is presented. A number of examples are given of applications in which VOSviewer is used for analyzing large amounts of text data.

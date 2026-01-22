@@ -1,0 +1,9 @@
+Title: Document comparison with a weighted topic hierarchy
+
+Source: openalex
+Authors: Alexander Gelbukh, Grigori Sidorov, Adolfo Guzmán Arenas
+Year: 1999
+URL: https://doi.org/10.1109/dexa.1999.795247
+
+Abstract:
+A method of document comparison based on a hierarchical dictionary of topics (concepts) is described. The hierarchical links in the dictionary are supplied with the weights that are used for detecting the main topics of a document and for determining the similarity between two documents. The method allows for the comparison of documents that do not share any words literally but do share concepts, including comparison of documents in different languages. Also, the method allows for comparison with respect to a specific "aspect", i.e., a specific topic of interest (with its respective subtopics). A system classifier using the discussed method for document classification and information retrieval is discussed.

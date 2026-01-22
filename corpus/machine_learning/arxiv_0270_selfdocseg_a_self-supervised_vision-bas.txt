@@ -1,0 +1,9 @@
+Title: SelfDocSeg: A Self-Supervised vision-based Approach towards Document Segmentation
+
+Source: arxiv
+Authors: Subhajit Maity, Sanket Biswas, Siladittya Manna, Ayan Banerjee, Josep Lladós
+Year: 2023
+URL: N/A
+
+Abstract:
+Document layout analysis is a known problem to the documents research community and has been vastly explored yielding a multitude of solutions ranging from text mining, and recognition to graph-based representation, visual feature extraction, etc. However, most of the existing works have ignored the crucial fact regarding the scarcity of labeled data. With growing internet connectivity to personal life, an enormous amount of documents had been available in the public domain and thus making data annotation a tedious task. We address this challenge using self-supervision and unlike, the few existing self-supervised document segmentation approaches which use text mining and textual labels, we use a complete vision-based approach in pre-training without any ground-truth label or its derivative. Instead, we generate pseudo-layouts from the document images to pre-train an image encoder to learn the document object representation and localization in a self-supervised framework before fine-tuning it with an object detection model. We show that our pipeline sets a new benchmark in this context and performs at par with the existing methods and the supervised counterparts, if not outperforms. The code is made publicly available at: https://github.com/MaitySubhajit/SelfDocSeg

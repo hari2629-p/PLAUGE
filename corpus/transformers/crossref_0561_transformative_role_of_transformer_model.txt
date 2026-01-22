@@ -1,0 +1,9 @@
+Title: Transformative Role of Transformer Models in Healthcare
+
+Source: crossref
+Authors: Deepa Lakshmi S.
+Year: 2025
+URL: https://doi.org/10.4018/979-8-3373-2038-0.ch005
+
+Abstract:
+Artificial Intelligence (AI) is a field of computer science that enables machines to learn, interpret, and make decisions like humans. In healthcare, AI is driving transformation by introducing systems that simulate human behavior and reasoning. The sector produces vast amounts of structured and unstructured data. AI tools can process this information, integrate data from various sources, and identify patterns to support predictive decision-making. Machine Learning (ML), a subset of AI, and Deep Learning (DL), a subset of ML, play a key role in this advancement. Large Language Models (LLMs), part of DL, help machines analyze and generate human-like language. These models use Transformer architectures, known for capturing long-range dependencies in text. This chapter focuses on transformer-based models, especially BERT (Bidirectional Encoder Representations from Transformers), an encoder-only model. It also includes a practical application of BERT for detecting suicidal ideation in Reddit posts, highlighting its value in clinical sentiment analysis.

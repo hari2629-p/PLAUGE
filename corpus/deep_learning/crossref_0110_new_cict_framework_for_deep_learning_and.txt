@@ -1,0 +1,9 @@
+Title: New CICT Framework for Deep Learning and Deep Thinking Application
+
+Source: crossref
+Authors: Rodolfo A. Fiorini
+Year: 2020
+URL: https://doi.org/10.4018/978-1-7998-0414-7.ch020
+
+Abstract:
+To achieve reliable system intelligence outstanding results, current computational system modeling and simulation community has to face and to solve two orders of modeling limitations at least. As a solution, the author proposes an exponential, pre-spatial arithmetic scheme (“all-powerful scheme”) by computational information conservation theory (CICT) to overcome the Information Double-Bind (IDB) problem and to thrive on both deterministic noise (DN) and random noise (RN) to develop powerful cognitive computational framework for deep learning, towards deep thinking applications. In a previous paper the author showed and discussed how this new CICT framework can help us to develop even competitive advanced quantum cognitive computational systems. An operative example is presented. This paper is a relevant contribution towards an effective and convenient “Science 2.0” universal computational framework to develop deeper learning and deep thinking system and application at your fingertips and beyond. 
