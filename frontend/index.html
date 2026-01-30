@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="PLAUGE - Advanced AI-powered plagiarism detection system with real-time analysis and comprehensive reporting">
+    <title>PLAUGE - Advanced Plagiarism Detection System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Background Animation -->
+    <div class="background-animation">
+        <div class="gradient-orb orb-1"></div>
+        <div class="gradient-orb orb-2"></div>
+        <div class="gradient-orb orb-3"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container header-content">
+            <div class="logo">
+                <svg class="logo-icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M20 3.33334L5 10.8333V20C5 29.1667 11.4167 37.6667 20 40C28.5833 37.6667 35 29.1667 35 20V10.8333L20 3.33334Z"
+                        stroke="url(#logo-gradient)" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    <path d="M14 20L18 24L26 15" stroke="url(#logo-gradient)" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round" />
+                    <defs>
+                        <linearGradient id="logo-gradient" x1="0" y1="0" x2="40" y2="40">
+                            <stop offset="0%" stop-color="#EF0107" />
+                            <stop offset="100%" stop-color="#9C0003" />
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <div>
+                    <h1 class="logo-text">PLAUGE</h1>
+                    <p class="logo-subtitle">Plagiarism Detection</p>
+                </div>
+            </div>
+            <nav class="nav">
+                <button class="nav-btn" id="aboutBtn">About</button>
+                <button class="nav-btn" id="statsBtn">Statistics</button>
+                <button class="nav-btn" id="historyBtn">History</button>
+                <button class="nav-btn primary" id="getStartedBtn">Get Started</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Hero Section -->
+            <section class="hero" id="hero-section">
+                <div class="hero-badge">
+                    <span class="badge-icon">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
+                        </svg>
+                    </span>
+                    <span>600+ Academic Papers in Corpus</span>
+                </div>
+                <h2 class="hero-title">
+                    Detect Plagiarism with
+                    <span class="gradient-text">AI Precision</span>
+                </h2>
+                <p class="hero-description">
+                    Unified analysis checking against our <strong>600+ paper corpus</strong> AND
+                    <strong>250M+ global sources</strong> (OpenAlex, arXiv, Wikipedia) simultaneously.
+                </p>
+
+                <!-- Upload Card -->
+                <div class="upload-card glass-card" id="upload-section">
+                    <div class="upload-area" id="upload-area">
+                        <div class="upload-icon">
+                            <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="32" cy="32" r="24" stroke="url(#upload-gradient)" stroke-width="2"
+                                    stroke-dasharray="4 4" opacity="0.5" />
+                                <path d="M32 20V44M32 20L24 28M32 20L40 28" stroke="url(#upload-gradient)"
+                                    stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                                <defs>
+                                    <linearGradient id="upload-gradient" x1="0" y1="0" x2="64" y2="64">
+                                        <stop offset="0%" stop-color="#EF0107" />
+                                        <stop offset="100%" stop-color="#9C0003" />
+                                    </linearGradient>
+                                </defs>
+                            </svg>
+                        </div>
+                        <h3 class="upload-title">Drop your document here</h3>
+                        <p class="upload-description">or click to browse</p>
+                        <p class="upload-formats">Supports .txt, .pdf, .docx files</p>
+                        <input type="file" id="file-input" accept=".txt,.pdf,.docx" hidden>
+                    </div>
+
+                    <!-- File Preview -->
+                    <div class="file-preview hidden" id="file-preview">
+                        <div class="file-info">
+                            <div class="file-icon">
+                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                    <polyline points="14 2 14 8 20 8"></polyline>
+                                    <line x1="16" y1="13" x2="8" y2="13"></line>
+                                    <line x1="16" y1="17" x2="8" y2="17"></line>
+                                    <polyline points="10 9 9 9 8 9"></polyline>
+                                </svg>
+                            </div>
+                            <div class="file-details">
+                                <h4 class="file-name" id="file-name">document.txt</h4>
+                                <p class="file-size" id="file-size">2.4 MB</p>
+                            </div>
+                            <button class="remove-btn" id="remove-file">
+                                <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2"
+                                        stroke-linecap="round" />
+                                </svg>
+                            </button>
+                        </div>
+                        <button class="analyze-btn" id="analyze-btn">
+                            <span class="btn-text">Analyze Document</span>
+                            <svg class="btn-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Features Grid -->
+                <div class="features-grid">
+                    <div class="feature-card glass-card">
+                        <div class="feature-icon">
+                            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <circle cx="12" cy="12" r="6"></circle>
+                                <circle cx="12" cy="12" r="2"></circle>
+                            </svg>
+                        </div>
+                        <h3 class="feature-title">High Accuracy</h3>
+                        <p class="feature-description">TF-IDF vectorization with cosine similarity for precise detection
+                        </p>
+                    </div>
+                    <div class="feature-card glass-card">
+                        <div class="feature-icon">
+                            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+                            </svg>
+                        </div>
+                        <h3 class="feature-title">Lightning Fast</h3>
+                        <p class="feature-description">Analyze documents against 600+ papers in seconds</p>
+                    </div>
+                    <div class="feature-card glass-card">
+                        <div class="feature-icon">
+                            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                                <rect x="18" y="3" width="4" height="18"></rect>
+                                <rect x="10" y="8" width="4" height="13"></rect>
+                                <rect x="2" y="13" width="4" height="8"></rect>
+                            </svg>
+                        </div>
+                        <h3 class="feature-title">Detailed Reports</h3>
+                        <p class="feature-description">Get comprehensive similarity scores and match highlights</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Analysis Section (Hidden by default) -->
+            <section class="analysis-section hidden" id="analysis-section">
+                <!-- Progress Card -->
+                <div class="progress-card glass-card" id="progress-card">
+                    <h3 class="progress-title">Analyzing Document...</h3>
+                    <div class="progress-steps">
+                        <div class="step active" data-step="1">
+                            <div class="step-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                                    <polyline points="14 2 14 8 20 8"></polyline>
+                                    <line x1="16" y1="13" x2="8" y2="13"></line>
+                                    <line x1="16" y1="17" x2="8" y2="17"></line>
+                                    <polyline points="10 9 9 9 8 9"></polyline>
+                                </svg>
+                            </div>
+                            <p class="step-label">Auto-Detect</p>
+                        </div>
+                        <div class="step-divider"></div>
+                        <div class="step" data-step="2">
+                            <div class="step-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="11" cy="11" r="8"></circle>
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                                </svg>
+                            </div>
+                            <p class="step-label">Scan Corpus</p>
+                        </div>
+                        <div class="step-divider"></div>
+                        <div class="step" data-step="3">
+                            <div class="step-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="18" cy="18" r="3"></circle>
+                                    <circle cx="6" cy="6" r="3"></circle>
+                                    <path d="M13 6h3a2 2 0 0 1 2 2v7"></path>
+                                    <line x1="6" y1="9" x2="6" y2="21"></line>
+                                </svg>
+                            </div>
+                            <p class="step-label">Analysis</p>
+                        </div>
+                        <div class="step-divider"></div>
+                        <div class="step" data-step="4">
+                            <div class="step-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                </svg>
+                            </div>
+                            <p class="step-label">Results</p>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                    <p class="progress-text" id="progress-text">Auto-detecting keywords & searching web...</p>
+                </div>
+
+                <!-- Results Card -->
+                <div class="results-card glass-card hidden" id="results-card">
+                    <div class="results-header">
+                        <h2 class="results-title">Analysis Complete</h2>
+                        <div class="header-actions">
+                            <button class="icon-btn" id="home-btn" title="Go Home">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                                </svg>
+                            </button>
+                            <button class="new-analysis-btn" id="new-analysis-btn">New Analysis</button>
+                        </div>
+                    </div>
+
+                    <!-- AI Detection Card -->
+                    <div class="ai-card glass-card hidden" id="ai-card">
+                        <div class="ai-header">
+                            <div class="ai-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="11" width="18" height="10" rx="2"></rect>
+                                    <circle cx="12" cy="5" r="2"></circle>
+                                    <path d="M12 7v4"></path>
+                                    <line x1="8" y1="16" x2="8" y2="16"></line>
+                                    <line x1="16" y1="16" x2="16" y2="16"></line>
+                                </svg>
+                            </div>
+                            <h3>AI Content Detection</h3>
+                        </div>
+                        <div class="ai-body">
+                            <div class="ai-score-container">
+                                <div class="ai-meter">
+                                    <div class="ai-fill" id="ai-fill" style="width: 0%"></div>
+                                </div>
+                                <span class="ai-percentage" id="ai-score">0%</span>
+                            </div>
+                            <p class="ai-status" id="ai-status">Likely Human-Written</p>
+                            <div class="ai-details">
+                                <p>Sentence Variance: <span id="metric-variance">-</span></p>
+                                <p>Vocabulary Richness: <span id="metric-vocab">-</span></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Overall Score -->
+                    <div class="score-container">
+                        <div class="score-circle" id="score-circle">
+                            <svg class="score-svg" viewBox="0 0 200 200">
+                                <circle cx="100" cy="100" r="85" stroke="rgba(255,255,255,0.1)" stroke-width="12"
+                                    fill="none" />
+                                <circle class="score-progress" cx="100" cy="100" r="85" stroke="url(#score-gradient)"
+                                    stroke-width="12" fill="none" stroke-linecap="round" stroke-dasharray="534"
+                                    stroke-dashoffset="534" id="score-circle-progress" />
+                                <defs>
+                                    <linearGradient id="score-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                        <stop offset="0%" stop-color="#10b981" />
+                                        <stop offset="100%" stop-color="#059669" />
+                                    </linearGradient>
+                                </defs>
+                            </svg>
+                            <div class="score-content">
+                                <div class="score-value" id="score-value">0%</div>
+                                <div class="score-label" id="score-label">Similarity</div>
+                                <div class="score-status" id="score-status">🟢 Low Risk</div>
+                            </div>
+                        </div>
+                        <div class="score-details">
+                            <div class="detail-item">
+                                <span class="detail-label">Documents Compared</span>
+                                <span class="detail-value" id="docs-compared">603</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Highest Match</span>
+                                <span class="detail-value" id="highest-match">0%</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Average Similarity</span>
+                                <span class="detail-value" id="avg-similarity">0%</span>
+                            </div>
+                            <div class="detail-item">
+                                <span class="detail-label">Analysis Time</span>
+                                <span class="detail-value" id="analysis-time">2.3s</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Top Matches -->
+                    <div class="matches-section">
+                        <h3 class="matches-title">Top Matches</h3>
+                        <div class="matches-list" id="matches-list">
+                            <!-- Dynamically populated -->
+                        </div>
+                    </div>
+
+                    <!-- Action Buttons -->
+                    <div class="results-actions">
+                        <button class="action-btn secondary" id="download-report-btn">
+                            <svg class="action-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M21 15V19C21 19.5304 20.7893 20.0391 20.4142 20.4142C20.0391 20.7893 19.5304 21 19 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V15"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                                <path d="M7 10L12 15L17 10" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                                <path d="M12 15V3" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                            Download Report
+                        </button>
+                        <button class="action-btn secondary" id="share-results-btn">
+                            <svg class="action-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M18 8C19.6569 8 21 6.65685 21 5C21 3.34315 19.6569 2 18 2C16.3431 2 15 3.34315 15 5C15 6.65685 16.3431 8 18 8Z"
+                                    stroke="currentColor" stroke-width="2" />
+                                <path
+                                    d="M6 15C7.65685 15 9 13.6569 9 12C9 10.3431 7.65685 9 6 9C4.34315 9 3 10.3431 3 12C3 13.6569 4.34315 15 6 15Z"
+                                    stroke="currentColor" stroke-width="2" />
+                                <path
+                                    d="M18 22C19.6569 22 21 20.6569 21 19C21 17.3431 19.6569 16 18 16C16.3431 16 15 17.3431 15 19C15 20.6569 16.3431 22 18 22Z"
+                                    stroke="currentColor" stroke-width="2" />
+                                <path d="M8.59 13.51L15.42 17.49M15.41 6.51L8.59 10.49" stroke="currentColor"
+                                    stroke-width="2" />
+                            </svg>
+                            Share Results
+                        </button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <p>© 2026 PLAUGE. Built with ❤️ using Python, NLTK, and Scikit-learn</p>
+            <div class="footer-links">
+                <a href="javascript:void(0)" class="footer-link">Documentation</a>
+                <a href="javascript:void(0)" class="footer-link">GitHub</a>
+                <a href="javascript:void(0)" class="footer-link">Support</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- About Modal -->
+    <div class="modal hidden" id="about-modal">
+        <div class="modal-overlay" id="modal-overlay"></div>
+        <div class="modal-content glass-card">
+            <div class="modal-header">
+                <h2 class="modal-title">About PLAUGE</h2>
+                <button class="modal-close" id="close-modal">
+                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>How It Works</h3>
+                <ol class="modal-list">
+                    <li><strong>Text Preprocessing:</strong> Lowercase conversion, punctuation removal, tokenization,
+                        stopword removal, and lemmatization</li>
+                    <li><strong>Feature Extraction:</strong> TF-IDF vectorization with n-gram support (unigrams +
+                        bigrams), max 5000 features</li>
+                    <li><strong>Similarity Calculation:</strong> Cosine similarity between document vectors</li>
+                    <li><strong>Classification:</strong> Results categorized into High (≥80%), Medium (50-79%), or Low (
+                        <50%) plagiarism risk</li>
+                </ol>
+
+                <h3>Corpus Statistics</h3>
+                <p>Our system compares your document against a comprehensive corpus of 603 academic papers from:</p>
+                <ul class="modal-list">
+                    <li>📚 arXiv - Open-access preprints</li>
+                    <li>📖 Semantic Scholar - AI-curated database</li>
+                    <li>🔗 CrossRef - Published research with DOIs</li>
+                    <li>🌐 OpenAlex - Open academic catalog</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Statistics Modal -->
+    <div class="modal hidden" id="stats-modal">
+        <div class="modal-overlay" id="stats-modal-overlay"></div>
+        <div class="modal-content glass-card">
+            <div class="modal-header">
+                <h2 class="modal-title">Corpus Statistics</h2>
+                <button class="modal-close" id="close-stats-modal">
+                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-value">65</div>
+                        <div class="stat-label">Machine Learning</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">43</div>
+                        <div class="stat-label">Deep Learning</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">34</div>
+                        <div class="stat-label">Plagiarism Detection</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">41</div>
+                        <div class="stat-label">Text Similarity</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">39</div>
+                        <div class="stat-label">Transformers</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">29</div>
+                        <div class="stat-label">NLP</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- History Modal -->
+    <div class="modal hidden" id="history-modal">
+        <div class="modal-overlay" id="history-modal-overlay"></div>
+        <div class="modal-content glass-card">
+            <div class="modal-header">
+                <h2 class="modal-title">Analysis History</h2>
+                <div class="header-actions">
+                    <button class="icon-btn" id="clear-history-btn" title="Clear History"
+                        style="width: 30px; height: 30px; margin-right: 10px;">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round" style="width: 16px; height: 16px;">
+                            <polyline points="3 6 5 6 21 6"></polyline>
+                            <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2">
+                            </path>
+                        </svg>
+                    </button>
+                    <button class="modal-close" id="close-history-modal">
+                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M18 6L6 18M6 6L18 18" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="history-list" class="history-list">
+                    <!-- History items will be populated here -->
+                    <p class="no-history">No history available yet.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="jspdf.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
