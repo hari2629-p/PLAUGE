@@ -1,5 +1,158 @@
 [
   {
+    "fileName": "openalex_0444_artificial_intelligence_in_healthcare_p.txt",
+    "overallScore": 100,
+    "aiScore": 25,
+    "topMatch": "Openalex 0444 Artificial Intelligence In Healthcare P",
+    "matchesCount": 611,
+    "id": "1770024894930",
+    "timestamp": "2026-02-02 15:04:54"
+  },
+  {
+    "fileName": "RegisteredStudentBillReport (Generated on 09_10_2025 07_31 AM).pdf",
+    "overallScore": 7,
+    "aiScore": 25,
+    "topMatch": "Openalex 0507 Computer Vision Algorithms And Applicat",
+    "matchesCount": 606,
+    "id": "1770024775343",
+    "timestamp": "2026-02-02 15:02:55"
+  },
+  {
+    "fileName": "openalex_0443_artificial_intelligence_a_modern_approa.txt",
+    "overallScore": 100,
+    "aiScore": 25,
+    "topMatch": "Openalex 0443 Artificial Intelligence A Modern Approa",
+    "matchesCount": 606,
+    "id": "1770024618455",
+    "timestamp": "2026-02-02 15:00:18"
+  },
+  {
+    "fileName": "11.pdf",
+    "overallScore": 18,
+    "aiScore": 40,
+    "topMatch": "Arxiv 0188 Plagiarism Detection Using Machine Learn",
+    "matchesCount": 609,
+    "id": "1770024573896",
+    "timestamp": "2026-02-02 14:59:33"
+  },
+  {
+    "fileName": "COA-Mod-1 -Ktunotes.in.pdf",
+    "overallScore": 22,
+    "aiScore": 20,
+    "topMatch": "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing",
+    "matchesCount": 609,
+    "id": "1770021737872",
+    "timestamp": "2026-02-02 14:12:17"
+  },
+  {
+    "fileName": "Responses - HACK 404 _ REGISTRATION.pdf",
+    "overallScore": 8,
+    "aiScore": 45,
+    "topMatch": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+    "matchesCount": 606,
+    "id": "1770021656469",
+    "timestamp": "2026-02-02 14:10:56"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770021626093",
+    "timestamp": "2026-02-02 14:10:26"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770021532422",
+    "timestamp": "2026-02-02 14:08:52"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770021237253",
+    "timestamp": "2026-02-02 14:03:57"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770020996087",
+    "timestamp": "2026-02-02 13:59:56"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770020636245",
+    "timestamp": "2026-02-02 13:53:56"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770020607053",
+    "timestamp": "2026-02-02 13:53:27"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770020350595",
+    "timestamp": "2026-02-02 13:49:10"
+  },
+  {
+    "fileName": "test.txt",
+    "overallScore": 22,
+    "aiScore": 40,
+    "topMatch": "Arxiv 0420 Watershed Of Artificial Intelligence Hu",
+    "matchesCount": 611,
+    "id": "1770020288257",
+    "timestamp": "2026-02-02 13:48:08"
+  },
+  {
+    "fileName": "arxiv_0423_linking_artificial_intelligence_principl.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Arxiv 0423 Linking Artificial Intelligence Principl",
+    "matchesCount": 610,
+    "id": "1770020000446",
+    "timestamp": "2026-02-02 13:43:20"
+  },
+  {
+    "fileName": "FELICATION\u201925.pdf",
+    "overallScore": 11,
+    "aiScore": 25,
+    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
+    "matchesCount": 603,
+    "id": "1770019907749",
+    "timestamp": "2026-02-02 13:41:47"
+  },
+  {
+    "fileName": "PUBLIC SPEAKING WORKSHOP.pdf",
+    "overallScore": 13,
+    "aiScore": 30,
+    "topMatch": "Arxiv 0145 Teaching Nlp With Bracelets And Restaura",
+    "matchesCount": 611,
+    "id": "1770019881116",
+    "timestamp": "2026-02-02 13:41:21"
+  },
+  {
     "fileName": "SG2500402027_Acknowledgement_202512110853.pdf",
     "overallScore": 10,
     "aiScore": 25,

@@ -7,9 +7,10 @@ class PlagiarismDetector {
     constructor() {
         this.currentFile = null;
         this.analysisResults = null;
-        // Determine API URL based on where the frontend is loaded from
-        const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-        this.apiBaseUrl = isLocalhost ? '' : 'http://localhost:5000';
+        // Always use the backend port 5000 for API calls to avoid ambiguity
+        this.apiBaseUrl = 'http://localhost:5000';
+
+        console.log(`🔌 PLAUGE API Endpoint: ${this.apiBaseUrl}/api/analyze`);
         this.init();
     }
 
@@ -98,8 +99,6 @@ class PlagiarismDetector {
                     }
                 }
             });
-        } else {
-            console.error('Get Started button not found!');
         }
 
         // Setup modallisteners
@@ -267,34 +266,46 @@ class PlagiarismDetector {
         this.resetProgress();
 
         try {
-            // Show progress animation
-            this.simulateAnalysisProgress();
+            console.log('🚀 Starting analysis for:', this.currentFile.name);
 
             // Prepare form data
             const formData = new FormData();
             formData.append('document', this.currentFile);
 
-            // Call backend API (Robust URL handling)
-            const response = await fetch(`${this.apiBaseUrl}/api/analyze`, {
+            // Create promises for both Animation and API Call
+            // This ensures we wait for the animation to finish (UX) AND the data to load
+
+            const animationPromise = this.simulateAnalysisProgress();
+
+            // Generate a cache-buster to force it to show up as a fresh request in Network tab
+            const cacheBuster = `?t=${Date.now()}`;
+            const targetUrl = `http://localhost:5000/api/analyze${cacheBuster}`;
+
+            console.log(`📡 Sending XHR to: ${targetUrl}`);
+
+            const apiPromise = fetch(targetUrl, {
                 method: 'POST',
-                body: formData
+                body: formData,
+                cache: 'no-cache' // Explicitly tell browser not to cache
+            }).then(async response => {
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.error || 'Analysis failed');
+                }
+                return response.json();
             });
 
-            if (!response.ok) {
-                const error = await response.json();
-                throw new Error(error.error || 'Analysis failed');
-            }
+            // Wait for BOTH to complete
+            const [_, results] = await Promise.all([animationPromise, apiPromise]);
 
-            // Get real results
-            this.analysisResults = await response.json();
+            console.log('✅ Analysis complete. Results:', results);
+            this.analysisResults = results;
 
             // Show results
-            setTimeout(() => {
-                this.showResults();
-            }, 500);
+            this.showResults();
 
         } catch (error) {
-            console.error('Analysis error:', error);
+            console.error('❌ Analysis error:', error);
             alert('Error analyzing document: ' + error.message + '\n\nMake sure the backend server is running:\n  cd backend/api\n  python app.py');
             this.resetToUpload();
         }
@@ -302,11 +313,12 @@ class PlagiarismDetector {
 
     async simulateAnalysisProgress() {
         // Show progress animation for Unified Analysis
+        // Adjusted timing to ensure it feels responsive but substantial
         const steps = [
-            { step: 1, text: 'Auto-detecting keywords & searching web...', progress: 30, duration: 2500 },
-            { step: 2, text: 'Scanning local corpus (600+ docs)...', progress: 50, duration: 1000 },
-            { step: 3, text: 'Analyzing AI patterns & Similarity...', progress: 75, duration: 1500 },
-            { step: 4, text: 'Compiling unified report...', progress: 100, duration: 800 }
+            { step: 1, text: 'Auto-detecting keywords & searching web...', progress: 30, duration: 2000 },
+            { step: 2, text: 'Scanning local corpus (600+ docs)...', progress: 50, duration: 1500 },
+            { step: 3, text: 'Analyzing AI patterns & Similarity...', progress: 80, duration: 2000 },
+            { step: 4, text: 'Compiling unified report...', progress: 100, duration: 1000 }
         ];
 
         for (const stepData of steps) {

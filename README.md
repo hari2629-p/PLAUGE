@@ -209,11 +209,11 @@ numpy>=1.24
 
 ## 🔮 Future Enhancements
 
-- [x] Web interface (frontend/) ✨ **COMPLETE!**
-- [ ] REST API (backend/api/)
-- [ ] Real-time document monitoring
-- [ ] PDF/DOCX support
-- [ ] Citation detection
+- [x] Web interface (frontend/)- [x] **Unified Detection Engine** (AI + Plagiarism)
+- [x] **Web Search Integration** (arXiv, Wikipedia, etc.)
+- [x] **REST API Architecture** (Flask Backend)
+- [x] **PDF & DOCX Support**
+- [x] **Interactive UI** (Arsenal Edition)
 - [ ] Paraphrase detection with BERT
 - [ ] Report generation (PDF)
 

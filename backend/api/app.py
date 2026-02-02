@@ -174,6 +174,9 @@ def analyze_document():
     - Runs AI content detection
     - Returns combined results
     """
+    print("\n" + "!"*50)
+    print("🔥 API REQUEST RECEIVED: /api/analyze")
+    print("!"*50 + "\n")
     start_time = time.time()
     
     # Check for uploaded file
@@ -189,14 +192,17 @@ def analyze_document():
         print(f"📄 Processing file: {file.filename}")
         submitted_text = extract_text_from_file(file)
         
-        if not submitted_text or len(submitted_text.strip()) < 50:
-            return jsonify({'error': 'Document is too short or empty'}), 400
-        
-        print(f"   ✓ Extracted {len(submitted_text)} characters")
+        extracted_len = len(submitted_text.strip()) if submitted_text else 0
+        print(f"   ✓ Extracted {extracted_len} characters")
+
+        if not submitted_text or extracted_len < 10:
+            print("   ❌ Error: Document text is empty or too short.")
+            return jsonify({'error': 'Document is empty or contains no selectable text (scanned PDFs not supported).'}), 400
         
         # 1. Load local corpus
         print("📚 Loading corpus...")
         corpus_docs, corpus_names = load_corpus()
+
         print(f"   ✓ Loaded {len(corpus_docs)} corpus documents")
         
         # 2. Initialize web search and get web documents
