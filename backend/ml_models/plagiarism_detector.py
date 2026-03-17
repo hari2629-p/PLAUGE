@@ -10,7 +10,7 @@ import numpy as np
 
 
 def download_nltk_resources():
-    resources = ['punkt', 'stopwords', 'wordnet', 'punkt_tab']
+    resources = ['punkt', 'stopwords', 'wordnet', 'punkt_tab', 'averaged_perceptron_tagger', 'averaged_perceptron_tagger_eng']
     for resource in resources:
         try:
             nltk.download(resource, quiet=True)
@@ -110,11 +110,14 @@ class PlagiarismDetector:
         self.preprocessed_docs = []
         self.similarity_matrix = None
     
-    def add_documents(self, documents):
+    def add_documents(self, documents, preprocessed_docs=None):
         self.documents = documents
-        self.preprocessed_docs = [
-            self.preprocessor.preprocess(doc) for doc in documents
-        ]
+        if preprocessed_docs is not None:
+            self.preprocessed_docs = preprocessed_docs
+        else:
+            self.preprocessed_docs = [
+                self.preprocessor.preprocess(doc) for doc in documents
+            ]
     
     def analyze(self):
         if len(self.preprocessed_docs) < 2:

@@ -158,52 +158,109 @@ class SemanticScholarSearcher:
 
 class AIContentScanner:
     """
-    Basic heuristic-based AI content detection.
-    Real AI detection requires large transformers (like RoBERTa), 
-    but we can check for common statistical patterns:
-    - Low perplexity (simulated by repetitive structure)
-    - Very uniform sentence lengths
-    - Lack of 'burstiness' (variation in vocabulary)
+    Advanced heuristic-based AI content detection using NLP & NLTK.
+    Analyzes sentence structure variance, vocabulary richness, POS distribution,
+    and readability formulas.
     """
     
     @staticmethod
+    def _count_syllables(word):
+        word = word.lower()
+        if len(word) <= 3:
+            return 1
+        count = 0
+        vowels = "aeiouy"
+        if word[0] in vowels:
+            count += 1
+        for index in range(1, len(word)):
+            if word[index] in vowels and word[index - 1] not in vowels:
+                count += 1
+        if word.endswith("e"):
+            count -= 1
+        if count == 0:
+            count += 1
+        return count
+
+    @staticmethod
     def analyze(text: str) -> Dict:
+        import nltk
         sentences = re.split(r'[.!?]+', text)
         sentences = [s.strip() for s in sentences if len(s.strip()) > 10]
         
         if not sentences:
             return {'score': 0, 'confidence': 'Low', 'reason': 'Text too short'}
             
-        # Feature 1: Sentence Length Variance (AI tends to be more uniform)
+        words = text.lower().split()
+        if len(words) < 20:
+             return {'score': 5, 'level': 'Low', 'details': {'reason': 'Text too short for accurate AI mapping'}}
+             
+        # Feature 1: Sentence Length Variance (AI tends to be highly uniform)
         lengths = [len(s.split()) for s in sentences]
         avg_len = sum(lengths) / len(lengths)
         variance = sum((l - avg_len) ** 2 for l in lengths) / len(lengths)
         std_dev = variance ** 0.5
         
         # Feature 2: Vocabulary Richness (Type-Token Ratio)
-        words = text.lower().split()
         unique_words = set(words)
         ttr = len(unique_words) / len(words) if words else 0
         
-        # Heuristic scoring (Simplified)
+        # Feature 3: Readability Score (Flesch Reading Ease)
+        syllables = sum(AIContentScanner._count_syllables(w) for w in words)
+        asw = syllables / len(words)
+        fre = 206.835 - (1.015 * avg_len) - (84.6 * asw)
+        
+        # Feature 4: Part of Speech Distribution (NLTK)
+        adj_density = 0
+        adv_density = 0
+        try:
+            tokens = nltk.word_tokenize(text)
+            tagged = nltk.pos_tag(tokens)
+            counts = Counter(tag for word, tag in tagged)
+            adjectives = sum(counts[tag] for tag in counts if tag.startswith('JJ'))
+            adverbs = sum(counts[tag] for tag in counts if tag.startswith('RB'))
+            adj_density = adjectives / len(tokens) if tokens else 0
+            adv_density = adverbs / len(tokens) if tokens else 0
+        except Exception as e:
+            print(f"NLTK POS Tagging error (acceptable in some envs): {e}")
+        
+        # -------- Scoring --------
         ai_score = 0
         
-        # Low variance in sentence length -> Possible AI
-        if std_dev < 5: ai_score += 30
-        elif std_dev < 8: ai_score += 15
+        # AI often has standard deviation of sentence lengths rigidly between 4 and 10
+        if std_dev < 6: ai_score += 35
+        elif std_dev < 10: ai_score += 25
+        elif std_dev < 14: ai_score += 10
         
-        # "Perfect" grammar structure often leads to mid-range TTR
-        if 0.4 < ttr < 0.6: ai_score += 20
+        # AI models typically fall in the "perfect college level" reading zone (30-50)
+        if 25 < fre < 55: ai_score += 15
+        elif 55 <= fre < 70: ai_score += 10
         
-        # Check for common AI phrases (very basic)
-        ai_phrases = ["it is important to note", "in conclusion", "furthermore", "moreover", "as an ai language model"]
+        # Overly dense with adjectives/adverbs (fluff words frequently used by LLMs)
+        if adj_density > 0.08: ai_score += 10
+        if adv_density > 0.06: ai_score += 5
+        
+        # Expanded vocabulary range common in generic AI outputs
+        if 0.35 < ttr < 0.65: ai_score += 10
+        
+        # Common AI structural phrases and transitional vocabulary
+        ai_phrases = [
+            "it is important to note", "in conclusion", "furthermore", "moreover", 
+            "as an ai language model", "delve into", "a testament to", "in summary", 
+            "ultimately", "to summarize", "it's worth noting", "shed light on", 
+            "rapidly evolving", "landscape of", "intricate", "paramount", "pivotal", 
+            "seamlessly", "undoubtedly", "multifaceted", "unprecedented", "crucial role",
+            "it is crucial", "plays a crucial role", "aligns with", "navigate the complexities",
+            "fosters", "dynamic", "notably", "comprehensive", "robust"
+        ]
+        
         count_phrases = sum(1 for p in ai_phrases if p in text.lower())
-        ai_score += min(count_phrases * 10, 30)
+        ai_score += min(count_phrases * 12, 45) # Heavy weight on these specific structural ticks
         
-        # Cap at 95%
-        ai_score = min(ai_score + 10, 95) # Base probability
+        # Base probability addition
+        base = 25 if len(words) > 100 else 10
+        ai_score = min(ai_score + base, 98) 
         
-        level = "High" if ai_score > 70 else "Medium" if ai_score > 40 else "Low"
+        level = "High" if ai_score >= 70 else "Medium" if ai_score >= 40 else "Low"
         
         return {
             'score': int(ai_score),
@@ -211,7 +268,9 @@ class AIContentScanner:
             'details': {
                 'avg_sentence_len': round(avg_len, 1),
                 'vocabulary_richness': round(ttr, 2),
-                'std_dev': round(std_dev, 1)
+                'sentence_variance': round(std_dev, 1),
+                'readability_score': round(fre, 1),
+                'adjective_density': round(adj_density, 3)
             }
         }
 

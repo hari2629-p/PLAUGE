@@ -22,7 +22,7 @@ from backend.ml_models.plagiarism_detector import PlagiarismDetector, download_n
 from backend.api.web_search import WebSearchManager, AIContentScanner
 
 # Initialize Flask to serve frontend
-app = Flask(__name__, static_folder='../../frontend', static_url_path='')
+app = Flask(__name__, static_folder='../../frontend1/dist', static_url_path='')
 CORS(app)
 
 # Corpus path
@@ -58,6 +58,24 @@ def load_corpus():
                         print(f"Error loading {filepath}: {e}")
     
     return documents, names
+
+
+# Cache variables
+_CACHED_CORPUS_DOCS = None
+_CACHED_CORPUS_NAMES = None
+_CACHED_PREPROCESSED_CORPUS = None
+
+def get_cached_corpus():
+    global _CACHED_CORPUS_DOCS, _CACHED_CORPUS_NAMES, _CACHED_PREPROCESSED_CORPUS
+    if _CACHED_CORPUS_DOCS is None:
+        print("📚 Loading and preprocessing corpus for the first time... This may take a minute.")
+        _CACHED_CORPUS_DOCS, _CACHED_CORPUS_NAMES = load_corpus()
+        preprocessor = PlagiarismDetector().preprocessor
+        _CACHED_PREPROCESSED_CORPUS = [
+            preprocessor.preprocess(doc) for doc in _CACHED_CORPUS_DOCS
+        ]
+        print("✓ Corpus preprocessing complete.")
+    return _CACHED_CORPUS_DOCS, _CACHED_CORPUS_NAMES, _CACHED_PREPROCESSED_CORPUS
 
 
 def extract_text_from_file(file):
@@ -201,7 +219,7 @@ def analyze_document():
         
         # 1. Load local corpus
         print("📚 Loading corpus...")
-        corpus_docs, corpus_names = load_corpus()
+        corpus_docs, corpus_names, preprocessed_corpus = get_cached_corpus()
 
         print(f"   ✓ Loaded {len(corpus_docs)} corpus documents")
         
@@ -233,7 +251,15 @@ def analyze_document():
         # 5. Run plagiarism detection
         print("🔍 Running plagiarism analysis...")
         detector = PlagiarismDetector(max_features=5000)
-        detector.add_documents(all_docs)
+        
+        # Preprocess submitted and web docs
+        docs_to_preprocess = [submitted_text] + web_docs
+        preprocessed_new = [detector.preprocessor.preprocess(doc) for doc in docs_to_preprocess]
+        
+        # Combine all preprocessed docs (submitted, corpus..., web...)
+        all_preprocessed = [preprocessed_new[0]] + preprocessed_corpus + preprocessed_new[1:]
+        
+        detector.add_documents(all_docs, preprocessed_docs=all_preprocessed)
         results = detector.analyze()
         
         # 6. Calculate results (compare submitted doc against all others)
@@ -345,7 +371,7 @@ def get_best_matching_snippet(source_text, target_text):
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """Health check endpoint"""
-    corpus_docs, _ = load_corpus()
+    corpus_docs, _, _ = get_cached_corpus()
     return jsonify({
         'status': 'healthy',
         'corpus_size': len(corpus_docs),
@@ -363,7 +389,7 @@ if __name__ == '__main__':
     download_nltk_resources()
     
     # Check corpus
-    corpus_docs, corpus_names = load_corpus()
+    corpus_docs, _, _ = get_cached_corpus()
     print(f"\n📚 Loaded {len(corpus_docs)} documents from corpus")
     
     print("\n✅ Server ready!")

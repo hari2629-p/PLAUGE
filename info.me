@@ -1,0 +1,51 @@
+# PLAUGE Project Updates & Features
+
+## 🌟 Overview
+PLAUGE is a comprehensive Plagiarism and AI Detection system. The recent updates have significantly enhanced its accuracy, speed, and overall capabilities by incorporating an AI Content Scanner, direct web search integrations, a unified React frontend, and a highly optimized backend caching strategy.
+
+## ✨ Key Features & Capabilities
+1. **Unified Analysis Engine (Backend)**
+   - Location: `backend/api/app.py`, `backend/ml_models/plagiarism_detector.py`
+   - Ability to cross-reference submitted documents against a pre-loaded local corpus of over 600 documents instantly.
+   - **Performance Upgrade:** Implemented global caching of preprocessed corpus documents to drastically reduce analysis time from minutes to milliseconds, preventing application freezes.
+2. **AI Content Detection (Backend)**
+   - Location: `backend/api/web_search.py` (Class `AIContentScanner`)
+   - Analyzes text for AI-generated patterns using advanced NLP heuristics.
+   - **Metrics Analyzed:**
+     - Sentence length variance (Standard Deviation).
+     - Vocabulary richness / Type-Token Ratio (TTR).
+     - Flesch Reading Ease (Syllable and word count analysis).
+     - Part of Speech (POS) Distribution, specifically tracking adjective and adverb density common in LLM outputs.
+     - Keyword and structural phrase matching ("furthermore", "delve into", "as an AI").
+3. **Live Web Search Integration (Backend)**
+   - Location: `backend/api/web_search.py` (Class `WebSearchManager`)
+   - Uses RAKE-NLTK to automatically extract keywords from the submitted document.
+   - Queries multiple live sources to fetch potential source materials for comparison:
+     - **Wikipedia** (General knowledge)
+     - **arXiv** (Preprints)
+     - **Semantic Scholar** (Academic Papers)
+     - **OpenAlex** (Global Research Database)
+4. **Modern React Frontend**
+   - Location: `frontend1/src/`
+   - Built with Vite, React, TypeScript, and Shadcn UI.
+   - Features include animated splash screens (`SplashScreen.tsx`), floating glass design elements (`FloatingGlassElements.tsx`), a comprehensive results dashboard (`ResultsSection.tsx`), and full document history tracking (`HistoryModal.tsx`).
+
+## 📊 Metrics & Algorithms
+- **Plagiarism Detection Matrix:** Uses Term Frequency-Inverse Document Frequency (`TfidfVectorizer` capped at 5000 features, 1-2 n-grams) combined with Cosine Similarity to compare documents.
+- **AI Scoring Matrix:** Aggregates scores based on sentence variance mapping (rigid vs human), readability index target zones, and structural tick occurrences to output a 0-100% confidence level.
+
+## 🛠 Tech Stack
+### Backend
+- **Python 3.x**
+- **Flask & Flask-CORS:** Serving the API.
+- **NLTK (Natural Language Toolkit):** Tokenization, lemmatization, stop words, and POS tagging.
+- **scikit-learn:** TF-IDF vectorization and cosine distance calculations.
+- **PyPDF2 & python-docx:** Document text extraction.
+- **rake-nltk:** Automated search query generation.
+
+### Frontend
+- **React 18 & Vite**
+- **TypeScript**
+- **Tailwind CSS & Shadcn UI:** For styling and UI components.
+- **Framer Motion:** High-performance animations and transitions.
+- **Recharts:** Data visualization for analysis results.

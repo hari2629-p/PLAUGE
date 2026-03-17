@@ -1,164 +1,452 @@
 [
   {
-    "fileName": "openalex_0444_artificial_intelligence_in_healthcare_p.txt",
-    "overallScore": 100,
-    "aiScore": 25,
-    "topMatch": "Openalex 0444 Artificial Intelligence In Healthcare P",
+    "fileName": "Problem Statement Develop a multi-agent research intelligence system that can autonomously discover, analyze, and connect research knowledge while identifying future opportunities. (2).pdf",
+    "overallScore": 17,
+    "aiScore": 50,
+    "topMatch": "Crossref 0337 Ai Resilience And Information Retrieval",
+    "matchesCount": 606,
+    "id": "1773681669217",
+    "timestamp": "2026-03-16 22:51:09"
+  },
+  {
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
+    "matchesCount": 606,
+    "id": "1773393798588",
+    "timestamp": "2026-03-13 14:53:18"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773393646050",
+    "timestamp": "2026-03-13 14:50:46"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773393207447",
+    "timestamp": "2026-03-13 14:43:27"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 15,
+    "aiScore": 70,
+    "topMatch": "Arxiv 0354 Tilfa A Unified Framework For Text Ima",
+    "matchesCount": 605,
+    "id": "1773392644538",
+    "timestamp": "2026-03-13 14:34:04"
+  },
+  {
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
+    "matchesCount": 603,
+    "id": "1773392613436",
+    "timestamp": "2026-03-13 14:33:33"
+  },
+  {
+    "fileName": "Chairperson applications.pdf",
+    "overallScore": 16,
+    "aiScore": 60,
+    "topMatch": "Arxiv 0414 Compression The Fermi Paradox And Artif",
+    "matchesCount": 606,
+    "id": "1773392209488",
+    "timestamp": "2026-03-13 14:26:49"
+  },
+  {
+    "fileName": "list of applicants in ieee.txt",
+    "overallScore": 17,
+    "aiScore": 85,
+    "topMatch": "How to optimize an academic team when the outlier member is leaving?",
+    "matchesCount": 606,
+    "id": "1773391695259",
+    "timestamp": "2026-03-13 14:18:15"
+  },
+  {
+    "fileName": "EJ1465723.pdf",
+    "overallScore": 15,
+    "aiScore": 85,
+    "topMatch": "Crossref 0246 E-Learning Automated Essay Scoring Syste",
+    "matchesCount": 606,
+    "id": "1773379372453",
+    "timestamp": "2026-03-13 10:52:52"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773379260279",
+    "timestamp": "2026-03-13 10:51:00"
+  },
+  {
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
+    "matchesCount": 606,
+    "id": "1773379135500",
+    "timestamp": "2026-03-13 10:48:55"
+  },
+  {
+    "fileName": "budget_fy2025.pdf",
+    "overallScore": 13,
+    "aiScore": 85,
+    "topMatch": "Crossref 0281 Informing Interlibrary Networking And Do",
     "matchesCount": 611,
-    "id": "1770024894930",
-    "timestamp": "2026-02-02 15:04:54"
+    "id": "1773379130548",
+    "timestamp": "2026-03-13 10:48:50"
   },
   {
-    "fileName": "RegisteredStudentBillReport (Generated on 09_10_2025 07_31 AM).pdf",
-    "overallScore": 7,
-    "aiScore": 25,
-    "topMatch": "Openalex 0507 Computer Vision Algorithms And Applicat",
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
     "matchesCount": 606,
-    "id": "1770024775343",
-    "timestamp": "2026-02-02 15:02:55"
+    "id": "1773378855975",
+    "timestamp": "2026-03-13 10:44:15"
   },
   {
-    "fileName": "openalex_0443_artificial_intelligence_a_modern_approa.txt",
-    "overallScore": 100,
-    "aiScore": 25,
-    "topMatch": "Openalex 0443 Artificial Intelligence A Modern Approa",
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
     "matchesCount": 606,
-    "id": "1770024618455",
-    "timestamp": "2026-02-02 15:00:18"
+    "id": "1773378659917",
+    "timestamp": "2026-03-13 10:40:59"
   },
   {
-    "fileName": "11.pdf",
-    "overallScore": 18,
-    "aiScore": 40,
-    "topMatch": "Arxiv 0188 Plagiarism Detection Using Machine Learn",
-    "matchesCount": 609,
-    "id": "1770024573896",
-    "timestamp": "2026-02-02 14:59:33"
+    "fileName": "budget_fy2025.pdf",
+    "overallScore": 13,
+    "aiScore": 85,
+    "topMatch": "Crossref 0281 Informing Interlibrary Networking And Do",
+    "matchesCount": 611,
+    "id": "1773378466458",
+    "timestamp": "2026-03-13 10:37:46"
   },
   {
-    "fileName": "COA-Mod-1 -Ktunotes.in.pdf",
-    "overallScore": 22,
-    "aiScore": 20,
-    "topMatch": "LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing",
-    "matchesCount": 609,
-    "id": "1770021737872",
-    "timestamp": "2026-02-02 14:12:17"
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773339280422",
+    "timestamp": "2026-03-12 23:44:40"
   },
   {
-    "fileName": "Responses - HACK 404 _ REGISTRATION.pdf",
-    "overallScore": 8,
-    "aiScore": 45,
-    "topMatch": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773338875534",
+    "timestamp": "2026-03-12 23:37:55"
+  },
+  {
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
     "matchesCount": 606,
-    "id": "1770021656469",
-    "timestamp": "2026-02-02 14:10:56"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770021626093",
-    "timestamp": "2026-02-02 14:10:26"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770021532422",
-    "timestamp": "2026-02-02 14:08:52"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770021237253",
-    "timestamp": "2026-02-02 14:03:57"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770020996087",
-    "timestamp": "2026-02-02 13:59:56"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770020636245",
-    "timestamp": "2026-02-02 13:53:56"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770020607053",
-    "timestamp": "2026-02-02 13:53:27"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770020350595",
-    "timestamp": "2026-02-02 13:49:10"
+    "id": "1773338796516",
+    "timestamp": "2026-03-12 23:36:36"
   },
   {
     "fileName": "test.txt",
-    "overallScore": 22,
-    "aiScore": 40,
-    "topMatch": "Arxiv 0420 Watershed Of Artificial Intelligence Hu",
-    "matchesCount": 611,
-    "id": "1770020288257",
-    "timestamp": "2026-02-02 13:48:08"
+    "overallScore": 42,
+    "aiScore": 45,
+    "topMatch": "Openalex 0124 All-Optical Machine Learning Using Diffr",
+    "matchesCount": 608,
+    "id": "1773338654837",
+    "timestamp": "2026-03-12 23:34:14"
   },
   {
-    "fileName": "arxiv_0423_linking_artificial_intelligence_principl.txt",
+    "fileName": "Laptop Buying Guide 2025-26.pdf",
+    "overallScore": 6,
+    "aiScore": 55,
+    "topMatch": "Openalex 0571 Training Tips For The Transformer Model",
+    "matchesCount": 606,
+    "id": "1773338504530",
+    "timestamp": "2026-03-12 23:31:44"
+  },
+  {
+    "fileName": "EJ1465723.pdf",
+    "overallScore": 15,
+    "aiScore": 85,
+    "topMatch": "Crossref 0246 E-Learning Automated Essay Scoring Syste",
+    "matchesCount": 606,
+    "id": "1773338324084",
+    "timestamp": "2026-03-12 23:28:44"
+  },
+  {
+    "fileName": "notes for machine learning.pdf",
+    "overallScore": 18,
+    "aiScore": 76,
+    "topMatch": "Arxiv 0012 Learning Representations From Dendrogram",
+    "matchesCount": 609,
+    "id": "1773338220786",
+    "timestamp": "2026-03-12 23:27:00"
+  },
+  {
+    "fileName": "EJ1172284.pdf",
+    "overallScore": 27,
+    "aiScore": 85,
+    "topMatch": "Openalex 0176 Voice Controlled Home Automation System ",
+    "matchesCount": 605,
+    "id": "1773338170125",
+    "timestamp": "2026-03-12 23:26:10"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773337978762",
+    "timestamp": "2026-03-12 23:22:58"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773337660075",
+    "timestamp": "2026-03-12 23:17:40"
+  },
+  {
+    "fileName": "FIR certificate.pdf",
+    "overallScore": 5,
+    "aiScore": 45,
+    "topMatch": "Crossref 0241 Understanding And Using Common Similarit",
+    "matchesCount": 603,
+    "id": "1773337604383",
+    "timestamp": "2026-03-12 23:16:44"
+  },
+  {
+    "fileName": "FIR certificate.pdf",
+    "overallScore": 5,
+    "aiScore": 45,
+    "topMatch": "Crossref 0241 Understanding And Using Common Similarit",
+    "matchesCount": 603,
+    "id": "1773337328579",
+    "timestamp": "2026-03-12 23:12:08"
+  },
+  {
+    "fileName": "EJ1172284.pdf",
+    "overallScore": 27,
+    "aiScore": 85,
+    "topMatch": "Openalex 0176 Voice Controlled Home Automation System ",
+    "matchesCount": 605,
+    "id": "1773337191025",
+    "timestamp": "2026-03-12 23:09:51"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 70,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773337111053",
+    "timestamp": "2026-03-12 23:08:31"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 20,
+    "aiScore": 55,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 608,
+    "id": "1773336713677",
+    "timestamp": "2026-03-12 23:01:53"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines.pdf",
+    "overallScore": 17,
+    "aiScore": 40,
+    "topMatch": "Summary of the ACAT Round Table Discussion: Open-source, knowledge sharing and scientific collaboration",
+    "matchesCount": 607,
+    "id": "1773336462489",
+    "timestamp": "2026-03-12 22:57:42"
+  },
+  {
+    "fileName": "IEEE_Round_Table_Marking_Guidelines_v2.pdf",
+    "overallScore": 15,
+    "aiScore": 40,
+    "topMatch": "Arxiv 0354 Tilfa A Unified Framework For Text Ima",
+    "matchesCount": 605,
+    "id": "1773336212858",
+    "timestamp": "2026-03-12 22:53:32"
+  },
+  {
+    "fileName": "EJ1172284.pdf",
+    "overallScore": 27,
+    "aiScore": 30,
+    "topMatch": "Openalex 0176 Voice Controlled Home Automation System ",
+    "matchesCount": 605,
+    "id": "1773336068698",
+    "timestamp": "2026-03-12 22:51:08"
+  },
+  {
+    "fileName": "arxiv_0392_linguistic_markers_of_influence_in_infor.txt",
     "overallScore": 100,
     "aiScore": 10,
-    "topMatch": "Arxiv 0423 Linking Artificial Intelligence Principl",
-    "matchesCount": 610,
-    "id": "1770020000446",
-    "timestamp": "2026-02-02 13:43:20"
-  },
-  {
-    "fileName": "FELICATION\u201925.pdf",
-    "overallScore": 11,
-    "aiScore": 25,
-    "topMatch": "Openalex 0379 The Text Mining Handbook Advanced Appro",
-    "matchesCount": 603,
-    "id": "1770019907749",
-    "timestamp": "2026-02-02 13:41:47"
-  },
-  {
-    "fileName": "PUBLIC SPEAKING WORKSHOP.pdf",
-    "overallScore": 13,
-    "aiScore": 30,
-    "topMatch": "Arxiv 0145 Teaching Nlp With Bracelets And Restaura",
-    "matchesCount": 611,
-    "id": "1770019881116",
-    "timestamp": "2026-02-02 13:41:21"
-  },
-  {
-    "fileName": "SG2500402027_Acknowledgement_202512110853.pdf",
-    "overallScore": 10,
-    "aiScore": 25,
-    "topMatch": "Arxiv 0459 A Survey Study Of Success Factors In Dat",
+    "topMatch": "Arxiv 0392 Linguistic Markers Of Influence In Infor",
     "matchesCount": 606,
-    "id": "1769796784187",
-    "timestamp": "2026-01-30 23:43:04"
+    "id": "1773335967239",
+    "timestamp": "2026-03-12 22:49:27"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773335918287",
+    "timestamp": "2026-03-12 22:48:38"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773193999861",
+    "timestamp": "2026-03-11 07:23:19"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773193541168",
+    "timestamp": "2026-03-11 07:15:41"
+  },
+  {
+    "fileName": "arxiv_0388_statistical_methods_for_linguistic_resea.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Arxiv 0388 Statistical Methods For Linguistic Resea",
+    "matchesCount": 611,
+    "id": "1773193413858",
+    "timestamp": "2026-03-11 07:13:33"
+  },
+  {
+    "fileName": "crossref_0396_computational_linguistics.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Crossref 0396 Computational Linguistics",
+    "matchesCount": 610,
+    "id": "1773192600650",
+    "timestamp": "2026-03-11 07:00:00"
+  },
+  {
+    "fileName": "arxiv_0388_statistical_methods_for_linguistic_resea.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Arxiv 0388 Statistical Methods For Linguistic Resea",
+    "matchesCount": 611,
+    "id": "1773192372077",
+    "timestamp": "2026-03-11 06:56:12"
+  },
+  {
+    "fileName": "arxiv_0388_statistical_methods_for_linguistic_resea.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Arxiv 0388 Statistical Methods For Linguistic Resea",
+    "matchesCount": 603,
+    "id": "1773191550164",
+    "timestamp": "2026-03-11 06:42:30"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773188957850",
+    "timestamp": "2026-03-11 05:59:17"
+  },
+  {
+    "fileName": "crossref_0398_computational_phonology.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0398 Computational Phonology",
+    "matchesCount": 611,
+    "id": "1773188820829",
+    "timestamp": "2026-03-11 05:57:00"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 611,
+    "id": "1773167518860",
+    "timestamp": "2026-03-11 00:01:58"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773167250506",
+    "timestamp": "2026-03-10 23:57:30"
+  },
+  {
+    "fileName": "crossref_0396_computational_linguistics.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Crossref 0396 Computational Linguistics",
+    "matchesCount": 610,
+    "id": "1773167220465",
+    "timestamp": "2026-03-10 23:57:00"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773166978099",
+    "timestamp": "2026-03-10 23:52:58"
+  },
+  {
+    "fileName": "crossref_0396_computational_linguistics.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Crossref 0396 Computational Linguistics",
+    "matchesCount": 610,
+    "id": "1773166808959",
+    "timestamp": "2026-03-10 23:50:08"
+  },
+  {
+    "fileName": "crossref_0397_computational_pragmatics.txt",
+    "overallScore": 100,
+    "aiScore": 30,
+    "topMatch": "Crossref 0397 Computational Pragmatics",
+    "matchesCount": 608,
+    "id": "1773166771063",
+    "timestamp": "2026-03-10 23:49:31"
+  },
+  {
+    "fileName": "crossref_0396_computational_linguistics.txt",
+    "overallScore": 100,
+    "aiScore": 10,
+    "topMatch": "Crossref 0396 Computational Linguistics",
+    "matchesCount": 610,
+    "id": "1773166580464",
+    "timestamp": "2026-03-10 23:46:20"
   }
 ]
